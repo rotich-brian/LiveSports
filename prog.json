@@ -1,0 +1,62 @@
+{
+  "yesterday": [
+    {
+      "homeTeam": "Manchester United",
+      "awayTeam": "Liverpool",
+      "time": "19:45",
+      "eventUrl": "https://example.com/watch/man-utd-liverpool",
+      "commentator": "Martin Tyler",
+      "channel": "Sky Sports",
+      "competition": "Premier League"
+    },
+    {
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Borussia Dortmund",
+      "time": "20:30",
+      "eventUrl": "https://example.com/watch/bayern-dortmund",
+      "commentator": "Tom Weber",
+      "channel": "BT Sport",
+      "competition": "Bundesliga"
+    }
+  ],
+  "today": [
+    {
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Barcelona",
+      "time": "21:00",
+      "eventUrl": "https://example.com/watch/real-madrid-barcelona",
+      "commentator": "Ray Hudson",
+      "channel": "BeIN Sports",
+      "competition": "La Liga"
+    },
+    {
+      "homeTeam": "AC Milan",
+      "awayTeam": "Inter Milan",
+      "time": "20:45",
+      "eventUrl": "https://example.com/watch/milan-derby",
+      "commentator": "Peter Drury",
+      "channel": "ESPN",
+      "competition": "Serie A"
+    }
+  ],
+  "tomorrow": [
+    {
+      "homeTeam": "PSG",
+      "awayTeam": "Marseille",
+      "time": "20:00",
+      "eventUrl": "https://example.com/watch/psg-marseille",
+      "commentator": "Jim Beglin",
+      "channel": "Canal+",
+      "competition": "Ligue 1"
+    },
+    {
+      "homeTeam": "Arsenal",
+      "awayTeam": "Chelsea",
+      "time": "17:30",
+      "eventUrl": "https://example.com/watch/arsenal-chelsea",
+      "commentator": "Gary Neville",
+      "channel": "Sky Sports",
+      "competition": "Premier League"
+    }
+  ]
+}
