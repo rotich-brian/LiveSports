@@ -1,95 +1,6 @@
 {
     "yesterday": [
         {
-            "homeTeam": "Hurac\u00c3\u00a1n",
-            "awayTeam": "Central C\u00c3\u00b3rdoba SdE",
-            "time": "23:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": ""
-        },
-        {
-            "homeTeam": "Vasco da Gama",
-            "awayTeam": "Cuiab\u00c3\u00a1",
-            "time": "23:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/bra/br1.php"
-            ],
-            "eventUrl": ""
-        },
-        {
-            "homeTeam": "NHL: Toronto",
-            "awayTeam": "Seattle",
-            "time": "00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/pt/sporttv3.php"
-            ],
-            "eventUrl": ""
-        },
-        {
-            "homeTeam": "Atl\u00c3\u00a9tico Bucaramanga",
-            "awayTeam": "Deportivo Pasto",
-            "time": "00:30",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd9.php"
-            ],
-            "eventUrl": ""
-        },
-        {
-            "homeTeam": "Corinthians",
-            "awayTeam": "Racing Club",
-            "time": "01:30",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd5.php",
-                "https://v5.sportsonline.si/channels/hd/hd6.php",
-                "https://v5.sportsonline.si/channels/pt/sporttv1.php",
-                "https://v5.sportsonline.si/channels/bra/br2.php"
-            ],
-            "eventUrl": ""
-        },
-        {
-            "homeTeam": "Sport Recife",
-            "awayTeam": "Guarani",
-            "time": "01:30",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/bra/br5.php"
-            ],
-            "eventUrl": ""
-        },
-        {
-            "homeTeam": "Atl\u00c3\u00a9tico Nacional",
-            "awayTeam": "Jaguares de C\u00c3\u00b3rdoba",
-            "time": "02:30",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd9.php"
-            ],
-            "eventUrl": ""
-        }
-    ],
-    "today": [
-        {
             "homeTeam": "Al Kholood",
             "awayTeam": "Al Nassr",
             "time": "16:05",
@@ -101,7 +12,7 @@
                 "https://v5.sportsonline.si/channels/pt/sporttv1.php",
                 "https://v5.sportsonline.si/channels/bra/br4.php"
             ],
-            "eventUrl": "http://sc0re808.blogspot.com/2024/10/live-al-kholood-vs-al-nassr-live-stream_24.html"
+            "eventUrl": ""
         },
         {
             "homeTeam": "Udinese",
@@ -114,7 +25,7 @@
                 "https://v5.sportsonline.si/channels/hd/hd8.php",
                 "https://v5.sportsonline.si/channels/pt/sporttv3.php"
             ],
-            "eventUrl": "http://sc0re808.blogspot.com/2024/10/live-udinese-vs-cagliari-live-stream-hd.html"
+            "eventUrl": ""
         },
         {
             "homeTeam": "K\u00c3\u00b6ln",
@@ -126,7 +37,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd3.php"
             ],
-            "eventUrl": "http://sc0re808.blogspot.com/2024/10/live-kaln-vs-paderborn-live-stream-hd.html"
+            "eventUrl": ""
         },
         {
             "homeTeam": "Casa Pia",
@@ -138,7 +49,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/pt/sporttv1.php"
             ],
-            "eventUrl": "http://sc0re808.blogspot.com/2024/10/live-casa-pia-vs-nacional-live-stream-hd.html"
+            "eventUrl": ""
         },
         {
             "homeTeam": "Almere City",
@@ -150,7 +61,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd9.php"
             ],
-            "eventUrl": "http://sc0re808.blogspot.com/2024/10/live-almere-city-vs-nec-live-stream-hd.html"
+            "eventUrl": ""
         },
         {
             "homeTeam": "Mainz 05",
@@ -164,7 +75,7 @@
                 "https://v5.sportsonline.si/channels/pt/eleven3.php",
                 "https://v5.sportsonline.si/channels/bra/br1.php"
             ],
-            "eventUrl": "http://sc0re808.blogspot.com/2024/10/live-mainz-05-vs-borussia-mgladbach.html"
+            "eventUrl": ""
         },
         {
             "homeTeam": "Ternana",
@@ -176,7 +87,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd8.php"
             ],
-            "eventUrl": "http://sc0re808.blogspot.com/2024/10/live-ternana-vs-rimini-live-stream-hd.html"
+            "eventUrl": ""
         },
         {
             "homeTeam": "Rennes",
@@ -203,7 +114,7 @@
                 "https://v5.sportsonline.si/channels/hd/hd11.php",
                 "https://v5.sportsonline.si/channels/pt/sporttv3.php"
             ],
-            "eventUrl": "http://sc0re808.blogspot.com/2024/10/live-torino-vs-como-live-stream-hd.html"
+            "eventUrl": ""
         },
         {
             "homeTeam": "Leicester City",
@@ -217,7 +128,7 @@
                 "https://v5.sportsonline.si/channels/pt/eleven1.php",
                 "https://v5.sportsonline.si/channels/bra/br2.php"
             ],
-            "eventUrl": "http://sc0re808.blogspot.com/2024/10/live-leicester-city-vs-nottingham.html"
+            "eventUrl": ""
         },
         {
             "homeTeam": "Espanyol",
@@ -232,7 +143,7 @@
                 "https://v5.sportsonline.si/channels/pt/eleven2.php",
                 "https://v5.sportsonline.si/channels/bra/br6.php"
             ],
-            "eventUrl": "http://sc0re808.blogspot.com/2024/10/live-espanyol-vs-sevilla-live-stream-hd.html"
+            "eventUrl": ""
         },
         {
             "homeTeam": "Portsmouth",
@@ -244,7 +155,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd2.php"
             ],
-            "eventUrl": "http://sc0re808.blogspot.com/2024/10/live-portsmouth-vs-sheffield-wednesday.html"
+            "eventUrl": ""
         },
         {
             "homeTeam": "Santa Clara",
@@ -256,7 +167,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/pt/sporttv2.php"
             ],
-            "eventUrl": "http://sc0re808.blogspot.com/2024/10/live-santa-clara-vs-gil-vicente-live.html"
+            "eventUrl": ""
         },
         {
             "homeTeam": "Deportes Tolima",
@@ -268,7 +179,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd9.php"
             ],
-            "eventUrl": "http://sc0re808.blogspot.com/2024/10/live-deportes-tolima-vs-once-caldas.html"
+            "eventUrl": ""
         },
         {
             "homeTeam": "Defensa y Justicia",
@@ -281,7 +192,7 @@
                 "https://v5.sportsonline.si/channels/hd/hd6.php",
                 "https://v5.sportsonline.si/channels/bra/br2.php"
             ],
-            "eventUrl": "http://sc0re808.blogspot.com/2024/10/live-defensa-y-justicia-vs-river-plate.html"
+            "eventUrl": ""
         },
         {
             "homeTeam": "Ava\u00c3\u00ad",
@@ -293,7 +204,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/bra/br1.php"
             ],
-            "eventUrl": "http://sc0re808.blogspot.com/2024/10/live-avaa-vs-vila-nova-live-stream-hd.html"
+            "eventUrl": ""
         },
         {
             "homeTeam": "Goi\u00c3\u00a1s",
@@ -305,7 +216,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/bra/br5.php"
             ],
-            "eventUrl": "http://sc0re808.blogspot.com/2024/10/live-goias-vs-amazonas-live-stream-hd.html"
+            "eventUrl": ""
         },
         {
             "homeTeam": "Inter Miami",
@@ -317,7 +228,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd5.php"
             ],
-            "eventUrl": "http://sc0re808.blogspot.com/2024/10/live-inter-miami-vs-atlanta-united-live.html"
+            "eventUrl": ""
         },
         {
             "homeTeam": "Medell\u00c3\u00adn",
@@ -332,7 +243,7 @@
             "eventUrl": ""
         }
     ],
-    "tomorrow": [
+    "today": [
         {
             "homeTeam": "Rugby: Japan",
             "awayTeam": "New Zealand All Blacks",
@@ -343,7 +254,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/pt/sporttv3.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-rugby-japan-vs-new-zealand-all.html"
         },
         {
             "homeTeam": "Penafiel",
@@ -355,7 +266,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/pt/sporttv1.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-penafiel-vs-academico-viseu-live.html"
         },
         {
             "homeTeam": "Perth Glory",
@@ -367,7 +278,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd11.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-perth-glory-vs-wellington-phoenix.html"
         },
         {
             "homeTeam": "Schalke 04",
@@ -379,7 +290,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd3.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-schalke-04-vs-greuther-farth-live.html"
         },
         {
             "homeTeam": "Elversberg",
@@ -391,7 +302,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd4.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-elversberg-vs-hamburger-sv-live.html"
         },
         {
             "homeTeam": "Karlsruher SC",
@@ -415,7 +326,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/pt/sporttv2.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-coventry-city-vs-luton-town-live.html"
         },
         {
             "homeTeam": "Real Valladolid",
@@ -429,7 +340,7 @@
                 "https://v5.sportsonline.si/channels/pt/eleven1.php",
                 "https://v5.sportsonline.si/channels/bra/br2.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-real-valladolid-vs-villarreal-live.html"
         },
         {
             "homeTeam": "Napoli",
@@ -443,7 +354,7 @@
                 "https://v5.sportsonline.si/channels/pt/sporttv3.php",
                 "https://v5.sportsonline.si/channels/bra/br6.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-napoli-vs-lecce-live-stream-hd.html"
         },
         {
             "homeTeam": "RB Leipzig",
@@ -455,7 +366,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd3.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-rb-leipzig-vs-freiburg-live-stream.html"
         },
         {
             "homeTeam": "Augsburg",
@@ -467,7 +378,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd4.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-augsburg-vs-borussia-dortmund-live.html"
         },
         {
             "homeTeam": "Aston Villa",
@@ -494,7 +405,7 @@
                 "https://v5.sportsonline.si/channels/pt/eleven1.php",
                 "https://v5.sportsonline.si/channels/bra/br2.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-manchester-city-vs-southampton.html"
         },
         {
             "homeTeam": "Brentford",
@@ -506,7 +417,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd5.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-brentford-vs-ipswich-town-live.html"
         },
         {
             "homeTeam": "Brighton & Hove Albion",
@@ -519,7 +430,7 @@
                 "https://v5.sportsonline.si/channels/hd/hd9.php",
                 "https://v5.sportsonline.si/channels/pt/eleven3.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-brighton-hove-albion-vs.html"
         },
         {
             "homeTeam": "Rayo Vallecano",
@@ -531,7 +442,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd6.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-rayo-vallecano-vs-deportivo-alavas.html"
         },
         {
             "homeTeam": "Estoril",
@@ -543,7 +454,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/pt/sporttv1.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-estoril-vs-arouca-live-stream-hd.html"
         },
         {
             "homeTeam": "Feirense",
@@ -569,7 +480,7 @@
                 "https://v5.sportsonline.si/channels/pt/sporttv3.php",
                 "https://v5.sportsonline.si/channels/bra/br6.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-bologna-vs-milan-live-stream-hd.html"
         },
         {
             "homeTeam": "Everton",
@@ -583,7 +494,7 @@
                 "https://v5.sportsonline.si/channels/pt/eleven2.php",
                 "https://v5.sportsonline.si/channels/bra/br2.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-everton-vs-fulham-live-stream-hd.html"
         },
         {
             "homeTeam": "Werder Bremen",
@@ -598,7 +509,7 @@
                 "https://v5.sportsonline.si/channels/pt/eleven3.php",
                 "https://v5.sportsonline.si/channels/bra/br1.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-werder-bremen-vs-bayer-leverkusen.html"
         },
         {
             "homeTeam": "Aberdeen",
@@ -610,7 +521,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd1.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-aberdeen-vs-dundee-united-live.html"
         },
         {
             "homeTeam": "Las Palmas",
@@ -622,7 +533,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd6.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-las-palmas-vs-girona-live-stream-hd.html"
         },
         {
             "homeTeam": "Reims",
@@ -635,7 +546,7 @@
                 "https://v5.sportsonline.si/channels/hd/hd4.php",
                 "https://v5.sportsonline.si/channels/pt/sporttv5.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-reims-vs-brest-live-stream-hd.html"
         },
         {
             "homeTeam": "Boavista",
@@ -647,7 +558,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/pt/sporttv2.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-boavista-vs-moreirense-live-stream.html"
         },
         {
             "homeTeam": "Al Hilal",
@@ -660,7 +571,7 @@
                 "https://v5.sportsonline.si/channels/hd/hd9.php",
                 "https://v5.sportsonline.si/channels/bra/br4.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-al-hilal-vs-al-taawon-live-stream.html"
         },
         {
             "homeTeam": "Fortuna D\u00c3\u00bcsseldorf",
@@ -672,7 +583,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd3.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-fortuna-dasseldorf-vs.html"
         },
         {
             "homeTeam": "Atalanta",
@@ -685,7 +596,7 @@
                 "https://v5.sportsonline.si/channels/hd/hd7.php",
                 "https://v5.sportsonline.si/channels/pt/sporttv3.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-atalanta-vs-hellas-verona-live.html"
         },
         {
             "homeTeam": "Club Brugge",
@@ -715,7 +626,7 @@
                 "https://v5.sportsonline.si/channels/bra/br6.php",
                 "https://v5.sportsonline.si/channels/bra/br7.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-real-madrid-vs-barcelona-live.html"
         },
         {
             "homeTeam": "Lens",
@@ -728,7 +639,7 @@
                 "https://v5.sportsonline.si/channels/hd/hd4.php",
                 "https://v5.sportsonline.si/channels/pt/sporttv5.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-lens-vs-lille-live-stream-hd.html"
         },
         {
             "homeTeam": "Famalic\u00c3\u00a3o",
@@ -740,7 +651,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/pt/sporttv1.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-famalicao-vs-sporting-cp-live.html"
         },
         {
             "homeTeam": "Flamengo",
@@ -752,7 +663,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/bra/br1.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-flamengo-vs-juventude-live-stream.html"
         },
         {
             "homeTeam": "Palmeiras",
@@ -764,7 +675,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/bra/br2.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-palmeiras-vs-fortaleza-live-stream.html"
         },
         {
             "homeTeam": "Gr\u00c3\u00aamio",
@@ -788,7 +699,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/bra/br6.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-athletico-pr-vs-cruzeiro-live.html"
         },
         {
             "homeTeam": "Atl\u00c3\u00a9tico Mineiro",
@@ -800,7 +711,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/bra/br2.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-atlatico-mineiro-vs-internacional.html"
         },
         {
             "homeTeam": "RB Bragantino",
@@ -812,7 +723,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/bra/br3.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-rb-bragantino-vs-botafogo-live.html"
         },
         {
             "homeTeam": "Velez Sarsfield",
@@ -824,7 +735,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/pt/sporttv4.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-velez-sarsfield-vs-belgrano-live.html"
         },
         {
             "homeTeam": "Pumas UNAM",
@@ -836,7 +747,7 @@
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd10.php"
             ],
-            "eventUrl": ""
+            "eventUrl": "http://www.livesports808.top/2024/10/live-pumas-unam-vs-cruz-azul-live.html"
         },
         {
             "homeTeam": "Atlas",
@@ -847,6 +758,458 @@
             "competition": "League Event",
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": ""
+        }
+    ],
+    "tomorrow": [
+        {
+            "homeTeam": "Torreense",
+            "awayTeam": "Alverca",
+            "time": "11:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Utrecht",
+            "awayTeam": "Feyenoord",
+            "time": "11:15",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd11.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Parma",
+            "awayTeam": "Empoli",
+            "time": "11:30",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd7.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv3.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Hibernian",
+            "awayTeam": "Hearts",
+            "time": "12:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd1.php",
+                "https://v5.sportsonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Legan\u00c3\u00a9s",
+            "awayTeam": "Celta de Vigo",
+            "time": "13:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd6.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Chelsea",
+            "awayTeam": "Newcastle United",
+            "time": "14:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd1.php",
+                "https://v5.sportsonline.si/channels/pt/eleven1.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "West Ham United",
+            "awayTeam": "Manchester United",
+            "time": "14:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd2.php",
+                "https://v5.sportsonline.si/channels/pt/eleven2.php",
+                "https://v5.sportsonline.si/channels/bra/br2.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Crystal Palace",
+            "awayTeam": "Tottenham Hotspur",
+            "time": "14:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd5.php",
+                "https://v5.sportsonline.si/channels/pt/eleven3.php",
+                "https://v5.sportsonline.si/channels/bra/br3.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Olympique Lyonnais",
+            "awayTeam": "Auxerre",
+            "time": "14:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd4.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv4.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Lazio",
+            "awayTeam": "Genoa",
+            "time": "14:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd7.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv3.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Bochum",
+            "awayTeam": "Bayern M\u00c3\u00bcnchen",
+            "time": "14:30",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd3.php",
+                "https://v5.sportsonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Motherwell",
+            "awayTeam": "Celtic",
+            "time": "15:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Asteras Tripolis",
+            "awayTeam": "Olympiakos Piraeus",
+            "time": "15:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd9.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Getafe",
+            "awayTeam": "Valencia",
+            "time": "15:15",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd6.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Sporting Braga",
+            "awayTeam": "Farense",
+            "time": "15:30",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Ajax",
+            "awayTeam": "Willem II",
+            "time": "15:45",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd11.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv5.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Nice",
+            "awayTeam": "Monaco",
+            "time": "16:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd4.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv4.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Arsenal",
+            "awayTeam": "Liverpool",
+            "time": "16:30",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd1.php",
+                "https://v5.sportsonline.si/channels/hd/hd2.php",
+                "https://v5.sportsonline.si/channels/pt/eleven1.php",
+                "https://v5.sportsonline.si/channels/bra/br2.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Union Berlin",
+            "awayTeam": "Eintracht Frankfurt",
+            "time": "16:30",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd3.php",
+                "https://v5.sportsonline.si/channels/pt/eleven3.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Internazionale",
+            "awayTeam": "Juventus",
+            "time": "17:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd5.php",
+                "https://v5.sportsonline.si/channels/hd/hd7.php",
+                "https://v5.sportsonline.si/channels/hd/hd8.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv3.php",
+                "https://v5.sportsonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Real Betis",
+            "awayTeam": "Atl\u00c3\u00a9tico Madrid",
+            "time": "17:30",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd6.php",
+                "https://v5.sportsonline.si/channels/pt/eleven2.php",
+                "https://v5.sportsonline.si/channels/bra/br3.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Benfica",
+            "awayTeam": "Rio Ave",
+            "time": "18:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/pt/btv.php",
+                "https://v5.sportsonline.si/channels/bra/br5.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Heidenheim",
+            "awayTeam": "Hoffenheim",
+            "time": "18:30",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd3.php",
+                "https://v5.sportsonline.si/channels/pt/eleven3.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "PAOK",
+            "awayTeam": "OFI",
+            "time": "19:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd9.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Olympique Marseille",
+            "awayTeam": "PSG",
+            "time": "19:45",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd4.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv3.php",
+                "https://v5.sportsonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Fiorentina",
+            "awayTeam": "Roma",
+            "time": "19:45",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd11.php",
+                "https://v5.sportsonline.si/channels/hd/hd7.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Real Sociedad",
+            "awayTeam": "Osasuna",
+            "time": "20:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd6.php",
+                "https://v5.sportsonline.si/channels/pt/eleven1.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Estrela",
+            "awayTeam": "Vit\u00c3\u00b3ria Guimar\u00c3\u00a3es",
+            "time": "20:30",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Boca Juniors",
+            "awayTeam": "Deportivo Riestra",
+            "time": "22:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd9.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv2.php",
+                "https://v5.sportsonline.si/channels/bra/br6.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Orlando City SC",
+            "awayTeam": "Charlotte",
+            "time": "22:30",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd5.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Junior",
+            "awayTeam": "Am\u00c3\u00a9rica de Cali",
+            "time": "23:20",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Necaxa",
+            "awayTeam": "Toluca",
+            "time": "00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd6.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Talleres C\u00c3\u00b3rdoba",
+            "awayTeam": "Tigre",
+            "time": "00:15",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd9.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Los Angeles FC",
+            "awayTeam": "Vancouver Whitecaps",
+            "time": "00:30",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd5.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Am\u00c3\u00a9rica",
+            "awayTeam": "Monterrey",
+            "time": "02:05",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd6.php"
             ],
             "eventUrl": ""
         }
