@@ -1,0 +1,683 @@
+{
+    "yesterday": [
+        {
+            "homeTeam": "Seattle Sounders FC",
+            "awayTeam": "Houston Dynamo",
+            "time": "2024-10-30 01:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd5.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Medell\u00edn",
+            "awayTeam": "Jaguares de C\u00f3rdoba",
+            "time": "2024-10-30 01:15:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": ""
+        }
+    ],
+    "today": [
+        {
+            "homeTeam": "Al Ta'ee",
+            "awayTeam": "Al Hilal",
+            "time": "2024-10-29 15:05:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd5.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Bayer Leverkusen",
+            "awayTeam": "Elversberg",
+            "time": "2024-10-29 17:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd3.php",
+                "https://v5.sportsonline.si/channels/pt/eleven1.php",
+                "https://v5.sportsonline.si/channels/bra/br6.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Augsburg",
+            "awayTeam": "Schalke 04",
+            "time": "2024-10-29 17:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd4.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "RB Leipzig",
+            "awayTeam": "St. Pauli",
+            "time": "2024-10-29 17:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd9.php",
+                "https://v5.sportsonline.si/channels/pt/eleven2.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Kickers Offenbach",
+            "awayTeam": "Karlsruher SC",
+            "time": "2024-10-29 17:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Al Ahly",
+            "awayTeam": "Al Ain",
+            "time": "2024-10-29 17:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd11.php",
+                "https://v5.sportsonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Lecce",
+            "awayTeam": "Hellas Verona",
+            "time": "2024-10-29 17:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd7.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv4.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Cagliari",
+            "awayTeam": "Bologna",
+            "time": "2024-10-29 17:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd8.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv2.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Al Nassr",
+            "awayTeam": "Al Taawon",
+            "time": "2024-10-29 17:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd5.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Basketball Euro League: Anadolu Efes Istanbul",
+            "awayTeam": "Barcelona",
+            "time": "2024-10-29 17:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/pt/sporttv3.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Sweden W",
+            "awayTeam": "Luxemburg W",
+            "time": "2024-10-29 18:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/pt/sporttv5.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Southampton",
+            "awayTeam": "Stoke City",
+            "time": "2024-10-29 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd2.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv4.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Jahn Regensburg",
+            "awayTeam": "Greuther F\u00fcrth",
+            "time": "2024-10-29 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Stuttgart",
+            "awayTeam": "Kaiserslautern",
+            "time": "2024-10-29 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd9.php",
+                "https://v5.sportsonline.si/channels/pt/eleven2.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "K\u00f6ln",
+            "awayTeam": "Holstein Kiel",
+            "time": "2024-10-29 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd4.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Wolfsburg",
+            "awayTeam": "Borussia Dortmund",
+            "time": "2024-10-29 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd3.php",
+                "https://v5.sportsonline.si/channels/pt/eleven1.php",
+                "https://v5.sportsonline.si/channels/bra/br6.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Milan",
+            "awayTeam": "Napoli",
+            "time": "2024-10-29 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd7.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv2.php",
+                "https://v5.sportsonline.si/channels/bra/br2.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Novara",
+            "awayTeam": "Vicenza",
+            "time": "2024-10-29 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd8.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Brentford",
+            "awayTeam": "Sheffield Wednesday",
+            "time": "2024-10-29 20:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd1.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv5.php",
+                "https://v5.sportsonline.si/channels/bra/br4.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Poblense",
+            "awayTeam": "Villarreal",
+            "time": "2024-10-29 20:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd6.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Sporting CP",
+            "awayTeam": "Nacional",
+            "time": "2024-10-29 20:15:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Basketball Champions League: SL Benfica",
+            "awayTeam": "Bertram Dethona Basket",
+            "time": "2024-10-29 20:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/pt/sporttv3.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Brazil W",
+            "awayTeam": "Colombia W",
+            "time": "2024-10-29 22:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Goi\u00e1s",
+            "awayTeam": "Oper\u00e1rio PR",
+            "time": "2024-10-29 22:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/bra/br3.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Deportivo Pasto",
+            "awayTeam": "Rionegro \u00c1guilas",
+            "time": "2024-10-29 23:05:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Amazonas",
+            "awayTeam": "Botafogo SP",
+            "time": "2024-10-30 00:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/bra/br3.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Guarani",
+            "awayTeam": "Novorizontino",
+            "time": "2024-10-30 00:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "River Plate",
+            "awayTeam": "Atl\u00e9tico Mineiro",
+            "time": "2024-10-30 00:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd5.php",
+                "https://v5.sportsonline.si/channels/hd/hd6.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv2.php",
+                "https://v5.sportsonline.si/channels/bra/br2.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Deportivo Pereira",
+            "awayTeam": "Envigado",
+            "time": "2024-10-30 01:10:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": ""
+        }
+    ],
+    "tomorrow": [
+        {
+            "homeTeam": "Eintracht Frankfurt",
+            "awayTeam": "Borussia M'gladbach",
+            "time": "2024-10-29 17:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd3.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Freiburg",
+            "awayTeam": "Hamburger SV",
+            "time": "2024-10-29 17:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd4.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Feyenoord",
+            "awayTeam": "Ajax",
+            "time": "2024-10-29 17:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd11.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Empoli",
+            "awayTeam": "Internazionale",
+            "time": "2024-10-29 17:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd7.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv2.php",
+                "https://v5.sportsonline.si/channels/bra/br6.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Venezia",
+            "awayTeam": "Udinese",
+            "time": "2024-10-29 17:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd8.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv5.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Mamelodi Sundowns",
+            "awayTeam": "Cape Town City",
+            "time": "2024-10-29 17:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd5.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Las Rozas",
+            "awayTeam": "Sevilla",
+            "time": "2024-10-29 18:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd6.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Brighton & Hove Albion",
+            "awayTeam": "Liverpool",
+            "time": "2024-10-29 19:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd2.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv4.php",
+                "https://v5.sportsonline.si/channels/bra/br5.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Preston North End",
+            "awayTeam": "Arsenal",
+            "time": "2024-10-29 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd1.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv5.php",
+                "https://v5.sportsonline.si/channels/bra/br3.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Newcastle United",
+            "awayTeam": "Chelsea",
+            "time": "2024-10-29 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd5.php",
+                "https://v5.sportsonline.si/channels/bra/br7.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Manchester United",
+            "awayTeam": "Leicester City",
+            "time": "2024-10-29 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd10.php",
+                "https://v5.sportsonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Aston Villa",
+            "awayTeam": "Crystal Palace",
+            "time": "2024-10-29 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd11.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Juventus",
+            "awayTeam": "Parma",
+            "time": "2024-10-29 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd8.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv2.php",
+                "https://v5.sportsonline.si/channels/bra/br6.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Mainz 05",
+            "awayTeam": "Bayern M\u00fcnchen",
+            "time": "2024-10-29 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd3.php",
+                "https://v5.sportsonline.si/channels/pt/eleven1.php",
+                "https://v5.sportsonline.si/channels/bra/br4.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Hoffenheim",
+            "awayTeam": "N\u00fcrnberg",
+            "time": "2024-10-29 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd4.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Atalanta",
+            "awayTeam": "Monza",
+            "time": "2024-10-29 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd7.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Parla Escuela",
+            "awayTeam": "Valencia",
+            "time": "2024-10-29 20:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd6.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Benfica",
+            "awayTeam": "Santa Clara",
+            "time": "2024-10-29 20:05:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Tottenham Hotspur",
+            "awayTeam": "Manchester City",
+            "time": "2024-10-29 20:15:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd9.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv3.php",
+                "https://v5.sportsonline.si/channels/bra/br2.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Internacional",
+            "awayTeam": "Flamengo",
+            "time": "2024-10-29 22:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/bra/br3.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Lan\u00fas",
+            "awayTeam": "Cruzeiro",
+            "time": "2024-10-29 22:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd5.php",
+                "https://v5.sportsonline.si/channels/hd/hd6.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv2.php",
+                "https://v5.sportsonline.si/channels/bra/br5.php"
+            ],
+            "eventUrl": ""
+        },
+        {
+            "homeTeam": "Pe\u00f1arol",
+            "awayTeam": "Botafogo",
+            "time": "2024-10-30 00:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd5.php",
+                "https://v5.sportsonline.si/channels/hd/hd6.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv1.php",
+                "https://v5.sportsonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": ""
+        }
+    ]
+}
