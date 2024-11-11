@@ -1,9 +1,84 @@
 {
-    "yesterday": [
+    "yesterday": [],
+    "today": [
         {
-            "homeTeam": "Fortaleza",
-            "awayTeam": "Vasco da Gama",
-            "time": "2024-11-10 22:00:00",
+            "homeTeam": "SGS Essen W",
+            "awayTeam": "RB Leipzig W",
+            "time": "2024-11-11 17:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd3.php"
+            ],
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Hobro",
+            "awayTeam": "Hiller\u00f8d",
+            "time": "2024-11-11 18:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd4.php"
+            ],
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "La Equidad",
+            "awayTeam": "Deportivo Pasto",
+            "time": "2024-11-11 19:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd9.php"
+            ],
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Deportivo Riestra",
+            "awayTeam": "V\u00e9lez Sarsfield",
+            "time": "2024-11-11 19:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd10.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Deportivo La Coru\u00f1a",
+            "awayTeam": "Eibar",
+            "time": "2024-11-11 19:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd6.php",
+                "https://v5.sportsonline.si/channels/pt/eleven1.php"
+            ],
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Atl\u00e9tico Nacional",
+            "awayTeam": "Medell\u00edn",
+            "time": "2024-11-11 21:10:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd9.php"
+            ],
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Vila Nova",
+            "awayTeam": "Ponte Preta",
+            "time": "2024-11-11 21:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
@@ -13,623 +88,200 @@
             "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
         },
         {
-            "homeTeam": "Cruzeiro",
-            "awayTeam": "Crici\u00fama",
-            "time": "2024-11-10 22:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/bra/br3.php"
-            ],
-            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-        },
-        {
-            "homeTeam": "Atl\u00e9tico Goianiense",
-            "awayTeam": "RB Bragantino",
-            "time": "2024-11-10 22:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/bra/br4.php"
-            ],
-            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-        },
-        {
-            "homeTeam": "Juventude",
-            "awayTeam": "Bahia",
-            "time": "2024-11-10 22:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/bra/br6.php"
-            ],
-            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-        },
-        {
-            "homeTeam": "S\u00e3o Paulo",
-            "awayTeam": "Athletico-PR",
-            "time": "2024-11-11 00:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/bra/br2.php"
-            ],
-            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-        },
-        {
-            "homeTeam": "Inter Miami",
-            "awayTeam": "Atlanta United",
-            "time": "2024-11-11 01:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd2.php"
-            ],
-            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-        },
-        {
-            "homeTeam": "Toluca",
-            "awayTeam": "Am\u00e9rica",
-            "time": "2024-11-11 01:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd11.php"
-            ],
-            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-        },
-        {
-            "homeTeam": "Cruz Azul",
-            "awayTeam": "Tigres UANL",
-            "time": "2024-11-11 03:05:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd11.php"
-            ],
-            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-        },
-        {
-            "homeTeam": "Central Coast Mariners",
-            "awayTeam": "Wellington Phoenix",
-            "time": "2024-11-11 05:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd5.php"
-            ],
-            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-        }
-    ],
-    "today": [
-        {
-            "homeTeam": "Pa\u00e7os de Ferreira",
-            "awayTeam": "Porto B",
-            "time": "2024-11-10 11:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-pacos-de-ferreira-vs-porto-b-live.html"
-        },
-        {
-            "homeTeam": "Atalanta",
-            "awayTeam": "Udinese",
-            "time": "2024-11-10 11:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd7.php",
-                "https://v5.sportsonline.si/channels/pt/sporttv5.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-atalanta-vs-udinese-live-stream-hd.html"
-        },
-        {
-            "homeTeam": "Sheffield United",
-            "awayTeam": "Sheffield Wednesday",
-            "time": "2024-11-10 12:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd11.php",
-                "https://v5.sportsonline.si/channels/pt/sporttv2.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-sheffield-united-vs-sheffield.html"
-        },
-        {
-            "homeTeam": "Schalke 04",
-            "awayTeam": "Jahn Regensburg",
-            "time": "2024-11-10 12:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd3.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-schalke-04-vs-jahn-regensburg-live.html"
-        },
-        {
-            "homeTeam": "Real Betis",
-            "awayTeam": "Celta de Vigo",
-            "time": "2024-11-10 13:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd6.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-real-betis-vs-celta-de-vigo-live.html"
-        },
-        {
-            "homeTeam": "Galatasaray",
-            "awayTeam": "Samsunspor",
-            "time": "2024-11-10 13:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd10.php",
-                "https://v5.sportsonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-galatasaray-vs-samsunspor-live.html"
-        },
-        {
-            "homeTeam": "Twente",
-            "awayTeam": "Ajax",
-            "time": "2024-11-10 13:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd9.php",
-                "https://v5.sportsonline.si/channels/pt/sporttv4.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-twente-vs-ajax-live-stream-hd.html"
-        },
-        {
-            "homeTeam": "Nottingham Forest",
-            "awayTeam": "Newcastle United",
-            "time": "2024-11-10 14:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd1.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-nottingham-forest-vs-newcastle.html"
-        },
-        {
-            "homeTeam": "Manchester United",
-            "awayTeam": "Leicester City",
-            "time": "2024-11-10 14:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd2.php",
-                "https://v5.sportsonline.si/channels/pt/eleven1.php",
-                "https://v5.sportsonline.si/channels/bra/br5.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-manchester-united-vs-leicester.html"
-        },
-        {
-            "homeTeam": "Tottenham Hotspur",
-            "awayTeam": "Ipswich Town",
-            "time": "2024-11-10 14:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd5.php",
-                "https://v5.sportsonline.si/channels/pt/eleven2.php",
-                "https://v5.sportsonline.si/channels/bra/br2.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-tottenham-hotspur-vs-ipswich-town.html"
-        },
-        {
-            "homeTeam": "Roma",
-            "awayTeam": "Bologna",
-            "time": "2024-11-10 14:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd7.php",
-                "https://v5.sportsonline.si/channels/pt/sporttv3.php",
-                "https://v5.sportsonline.si/channels/bra/br6.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-roma-vs-bologna-live-stream-hd.html"
-        },
-        {
-            "homeTeam": "Fiorentina",
-            "awayTeam": "Hellas Verona",
-            "time": "2024-11-10 14:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd8.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-fiorentina-vs-hellas-verona-live.html"
-        },
-        {
-            "homeTeam": "Nice",
-            "awayTeam": "Lille",
-            "time": "2024-11-10 14:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd4.php",
-                "https://v5.sportsonline.si/channels/pt/sporttv5.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-nice-vs-lille-live-stream-hd.html"
-        },
-        {
-            "homeTeam": "Augsburg",
-            "awayTeam": "Hoffenheim",
-            "time": "2024-11-10 14:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd3.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-augsburg-vs-hoffenheim-live-stream.html"
-        },
-        {
-            "homeTeam": "Kilmarnock",
-            "awayTeam": "Celtic",
-            "time": "2024-11-10 15:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd11.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-kilmarnock-vs-celtic-live-stream-hd.html"
-        },
-        {
-            "homeTeam": "Mallorca",
-            "awayTeam": "Atl\u00e9tico Madrid",
-            "time": "2024-11-10 15:15:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd6.php",
-                "https://v5.sportsonline.si/channels/bra/br4.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-mallorca-vs-atletico-madrid-live.html"
-        },
-        {
-            "homeTeam": "Torreense",
-            "awayTeam": "Uni\u00e3o de Leiria",
-            "time": "2024-11-10 15:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/pt/sporttv2.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-torreense-vs-uniao-de-leiria-live.html"
-        },
-        {
-            "homeTeam": "Estrela",
-            "awayTeam": "Nacional",
-            "time": "2024-11-10 15:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-estrela-vs-nacional-live-stream-hd.html"
-        },
-        {
-            "homeTeam": "Montpellier",
-            "awayTeam": "Brest",
-            "time": "2024-11-10 16:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd4.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-montpellier-vs-brest-live-stream-hd.html"
-        },
-        {
-            "homeTeam": "Fenerbah\u00e7e",
-            "awayTeam": "Sivasspor",
-            "time": "2024-11-10 16:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/pt/sporttv3.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-fenerbahce-vs-sivasspor-live.html"
-        },
-        {
-            "homeTeam": "\u0130stanbul Ba\u015fak\u015fehir",
-            "awayTeam": "Be\u015fikta\u015f",
-            "time": "2024-11-10 16:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/pt/sporttv5.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-istanbul-basaksehir-vs-besiktas.html"
-        },
-        {
-            "homeTeam": "Chelsea",
-            "awayTeam": "Arsenal",
-            "time": "2024-11-10 16:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd1.php",
-                "https://v5.sportsonline.si/channels/hd/hd2.php",
-                "https://v5.sportsonline.si/channels/hd/hd8.php",
-                "https://v5.sportsonline.si/channels/pt/eleven1.php",
-                "https://v5.sportsonline.si/channels/bra/br2.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-chelsea-vs-arsenal-live-stream-hd.html"
-        },
-        {
-            "homeTeam": "Stuttgart",
-            "awayTeam": "Eintracht Frankfurt",
-            "time": "2024-11-10 16:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd3.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-stuttgart-vs-eintracht-frankfurt.html"
-        },
-        {
-            "homeTeam": "Santa Clara",
-            "awayTeam": "Vit\u00f3ria Guimar\u00e3es",
-            "time": "2024-11-10 16:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/pt/sporttv4.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-santa-clara-vs-vitoria-guimaraes.html"
-        },
-        {
-            "homeTeam": "Monza",
-            "awayTeam": "Lazio",
-            "time": "2024-11-10 17:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd7.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-monza-vs-lazio-live-stream-hd.html"
-        },
-        {
-            "homeTeam": "Rangers",
-            "awayTeam": "Hearts",
-            "time": "2024-11-10 17:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd5.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-rangers-vs-hearts-live-stream-hd.html"
-        },
-        {
-            "homeTeam": "Getafe",
-            "awayTeam": "Girona",
-            "time": "2024-11-10 17:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd6.php",
-                "https://v5.sportsonline.si/channels/pt/eleven2.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-getafe-vs-girona-live-stream-hd.html"
-        },
-        {
-            "homeTeam": "Panathinaikos",
-            "awayTeam": "Lamia",
-            "time": "2024-11-10 17:30:00",
+            "homeTeam": "Tigre",
+            "awayTeam": "Defensa y Justicia",
+            "time": "2024-11-11 21:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd10.php"
             ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-panathinaikos-vs-lamia-live-stream.html"
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
         },
         {
-            "homeTeam": "Heidenheim",
-            "awayTeam": "Wolfsburg",
-            "time": "2024-11-10 18:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd3.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-heidenheim-vs-wolfsburg-live.html"
-        },
-        {
-            "homeTeam": "PAOK",
-            "awayTeam": "Olympiakos Piraeus",
-            "time": "2024-11-10 18:30:00",
+            "homeTeam": "Once Caldas",
+            "awayTeam": "Junior",
+            "time": "2024-11-11 23:20:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd9.php"
             ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-paok-vs-olympiakos-piraeus-live.html"
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
         },
         {
-            "homeTeam": "Sporting Braga",
-            "awayTeam": "Sporting CP",
-            "time": "2024-11-10 18:45:00",
+            "homeTeam": "Belgrano",
+            "awayTeam": "Instituto",
+            "time": "2024-11-12 00:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v5.sportsonline.si/channels/pt/sporttv1.php",
+                "https://v5.sportsonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Coritiba",
+            "awayTeam": "Santos",
+            "time": "2024-11-12 00:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Paysandu",
+            "awayTeam": "Brusque",
+            "time": "2024-11-12 00:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
                 "https://v5.sportsonline.si/channels/bra/br2.php"
             ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-sporting-braga-vs-sporting-cp-live.html"
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
         },
         {
-            "homeTeam": "Atl\u00e9tico Mineiro",
-            "awayTeam": "Flamengo",
-            "time": "2024-11-10 19:00:00",
+            "homeTeam": "Am\u00e9rica de Cali",
+            "awayTeam": "Santa Fe",
+            "time": "2024-11-12 01:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v5.sportsonline.si/channels/bra/br1.php",
-                "https://v5.sportsonline.si/channels/bra/br3.php"
+                "https://v5.sportsonline.si/channels/hd/hd9.php"
             ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-atletico-mineiro-vs-flamengo-live.html"
-        },
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        }
+    ],
+    "tomorrow": [
         {
-            "homeTeam": "Internazionale",
-            "awayTeam": "Napoli",
-            "time": "2024-11-10 19:45:00",
+            "homeTeam": "Euro League: Fenerbahce Beko Istanbul",
+            "awayTeam": "FC Bayern",
+            "time": "2024-11-11 17:40:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd5.php",
+                "https://v5.sportsonline.si/channels/pt/sporttv2.php"
+            ],
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Juventus W",
+            "awayTeam": "Arsenal W",
+            "time": "2024-11-11 17:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
                 "https://v5.sportsonline.si/channels/hd/hd7.php",
-                "https://v5.sportsonline.si/channels/pt/sporttv2.php",
-                "https://v5.sportsonline.si/channels/bra/br6.php"
+                "https://v5.sportsonline.si/channels/pt/eleven2.php"
             ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-internazionale-vs-napoli-live.html"
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
         },
         {
-            "homeTeam": "Olympique Lyonnais",
-            "awayTeam": "Saint-\u00c9tienne",
-            "time": "2024-11-10 19:45:00",
+            "homeTeam": "Barcelona W",
+            "awayTeam": "St. P\u00f6lten W",
+            "time": "2024-11-11 17:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd4.php",
-                "https://v5.sportsonline.si/channels/pt/sporttv5.php"
+                "https://v5.sportsonline.si/channels/pt/eleven1.php"
             ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-olympique-lyonnais-vs-saint.html"
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
         },
         {
-            "homeTeam": "Real Sociedad",
-            "awayTeam": "Barcelona",
-            "time": "2024-11-10 20:00:00",
+            "homeTeam": "East Kilbride",
+            "awayTeam": "Ayr United",
+            "time": "2024-11-11 19:40:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd2.php",
-                "https://v5.sportsonline.si/channels/hd/hd6.php",
-                "https://v5.sportsonline.si/channels/pt/eleven1.php",
-                "https://v5.sportsonline.si/channels/bra/br5.php"
+                "https://v5.sportsonline.si/channels/hd/hd5.php"
             ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-real-sociedad-vs-barcelona-live.html"
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
         },
         {
-            "homeTeam": "River Plate",
-            "awayTeam": "Barracas",
-            "time": "2024-11-10 20:15:00",
+            "homeTeam": "Bayern M\u00fcnchen W",
+            "awayTeam": "V\u00e5lerenga W",
+            "time": "2024-11-11 20:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/hd/hd3.php",
+                "https://v5.sportsonline.si/channels/pt/eleven2.php"
+            ],
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Manchester City W",
+            "awayTeam": "Hammarby W",
+            "time": "2024-11-11 20:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/pt/eleven1.php"
+            ],
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Am\u00e9rica Mineiro",
+            "awayTeam": "Ituano",
+            "time": "2024-11-11 22:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Guarani",
+            "awayTeam": "Amazonas",
+            "time": "2024-11-12 00:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/bra/br2.php"
+            ],
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Botafogo SP",
+            "awayTeam": "Cear\u00e1",
+            "time": "2024-11-12 00:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v5.sportsonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "NHL: Florida",
+            "awayTeam": "New Jersey",
+            "time": "2024-11-12 00:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
                 "https://v5.sportsonline.si/channels/pt/sporttv3.php"
             ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-river-plate-vs-barracas-live.html"
-        },
-        {
-            "homeTeam": "Benfica",
-            "awayTeam": "Porto",
-            "time": "2024-11-10 20:45:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/pt/btv.php",
-                "https://v5.sportsonline.si/channels/bra/br4.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-benfica-vs-porto-live-stream-hd.html"
-        },
-        {
-            "homeTeam": "Necaxa",
-            "awayTeam": "Atlas",
-            "time": "2024-11-10 23:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd11.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-necaxa-vs-atlas-live-stream-hd.html"
-        },
-        {
-            "homeTeam": "Sarmiento",
-            "awayTeam": "Boca Juniors",
-            "time": "2024-11-11 00:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/pt/sporttv1.php",
-                "https://v5.sportsonline.si/channels/bra/br6.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-sarmiento-vs-boca-juniors-live.html"
-        },
-        {
-            "homeTeam": "Monterrey",
-            "awayTeam": "Le\u00f3n",
-            "time": "2024-11-11 01:05:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd11.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-monterrey-vs-leon-live-stream-hd.html"
-        },
-        {
-            "homeTeam": "Tijuana",
-            "awayTeam": "Puebla",
-            "time": "2024-11-11 03:10:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v5.sportsonline.si/channels/hd/hd11.php"
-            ],
-            "eventUrl": "http://www.livesports808.top/2024/11/live-tijuana-vs-puebla-live-stream-hd.html"
+            "eventUrl": "https://www.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
         }
-    ],
-    "tomorrow": []
+    ]
 }
