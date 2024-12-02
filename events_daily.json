@@ -1,341 +1,97 @@
 {
     "matches": [
         {
-            "time": "16:00",
-            "country": "England",
-            "league": "Championship",
-            "competition": "England - Championship",
-            "match": "Derby County vs Sheffield Wednesday",
+            "time": "15:00",
+            "country": "AFC Champions League Elite",
+            "league": null,
+            "competition": "AFC Champions League Elite",
+            "match": "Persepolis vs Al Shorta",
             "links": [
-                "https://thedaddy.to/embed/stream-36.php",
-                "https://thedaddy.to/embed/stream-495.php",
-                "https://thedaddy.to/embed/stream-419.php"
+                "https://thedaddy.to/embed/stream-707.php",
+                "https://thedaddy.to/embed/stream-466.php",
+                "https://thedaddy.to/embed/stream-101.php"
             ]
         },
         {
-            "time": "12:15",
-            "country": "Netherlands",
-            "league": "Eredivisie",
-            "competition": "Netherlands - Eredivisie",
-            "match": "Utrecht vs PSV",
+            "time": "17:00",
+            "country": "AFC Champions League Elite",
+            "league": null,
+            "competition": "AFC Champions League Elite",
+            "match": "Al Ahli vs Esteghlal",
+            "links": [
+                "https://thedaddy.to/embed/stream-466.php",
+                "https://thedaddy.to/embed/stream-3.php",
+                "https://thedaddy.to/embed/stream-103.php"
+            ]
+        },
+        {
+            "time": "17:00",
+            "country": "AFC Champions League Elite",
+            "league": null,
+            "competition": "AFC Champions League Elite",
+            "match": "Al Wasl vs Al Rayyan",
+            "links": [
+                "https://thedaddy.to/embed/stream-4.php",
+                "https://thedaddy.to/embed/stream-468.php",
+                "https://thedaddy.to/embed/stream-10.php"
+            ]
+        },
+        {
+            "time": "18:00",
+            "country": "Turkey",
+            "league": "Super Lig",
+            "competition": "Turkey - Super Lig",
+            "match": "Hatayspor vs Be\u015fikta\u015f",
+            "links": [
+                "https://thedaddy.to/embed/stream-63.php",
+                "https://thedaddy.to/embed/stream-454.php",
+                "https://thedaddy.to/embed/stream-494.php"
+            ]
+        },
+        {
+            "time": "18:00",
+            "country": "Turkey",
+            "league": "Super Lig",
+            "competition": "Turkey - Super Lig",
+            "match": "Fenerbah\u00e7e vs Gaziantep FK",
+            "links": [
+                "https://thedaddy.to/embed/stream-62.php",
+                "https://thedaddy.to/embed/stream-425.php",
+                "https://thedaddy.to/embed/stream-49.php"
+            ]
+        },
+        {
+            "time": "19:00",
+            "country": "AFC Champions League Elite",
+            "league": null,
+            "competition": "AFC Champions League Elite",
+            "match": "Al Nassr vs Al Sadd",
             "links": [
                 "https://thedaddy.to/embed/stream-386.php",
-                "https://thedaddy.to/embed/stream-410.php",
-                "https://thedaddy.to/embed/stream-571.php"
+                "https://thedaddy.to/embed/stream-468.php",
+                "https://thedaddy.to/embed/stream-85.php"
             ]
         },
         {
-            "time": "12:30",
-            "country": "Italy",
-            "league": "Serie A",
-            "competition": "Italy - Serie A",
-            "match": "Udinese vs Genoa",
-            "links": [
-                "https://thedaddy.to/embed/stream-877.php",
-                "https://thedaddy.to/embed/stream-427.php",
-                "https://thedaddy.to/embed/stream-910.php"
-            ]
-        },
-        {
-            "time": "14:00",
-            "country": "Spain",
-            "league": "La Liga",
-            "competition": "Spain - La Liga",
-            "match": "Villarreal vs Girona",
-            "links": [
-                "https://thedaddy.to/embed/stream-84.php",
-                "https://thedaddy.to/embed/stream-276.php",
-                "https://thedaddy.to/embed/stream-550.php"
-            ]
-        },
-        {
-            "time": "14:00",
-            "country": "Super Lig",
-            "league": null,
-            "competition": "Super Lig",
-            "match": "Rizespor vs Kayserispor",
-            "links": [
-                "https://thedaddy.to/embed/stream-62.php"
-            ]
-        },
-        {
-            "time": "14:30",
-            "country": "England",
-            "league": "Premier League",
-            "competition": "England - Premier League",
-            "match": "Simulcast",
-            "links": [
-                "https://thedaddy.to/embed/stream-14.php",
-                "https://thedaddy.to/embed/stream-15.php",
-                "https://thedaddy.to/embed/stream-168.php"
-            ]
-        },
-        {
-            "time": "14:30",
-            "country": "England",
-            "league": "Premier League",
-            "competition": "England - Premier League",
-            "match": "Chelsea vs Aston Villa",
-            "links": [
-                "https://thedaddy.to/embed/stream-16.php",
-                "https://thedaddy.to/embed/stream-55.php",
-                "https://thedaddy.to/embed/stream-343.php"
-            ]
-        },
-        {
-            "time": "14:30",
-            "country": "England",
-            "league": "Premier League",
-            "competition": "England - Premier League",
-            "match": "Manchester United vs Everton",
-            "links": [
-                "https://thedaddy.to/embed/stream-17.php",
-                "https://thedaddy.to/embed/stream-59.php",
-                "https://thedaddy.to/embed/stream-446.php"
-            ]
-        },
-        {
-            "time": "14:30",
-            "country": "England",
-            "league": "Premier League",
-            "competition": "England - Premier League",
-            "match": "Tottenham Hotspur vs Fulham",
-            "links": [
-                "https://thedaddy.to/embed/stream-18.php",
-                "https://thedaddy.to/embed/stream-68.php",
-                "https://thedaddy.to/embed/stream-591.php"
-            ]
-        },
-        {
-            "time": "14:30",
-            "country": "Netherlands",
-            "league": "Eredivisie",
-            "competition": "Netherlands - Eredivisie",
-            "match": "AZ vs Heracles",
-            "links": [
-                "https://thedaddy.to/embed/stream-76.php",
-                "https://thedaddy.to/embed/stream-571.php"
-            ]
-        },
-        {
-            "time": "14:30",
-            "country": "Netherlands",
-            "league": "Eredivisie",
-            "competition": "Netherlands - Eredivisie",
-            "match": "Twente vs Go Ahead Eagles",
-            "links": [
-                "https://thedaddy.to/embed/stream-379.php"
-            ]
-        },
-        {
-            "time": "15:00",
-            "country": "France",
-            "league": "Ligue 1",
-            "competition": "France - Ligue 1",
-            "match": "Montpellier vs Lille",
-            "links": [
-                "https://thedaddy.to/embed/stream-77.php",
-                "https://thedaddy.to/embed/stream-425.php",
-                "https://thedaddy.to/embed/stream-372.php"
-            ]
-        },
-        {
-            "time": "15:00",
-            "country": "Italy",
-            "league": "Serie A",
-            "competition": "Italy - Serie A",
-            "match": "Parma vs Lazio Zona",
-            "links": [
-                "https://thedaddy.to/embed/stream-86.php",
-                "https://thedaddy.to/embed/stream-7.php",
-                "https://thedaddy.to/embed/stream-396.php"
-            ]
-        },
-        {
-            "time": "15:00",
-            "country": "Italy",
-            "league": "Serie A",
-            "competition": "Italy - Serie A",
-            "match": "Torino vs Napoli",
-            "links": [
-                "https://thedaddy.to/embed/stream-877.php",
-                "https://thedaddy.to/embed/stream-910.php",
-                "https://thedaddy.to/embed/stream-454.php"
-            ]
-        },
-        {
-            "time": "15:30",
-            "country": "Bundesliga",
-            "league": null,
-            "competition": "Bundesliga",
-            "match": "Mainz 05 vs Hoffenheim",
-            "links": [
-                "https://thedaddy.to/embed/stream-427.php",
-                "https://thedaddy.to/embed/stream-170.php",
-                "https://thedaddy.to/embed/stream-459.php"
-            ]
-        },
-        {
-            "time": "16:15",
-            "country": "Spain",
-            "league": "La Liga",
-            "competition": "Spain - La Liga",
-            "match": "Real Madrid vs Getafe",
-            "links": [
-                "https://thedaddy.to/embed/stream-538.php",
-                "https://thedaddy.to/embed/stream-276.php",
-                "https://thedaddy.to/embed/stream-112.php"
-            ]
-        },
-        {
-            "time": "16:30",
+            "time": "19:45",
             "country": "Portugal",
             "league": "Primeira Liga",
             "competition": "Portugal - Primeira Liga",
-            "match": "Estoril vs Famalic\u00e3o",
+            "match": "Vit\u00f3ria Guimar\u00e3es vs Gil Vicente",
             "links": [
                 "https://thedaddy.to/embed/stream-74.php"
             ]
         },
         {
-            "time": "16:45",
-            "country": "Netherlands",
-            "league": "Eredivisie",
-            "competition": "Netherlands - Eredivisie",
-            "match": "NEC vs Ajax",
-            "links": [
-                "https://thedaddy.to/embed/stream-386.php",
-                "https://thedaddy.to/embed/stream-571.php",
-                "https://thedaddy.to/embed/stream-129.php"
-            ]
-        },
-        {
-            "time": "17:00",
-            "country": "England",
-            "league": "Premier League",
-            "competition": "England - Premier League",
-            "match": "Liverpool vs Manchester City",
-            "links": [
-                "https://thedaddy.to/embed/stream-14.php",
-                "https://thedaddy.to/embed/stream-15.php",
-                "https://thedaddy.to/embed/stream-343.php"
-            ]
-        },
-        {
-            "time": "17:00",
-            "country": "France",
-            "league": "Ligue 1",
-            "competition": "France - Ligue 1",
-            "match": "Toulouse vs Auxerre",
-            "links": [
-                "https://thedaddy.to/embed/stream-107.php",
-                "https://thedaddy.to/embed/stream-7.php"
-            ]
-        },
-        {
-            "time": "17:00",
-            "country": "France",
-            "league": "Ligue 1",
-            "competition": "France - Ligue 1",
-            "match": "Olympique Lyonnais vs Nice",
-            "links": [
-                "https://thedaddy.to/embed/stream-77.php",
-                "https://thedaddy.to/embed/stream-425.php",
-                "https://thedaddy.to/embed/stream-372.php"
-            ]
-        },
-        {
-            "time": "17:00",
-            "country": "France",
-            "league": "Ligue 1",
-            "competition": "France - Ligue 1",
-            "match": "Le Havre vs Angers SCO",
-            "links": [
-                "https://thedaddy.to/embed/stream-108.php"
-            ]
-        },
-        {
-            "time": "17:00",
-            "country": "Super Lig",
-            "league": null,
-            "competition": "Super Lig",
-            "match": "Galatasaray vs Ey\u00fcpspor",
-            "links": [
-                "https://thedaddy.to/embed/stream-62.php",
-                "https://thedaddy.to/embed/stream-291.php",
-                "https://thedaddy.to/embed/stream-496.php"
-            ]
-        },
-        {
-            "time": "17:30",
-            "country": "Bundesliga",
-            "league": null,
-            "competition": "Bundesliga",
-            "match": "Heidenheim vs Eintracht Frankfurt",
-            "links": [
-                "https://thedaddy.to/embed/stream-426.php",
-                "https://thedaddy.to/embed/stream-35.php",
-                "https://thedaddy.to/embed/stream-457.php"
-            ]
-        },
-        {
-            "time": "18:00",
-            "country": "Italy",
-            "league": "Serie A",
-            "competition": "Italy - Serie A",
-            "match": "Fiorentina vs Internazionale",
-            "links": [
-                "https://thedaddy.to/embed/stream-32.php",
-                "https://thedaddy.to/embed/stream-6.php",
-                "https://thedaddy.to/embed/stream-870.php"
-            ]
-        },
-        {
-            "time": "18:30",
-            "country": "Spain",
-            "league": "La Liga",
-            "competition": "Spain - La Liga",
-            "match": "Rayo Vallecano vs Athletic Club",
-            "links": [
-                "https://thedaddy.to/embed/stream-538.php",
-                "https://thedaddy.to/embed/stream-30.php",
-                "https://thedaddy.to/embed/stream-276.php"
-            ]
-        },
-        {
-            "time": "19:00",
-            "country": "Portugal",
-            "league": "Primeira Liga",
-            "competition": "Portugal - Primeira Liga",
-            "match": "Arouca vs Benfica",
-            "links": [
-                "https://thedaddy.to/embed/stream-49.php",
-                "https://thedaddy.to/embed/stream-597.php",
-                "https://thedaddy.to/embed/stream-571.php"
-            ]
-        },
-        {
-            "time": "20:45",
-            "country": "France",
-            "league": "Ligue 1",
-            "competition": "France - Ligue 1",
-            "match": "Olympique Marseille vs Monaco",
-            "links": [
-                "https://thedaddy.to/embed/stream-77.php",
-                "https://thedaddy.to/embed/stream-425.php",
-                "https://thedaddy.to/embed/stream-372.php"
-            ]
-        },
-        {
             "time": "20:45",
             "country": "Italy",
             "league": "Serie A",
             "competition": "Italy - Serie A",
-            "match": "Lecce vs Juventus",
+            "match": "Roma vs Atalanta",
             "links": [
-                "https://thedaddy.to/embed/stream-32.php",
-                "https://thedaddy.to/embed/stream-877.php",
-                "https://thedaddy.to/embed/stream-870.php"
+                "https://thedaddy.to/embed/stream-11.php",
+                "https://thedaddy.to/embed/stream-870.php",
+                "https://thedaddy.to/embed/stream-427.php"
             ]
         },
         {
@@ -343,22 +99,22 @@
             "country": "Spain",
             "league": "La Liga",
             "competition": "Spain - La Liga",
-            "match": "Real Sociedad vs Real Betis",
+            "match": "Sevilla vs Osasuna",
             "links": [
                 "https://thedaddy.to/embed/stream-84.php",
-                "https://thedaddy.to/embed/stream-276.php",
-                "https://thedaddy.to/embed/stream-550.php"
+                "https://thedaddy.to/embed/stream-530.php",
+                "https://thedaddy.to/embed/stream-276.php"
             ]
         },
         {
-            "time": "21:30",
+            "time": "21:45",
             "country": "Portugal",
             "league": "Primeira Liga",
             "competition": "Portugal - Primeira Liga",
-            "match": "AVS vs Sporting Braga",
+            "match": "Porto vs Casa Pia",
             "links": [
-                "https://thedaddy.to/embed/stream-74.php",
-                "https://thedaddy.to/embed/stream-117.php",
+                "https://thedaddy.to/embed/stream-49.php",
+                "https://thedaddy.to/embed/stream-597.php",
                 "https://thedaddy.to/embed/stream-571.php"
             ]
         }
