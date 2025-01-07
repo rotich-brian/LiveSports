@@ -1,85 +1,51 @@
 {
     "matches": [
         {
-            "time": "13:30",
-            "country": "Saudi Arabia",
-            "league": "King Cup",
-            "competition": "Saudi Arabia - King Cup",
-            "match": "Al Raed vs Al Jabalain",
-            "links": [
-                "https://thedaddy.to/embed/stream-758.php",
-                "https://thedaddy.to/embed/stream-1.php",
-                "https://thedaddy.to/embed/stream-49.php"
-            ]
-        },
-        {
             "time": "16:00",
             "country": "Saudi Arabia",
             "league": "King Cup",
             "competition": "Saudi Arabia - King Cup",
-            "match": "Al Shabab vs Al Feiha",
+            "match": "Al Taawon vs Al Quadisiya",
             "links": [
                 "https://thedaddy.to/embed/stream-758.php",
-                "https://thedaddy.to/embed/stream-7.php",
-                "https://thedaddy.to/embed/stream-427.php"
+                "https://thedaddy.to/embed/stream-1.php",
+                "https://thedaddy.to/embed/stream-426.php"
             ]
         },
         {
-            "time": "18:00",
-            "country": "Club Friendly",
-            "league": null,
-            "competition": "Club Friendly",
-            "match": "Salzburg vs Bayern M\u00fcnchen",
+            "time": "18:30",
+            "country": "Saudi Arabia",
+            "league": "King Cup",
+            "competition": "Saudi Arabia - King Cup",
+            "match": "Al Hilal vs Al Ittihad",
             "links": [
-                "https://thedaddy.to/embed/stream-3.php"
+                "https://thedaddy.to/embed/stream-758.php",
+                "https://thedaddy.to/embed/stream-2.php",
+                "https://thedaddy.to/embed/stream-426.php"
             ]
         },
         {
-            "time": "19:00",
+            "time": "21:00",
+            "country": "England",
+            "league": "League Cup",
+            "competition": "England - League Cup",
+            "match": "Arsenal vs Newcastle United",
+            "links": [
+                "https://thedaddy.to/embed/stream-350.php",
+                "https://thedaddy.to/embed/stream-35.php",
+                "https://thedaddy.to/embed/stream-260.php"
+            ]
+        },
+        {
+            "time": "21:00",
             "country": "Spain",
             "league": "Copa del Rey",
             "competition": "Spain - Copa del Rey",
-            "match": "Deportiva Minera vs Real Madrid",
+            "match": "Eldense vs Valencia",
             "links": [
-                "https://thedaddy.to/embed/stream-533.php",
-                "https://thedaddy.to/embed/stream-49.php",
-                "https://thedaddy.to/embed/stream-571.php"
-            ]
-        },
-        {
-            "time": "21:00",
-            "country": "England",
-            "league": "Premier League",
-            "competition": "England - Premier League",
-            "match": "Wolverhampton Wanderers vs Nottingham Forest",
-            "links": [
-                "https://thedaddy.to/embed/stream-77.php",
-                "https://thedaddy.to/embed/stream-343.php",
-                "https://thedaddy.to/embed/stream-845.php"
-            ]
-        },
-        {
-            "time": "21:00",
-            "country": "England",
-            "league": "Championship",
-            "competition": "England - Championship",
-            "match": "Queens Park Rangers vs Luton Town",
-            "links": [
-                "https://thedaddy.to/embed/stream-35.php",
-                "https://thedaddy.to/embed/stream-260.php",
-                "https://thedaddy.to/embed/stream-454.php"
-            ]
-        },
-        {
-            "time": "21:15",
-            "country": "Portugal",
-            "league": "Primeira Liga",
-            "competition": "Portugal - Primeira Liga",
-            "match": "Gil Vicente vs Rio Ave",
-            "links": [
-                "https://thedaddy.to/embed/stream-49.php",
-                "https://thedaddy.to/embed/stream-622.php",
-                "https://thedaddy.to/embed/stream-103.php"
+                "https://thedaddy.to/embed/stream-2.php",
+                "https://thedaddy.to/embed/stream-454.php",
+                "https://thedaddy.to/embed/stream-128.php"
             ]
         }
     ]
