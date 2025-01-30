@@ -99,7 +99,11 @@
                 "https://v3.sportsonline.ps/channels/pt/sporttv1.php",
                 "https://v3.sportsonline.ps/channels/bra/br2.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-al-raed-vs-al-nassr-live-stream-hd.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-al-raed-vs-al-nassr-live-stream-hd.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/9vkdcc1677530862.png",
+            "homeTeamLogoSource": "scrape",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/9cyok11630591314.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "Juventus W",
@@ -111,7 +115,11 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd7.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-juventus-w-vs-lazio-w-live-stream.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-juventus-w-vs-lazio-w-live-stream.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/fytj241726760465.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/rwqyvs1448806608.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "Nova Igua\u00e7u",
@@ -123,7 +131,11 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/bra/br2.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-nova-iguacu-vs-bangu-live-stream-hd.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-nova-iguacu-vs-bangu-live-stream-hd.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/balr951678204796.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/3yrwfp1625417293.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "Tottenham Hotspur",
@@ -136,7 +148,11 @@
                 "https://v3.sportsonline.ps/channels/hd/hd1.php",
                 "https://v3.sportsonline.ps/channels/pt/eleven3.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-tottenham-hotspur-vs-elfsborg-live.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-tottenham-hotspur-vs-elfsborg-live.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/svqvqq1421957626.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "FCSB",
@@ -150,7 +166,11 @@
                 "https://v3.sportsonline.ps/channels/pt/eleven2.php",
                 "https://v3.sportsonline.ps/channels/bra/br5.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-fcsb-vs-manchester-united-live.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-fcsb-vs-manchester-united-live.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/r7w3d01625317356.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "Sporting Braga",
@@ -162,7 +182,11 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/pt/eleven1.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-sporting-braga-vs-lazio-live.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-sporting-braga-vs-lazio-live.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/8g4aod1678717261.png",
+            "homeTeamLogoSource": "scrape",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/rwqyvs1448806608.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "Olympique Lyonnais",
@@ -174,7 +198,11 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd4.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-olympique-lyonnais-vs-ludogorets.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-olympique-lyonnais-vs-ludogorets.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/blk9771656932845.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/flyvu91726166684.png",
+            "awayTeamLogoSource": "scrape"
         },
         {
             "homeTeam": "Real Sociedad",
@@ -186,7 +214,11 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd9.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-real-sociedad-vs-paok-live-stream.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-real-sociedad-vs-paok-live-stream.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/vptvpr1473502986.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/m15zsh1602774126.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "Roma",
@@ -199,7 +231,11 @@
                 "https://v3.sportsonline.ps/channels/hd/hd7.php",
                 "https://v3.sportsonline.ps/channels/bra/br3.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-roma-vs-eintracht-frankfurt-live.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-roma-vs-eintracht-frankfurt-live.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/xqpqpq1448806641.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "Anderlecht",
@@ -211,7 +247,11 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd3.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-anderlecht-vs-hoffenheim-live.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-anderlecht-vs-hoffenheim-live.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/blk65s1691182512.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/9hwvb21621593919.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "Maccabi Tel Aviv",
@@ -223,7 +263,11 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/pt/sporttv5.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-maccabi-tel-aviv-vs-porto-live.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-maccabi-tel-aviv-vs-porto-live.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/lh08ob1625167121.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/xu47rb1628855600.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "Athletic Club",
@@ -235,7 +279,11 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd6.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-athletic-club-vs-viktoria-plzen.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-athletic-club-vs-viktoria-plzen.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/y4dp9v1641554845.png",
+            "homeTeamLogoSource": "scrape",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/at8i2h1679265942.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "Ajax",
@@ -247,7 +295,11 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd11.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-ajax-vs-galatasaray-live-stream-hd.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-ajax-vs-galatasaray-live-stream-hd.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/uvzy1d1721297408.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/75fphr1537381190.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "Olympiakos Piraeus",
@@ -259,7 +311,11 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd10.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-olympiakos-piraeus-vs-qarabag-live.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-olympiakos-piraeus-vs-qarabag-live.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/o58d261637477624.png",
+            "homeTeamLogoSource": "scrape",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/f9h2by1725001244.png",
+            "awayTeamLogoSource": "scrape"
         },
         {
             "homeTeam": "Rangers",
@@ -271,7 +327,11 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd5.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-rangers-vs-union-saint-gilloise.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-rangers-vs-union-saint-gilloise.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/ti24j61614290048.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/ljszp41654601742.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "Nice",
@@ -283,7 +343,11 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd8.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-nice-vs-bod-glimt-live-stream-hd.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-nice-vs-bod-glimt-live-stream-hd.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/msy7ly1621593859.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/uqpwwx1449165943.png",
+            "awayTeamLogoSource": "scrape"
         },
         {
             "homeTeam": "Boavista",
@@ -295,7 +359,11 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/bra/br2.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-boavista-vs-madureira-live-stream.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-boavista-vs-madureira-live-stream.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/usi98v1628853974.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/oy3gbu1737510151.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "Itabirito",
@@ -307,7 +375,11 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/bra/br1.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-itabirito-vs-cruzeiro-live-stream.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-itabirito-vs-cruzeiro-live-stream.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/8y553y1733806140.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/upsvvu1473538059.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "Racing Club",
@@ -319,7 +391,11 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/pt/sporttv1.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-racing-club-vs-belgrano-live.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-racing-club-vs-belgrano-live.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/vi4mu41695734959.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/0twgzi1517768087.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "Colo-Colo",
@@ -331,7 +407,11 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd11.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-colo-colo-vs-deportes-limache-live.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-colo-colo-vs-deportes-limache-live.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/s41be31578347962.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/1bd0ws1706521384.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "Fortaleza",
@@ -343,7 +423,11 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/bra/br4.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-fortaleza-vs-maracana-live-stream.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-fortaleza-vs-maracana-live-stream.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/tosmdr1532853458.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/zxxyv51713439330.png",
+            "awayTeamLogoSource": "api"
         },
         {
             "homeTeam": "Flamengo",
@@ -356,7 +440,11 @@
                 "https://v3.sportsonline.ps/channels/bra/br1.php",
                 "https://v3.sportsonline.ps/channels/bra/br3.php"
             ],
-            "eventUrl": "http://watch.livesports808.top/2025/01/live-flamengo-vs-sampaio-correa-rj-live.html"
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-flamengo-vs-sampaio-correa-rj-live.html",
+            "homeTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/syptwx1473538074.png",
+            "homeTeamLogoSource": "api",
+            "awayTeamLogo": "https://www.thesportsdb.com/images/media/team/badge/2jjjlk1701366513.png",
+            "awayTeamLogoSource": "scrape"
         }
     ],
     "tomorrow": [
