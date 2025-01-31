@@ -1,5 +1,79 @@
 {
-    "yesterday": [],
+    "yesterday": [
+        {
+            "homeTeam": "Boavista",
+            "awayTeam": "Madureira",
+            "time": "2025-01-31 21:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v3.sportsonline.ps/channels/bra/br2.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Itabirito",
+            "awayTeam": "Cruzeiro",
+            "time": "2025-01-31 22:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v3.sportsonline.ps/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Racing Club",
+            "awayTeam": "Belgrano",
+            "time": "2025-01-31 22:15:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v3.sportsonline.ps/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Colo-Colo",
+            "awayTeam": "Deportes Limache",
+            "time": "2025-01-31 23:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v3.sportsonline.ps/channels/hd/hd11.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Fortaleza",
+            "awayTeam": "Maracan\u00e3",
+            "time": "2025-01-31 23:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v3.sportsonline.ps/channels/bra/br4.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Flamengo",
+            "awayTeam": "Sampaio Corr\u00eaa RJ",
+            "time": "2025-02-01 00:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v3.sportsonline.ps/channels/bra/br1.php",
+                "https://v3.sportsonline.ps/channels/bra/br3.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        }
+    ],
     "today": [
         {
             "homeTeam": "Brisbane Roar",
@@ -11,7 +85,7 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd5.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-brisbane-roar-vs-western-sydney.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Brisbane_Roar_FC_logo.svg/150px-Brisbane_Roar_FC_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Logo_of_Western_Sydney_Wanderers_FC.svg/180px-Logo_of_Western_Sydney_Wanderers_FC.svg.png"
         },
@@ -28,7 +102,7 @@
                 "https://v3.sportsonline.ps/channels/pt/sporttv1.php",
                 "https://v3.sportsonline.ps/channels/bra/br2.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-al-hilal-vs-al-akhdoud-live-stream.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Al-Hilal_SFC_logo.svg/125px-Al-Hilal_SFC_logo.svg.png",
             "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
         },
@@ -42,7 +116,7 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd9.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-eyupspor-vs-sivasspor-live-stream.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Eyupspor_logo.png/170px-Eyupspor_logo.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Keita_Bald%C3%A9_2022.jpg/220px-Keita_Bald%C3%A9_2022.jpg"
         },
@@ -57,7 +131,7 @@
                 "https://v3.sportsonline.ps/channels/hd/hd8.php",
                 "https://v3.sportsonline.ps/channels/pt/eleven1.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-elversberg-vs-karlsruher-sc-live.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/SV_Elversberg_Logo_2021.svg/180px-SV_Elversberg_Logo_2021.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Karlsruher_SC_Logo_2.svg/180px-Karlsruher_SC_Logo_2.svg.png"
         },
@@ -71,7 +145,7 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd11.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-nurnberg-vs-darmstadt-98-live.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/1._FC_N%C3%BCrnberg_logo.svg/180px-1._FC_N%C3%BCrnberg_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/SV_Darmstadt_98_logo.svg/180px-SV_Darmstadt_98_logo.svg.png"
         },
@@ -85,7 +159,7 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd5.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-eintracht-frankfurt-w-vs-bayer.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Kit_left_arm_frankfurt2425h.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/31px-Kit_left_arm.svg.png"
         },
@@ -99,7 +173,7 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/pt/sporttv1.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-euro-league-basketball-monaco-vs.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/25th_Anniversary_EuroLeague_logo.png/350px-25th_Anniversary_EuroLeague_logo.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/165px-Real_Madrid_CF.svg.png"
         },
@@ -113,7 +187,7 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd10.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-nac-breda-vs-heracles-live-stream.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_NAC_Breda.svg/165px-Logo_NAC_Breda.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kit_left_arm_utrecht2425h.png"
         },
@@ -128,7 +202,7 @@
                 "https://v3.sportsonline.ps/channels/hd/hd3.php",
                 "https://v3.sportsonline.ps/channels/pt/eleven1.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-werder-bremen-vs-mainz-05-live.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/140px-SV-Werder-Bremen-Logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/210px-Logo_Mainz_05.svg.png"
         },
@@ -143,7 +217,7 @@
                 "https://v3.sportsonline.ps/channels/hd/hd4.php",
                 "https://v3.sportsonline.ps/channels/pt/sporttv4.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-montpellier-vs-lens-live-stream-hd.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Montpellier_Place_de_la_Com%C3%A9die.jpg/250px-Montpellier_Place_de_la_Com%C3%A9die.jpg",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/RC_Lens_logo.svg/146px-RC_Lens_logo.svg.png"
         },
@@ -158,7 +232,7 @@
                 "https://v3.sportsonline.ps/channels/hd/hd7.php",
                 "https://v3.sportsonline.ps/channels/pt/sporttv3.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-parma-vs-lecce-live-stream-hd.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_Parma_Calcio_1913_%28adozione_2016%29.svg/150px-Logo_Parma_Calcio_1913_%28adozione_2016%29.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Collage_Lecce.jpg/250px-Collage_Lecce.jpg"
         },
@@ -175,7 +249,7 @@
                 "https://v3.sportsonline.ps/channels/pt/eleven2.php",
                 "https://v3.sportsonline.ps/channels/bra/br6.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-leganes-vs-rayo-vallecano-live.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/180px-Club_Deportivo_Legan%C3%A9s_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/190px-Rayo_Vallecano_logo.svg.png"
         },
@@ -190,7 +264,7 @@
                 "https://v3.sportsonline.ps/channels/hd/hd1.php",
                 "https://v3.sportsonline.ps/channels/pt/sporttv5.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-blackburn-rovers-vs-preston-north.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Blackburn_Rovers.svg/175px-Blackburn_Rovers.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Preston_North_End_FC.svg/200px-Preston_North_End_FC.svg.png"
         },
@@ -204,7 +278,7 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/pt/sporttv1.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-boavista-vs-famalicao-live-stream.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Boavista_F.C._logo.svg/190px-Boavista_F.C._logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/F.C._Famalic%C3%A3o_logo.svg/205px-F.C._Famalic%C3%A3o_logo.svg.png"
         },
@@ -218,7 +292,7 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/bra/br4.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-rb-bragantino-vs-novorizontino.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Red_Bull_Bragantino_logo.svg/230px-Red_Bull_Bragantino_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gr%C3%AAmio_Novorizontino.svg/180px-Gr%C3%AAmio_Novorizontino.svg.png"
         },
@@ -232,7 +306,7 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd10.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-santa-fe-vs-deportes-tolima-live.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/2024_Hyundai_Santa_Fe_Luxury_AWD_in_Hampton_Grey%2C_front_left%2C_2024-06-30.jpg/280px-2024_Hyundai_Santa_Fe_Luxury_AWD_in_Hampton_Grey%2C_front_left%2C_2024-06-30.jpg",
             "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
         },
@@ -246,7 +320,7 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd11.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-mazatlan-vs-leon-live-stream-hd.html",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Club_Le%C3%B3n_FC.svg/175px-Club_Le%C3%B3n_FC.svg.png"
         },
@@ -260,7 +334,7 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/bra/br6.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-boxing-kevin-crespo-vs-diego.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/2/22/Kit_left_arm_arsenal0204h.png",
             "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
         },
@@ -274,7 +348,7 @@
             "urls": [
                 "https://v3.sportsonline.ps/channels/hd/hd11.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "eventUrl": "http://watch.livesports808.top/2025/01/live-tijuana-vs-cruz-azul-live-stream-hd.html",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Club_de_Futbol_Cruz_Azul.svg/190px-Club_de_Futbol_Cruz_Azul.svg.png"
         }
