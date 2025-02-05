@@ -1,4 +1,3 @@
-
 {
   "matches": [
     {
@@ -88,19 +87,23 @@
       ],
       "m3u8Urls": [
         "https://ddh2new.iosplayer.ru/ddh2/premium8/mono.m3u8?token\u003dnone",
-        "https://windnew.iosplayer.ru/wind/premium451/mono.m3u8?token\u003dnone"
+        "https://windnew.iosplayer.ru/wind/premium451/mono.m3u8?token\u003dnone",
+        "https://ddy6new.iosplayer.ru/ddy6/premium771/mono.m3u8?token\u003dnone"
       ],
       "match": "Milan vs Roma",
       "origin": [
+        "https://cookiewebplay.xyz",
         "https://cookiewebplay.xyz",
         "https://cookiewebplay.xyz"
       ],
       "referrer": [
         "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/",
         "https://cookiewebplay.xyz/"
       ],
       "time": "20:00",
       "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
       ]
@@ -114,8 +117,28 @@
         "https://thedaddy.to/embed/stream-571.php",
         "https://thedaddy.to/embed/stream-49.php"
       ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium9/mono.m3u8?token\u003dnone",
+        "https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8?token\u003dnone",
+        "https://windnew.iosplayer.ru/wind/premium49/mono.m3u8?token\u003dnone"
+      ],
       "match": "Leganés vs Real Madrid",
-      "time": "20:00"
+      "origin": [
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/"
+      ],
+      "time": "20:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "England - League Cup",
@@ -126,8 +149,28 @@
         "https://thedaddy.to/embed/stream-38.php",
         "https://thedaddy.to/embed/stream-74.php"
       ],
+      "m3u8Urls": [
+        "https://zekonew.iosplayer.ru/zeko/premium35/mono.m3u8?token\u003dnone",
+        "https://zekonew.iosplayer.ru/zeko/premium38/mono.m3u8?token\u003dnone",
+        "https://dokko1new.iosplayer.ru/dokko1/premium74/mono.m3u8?token\u003dnone"
+      ],
       "match": "Newcastle United vs Arsenal",
-      "time": "20:00"
+      "origin": [
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/"
+      ],
+      "time": "20:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "Netherlands - KNVB Beker",
