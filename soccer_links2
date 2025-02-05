@@ -1,1 +1,140 @@
 
+{
+  "matches": [
+    {
+      "competition": "England - EFL Trophy",
+      "country": "England - EFL Trophy",
+      "league": "England - EFL Trophy",
+      "links": [
+        "https://thedaddy.to/embed/stream-36.php"
+      ],
+      "m3u8Urls": [
+        "https://zekonew.iosplayer.ru/zeko/premium36/mono.m3u8?token\u003dnone"
+      ],
+      "match": "Peterborough United vs Cheltenham Town",
+      "origin": [
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/"
+      ],
+      "time": "19:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "competition": "England - Championship",
+      "country": "England - Championship",
+      "league": "England - Championship",
+      "links": [
+        "https://thedaddy.to/embed/stream-77.php"
+      ],
+      "m3u8Urls": [
+        "https://windnew.iosplayer.ru/wind/premium77/mono.m3u8?token\u003dnone"
+      ],
+      "match": "Coventry City vs Leeds United",
+      "origin": [
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/"
+      ],
+      "time": "19:45",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "competition": "Netherlands - KNVB Beker",
+      "country": "Netherlands - KNVB Beker",
+      "league": "Netherlands - KNVB Beker",
+      "links": [
+        "https://thedaddy.to/embed/stream-379.php",
+        "https://thedaddy.to/embed/stream-597.php",
+        "https://thedaddy.to/embed/stream-571.php"
+      ],
+      "m3u8Urls": [
+        "https://zekonew.iosplayer.ru/zeko/premium379/mono.m3u8?token\u003dnone",
+        "https://ddh2new.iosplayer.ru/ddh2/premium597/mono.m3u8?token\u003dnone",
+        "https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8?token\u003dnone"
+      ],
+      "match": "PSV vs Feyenoord",
+      "origin": [
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/"
+      ],
+      "time": "17:45",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "competition": "Coppa Italia",
+      "country": "Coppa Italia",
+      "league": "Coppa Italia",
+      "links": [
+        "https://thedaddy.to/embed/stream-8.php",
+        "https://thedaddy.to/embed/stream-451.php",
+        "https://thedaddy.to/embed/stream-771.php"
+      ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium8/mono.m3u8?token\u003dnone",
+        "https://windnew.iosplayer.ru/wind/premium451/mono.m3u8?token\u003dnone"
+      ],
+      "match": "Milan vs Roma",
+      "origin": [
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/"
+      ],
+      "time": "20:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "competition": "Spain - Copa del Rey",
+      "country": "Spain - Copa del Rey",
+      "league": "Spain - Copa del Rey",
+      "links": [
+        "https://thedaddy.to/embed/stream-9.php",
+        "https://thedaddy.to/embed/stream-571.php",
+        "https://thedaddy.to/embed/stream-49.php"
+      ],
+      "match": "Leganés vs Real Madrid",
+      "time": "20:00"
+    },
+    {
+      "competition": "England - League Cup",
+      "country": "England - League Cup",
+      "league": "England - League Cup",
+      "links": [
+        "https://thedaddy.to/embed/stream-35.php",
+        "https://thedaddy.to/embed/stream-38.php",
+        "https://thedaddy.to/embed/stream-74.php"
+      ],
+      "match": "Newcastle United vs Arsenal",
+      "time": "20:00"
+    },
+    {
+      "competition": "Netherlands - KNVB Beker",
+      "country": "Netherlands - KNVB Beker",
+      "league": "Netherlands - KNVB Beker",
+      "match": "Go Ahead Eagles vs VV Noordwijk",
+      "time": "20:00"
+    }
+  ]
+}
