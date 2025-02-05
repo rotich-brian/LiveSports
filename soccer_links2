@@ -77,6 +77,38 @@
       ]
     },
     {
+      "competition": "Germany - DFB Pokal",
+      "country": "Germany - DFB Pokal",
+      "league": "Germany - DFB Pokal",
+      "links": [
+        "https://thedaddy.to/embed/stream-45.php",
+        "https://thedaddy.to/embed/stream-6.php",
+        "https://thedaddy.to/embed/stream-556.php"
+      ],
+      "m3u8Urls": [
+        "https://windnew.iosplayer.ru/wind/premium45/mono.m3u8?token\u003dnone",
+        "https://ddh2new.iosplayer.ru/ddh2/premium6/mono.m3u8?token\u003dnone",
+        "https://dokko1new.iosplayer.ru/dokko1/premium556/mono.m3u8?token\u003dnone"
+      ],
+      "match": "Bayer Leverkusen vs Köln",
+      "origin": [
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/"
+      ],
+      "time": "19:45",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
+    },
+    {
       "competition": "Coppa Italia",
       "country": "Coppa Italia",
       "league": "Coppa Italia",
