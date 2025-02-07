@@ -1,96 +1,348 @@
 {
-    "matches": [
-        {
-            "time": "15:05",
-            "country": "Saudi Arabia - Pro League",
-            "league": "Saudi Arabia - Pro League",
-            "competition": "Saudi Arabia - Pro League",
-            "match": "Al Quadisiya vs Al Raed",
-            "links": [
-                "https://thedaddy.to/embed/stream-5.php"
-            ]
-        },
-        {
-            "time": "15:20",
-            "country": "Saudi Arabia - Pro League",
-            "league": "Saudi Arabia - Pro League",
-            "competition": "Saudi Arabia - Pro League",
-            "match": "Al Shabab vs Al Khaleej",
-            "links": [
-                "https://thedaddy.to/embed/stream-6.php"
-            ]
-        },
-        {
-            "time": "17:00",
-            "country": "Saudi Arabia - Pro League",
-            "league": "Saudi Arabia - Pro League",
-            "competition": "Saudi Arabia - Pro League",
-            "match": "Al Taawon vs Al Ittihad",
-            "links": [
-                "https://thedaddy.to/embed/stream-7.php",
-                "https://thedaddy.to/embed/stream-756.php",
-                "https://thedaddy.to/embed/stream-426.php"
-            ]
-        },
-        {
-            "time": "18:30",
-            "country": "Spain - Copa del Rey",
-            "league": "Spain - Copa del Rey",
-            "competition": "Spain - Copa del Rey",
-            "match": "Real Sociedad vs Osasuna",
-            "links": [
-                "https://thedaddy.to/embed/stream-2.php",
-                "https://thedaddy.to/embed/stream-571.php",
-                "https://thedaddy.to/embed/stream-454.php"
-            ]
-        },
-        {
-            "time": "19:00",
-            "country": "Netherlands - KNVB Beker",
-            "league": "Netherlands - KNVB Beker",
-            "competition": "Netherlands - KNVB Beker",
-            "match": "AZ vs Quick Boys",
-            "links": [
-                "https://thedaddy.to/embed/stream-379.php",
-                "https://thedaddy.to/embed/stream-597.php",
-                "https://thedaddy.to/embed/stream-471.php"
-            ]
-        },
-        {
-            "time": "19:45",
-            "country": "Italy - Serie A",
-            "league": "Italy - Serie A",
-            "competition": "Italy - Serie A",
-            "match": "Fiorentina vs Internazionale",
-            "links": [
-                "https://thedaddy.to/embed/stream-4.php",
-                "https://thedaddy.to/embed/stream-870.php",
-                "https://thedaddy.to/embed/stream-289.php"
-            ]
-        },
-        {
-            "time": "20:00",
-            "country": "England - League Cup",
-            "league": "England - League Cup",
-            "competition": "England - League Cup",
-            "match": "Liverpool vs Tottenham Hotspur",
-            "links": [
-                "https://thedaddy.to/embed/stream-350.php",
-                "https://thedaddy.to/embed/stream-35.php",
-                "https://thedaddy.to/embed/stream-38.php"
-            ]
-        },
-        {
-            "time": "20:30",
-            "country": "Spain - Copa del Rey",
-            "league": "Spain - Copa del Rey",
-            "competition": "Spain - Copa del Rey",
-            "match": "Valencia vs Barcelona",
-            "links": [
-                "https://thedaddy.to/embed/stream-533.php",
-                "https://thedaddy.to/embed/stream-571.php",
-                "https://thedaddy.to/embed/stream-454.php"
-            ]
-        }
-    ]
+  "matches": [
+    {
+      "time": "11:05",
+      "country": "Saudi Arabia - Pro League",
+      "league": "Saudi Arabia - Pro League",
+      "competition": "Saudi Arabia - Pro League",
+      "match": "Al Orubah vs Al Wehda",
+      "links": [
+        "https://thedaddy.to/embed/stream-1.php"
+      ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium1/mono.m3u8?token=none"
+      ],
+      "origin": [
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/"
+      ],
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "time": "12:00",
+      "country": "World - Club Friendly",
+      "league": "World - Club Friendly",
+      "competition": "World - Club Friendly",
+      "match": "Rostov vs Zenit",
+      "links": [
+        "https://thedaddy.to/embed/stream-573.php",
+        "https://thedaddy.to/embed/stream-127.php"
+      ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium573/mono.m3u8?token=none",
+        "https://ddh2new.iosplayer.ru/ddh2/premium127/mono.m3u8?token=none"
+      ],
+      "origin": [
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/"
+      ],
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "time": "16:30",
+      "country": "World - Club Friendly",
+      "league": "World - Club Friendly",
+      "competition": "World - Club Friendly",
+      "match": "Dinamo Moskva vs Spartak Moskva",
+      "links": [
+        "https://thedaddy.to/embed/stream-573.php",
+        "https://thedaddy.to/embed/stream-127.php"
+      ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium573/mono.m3u8?token=none",
+        "https://ddh2new.iosplayer.ru/ddh2/premium127/mono.m3u8?token=none"
+      ],
+      "origin": [
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/"
+      ],
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "time": "17:00",
+      "country": "Saudi Arabia - Pro League",
+      "league": "Saudi Arabia - Pro League",
+      "competition": "Saudi Arabia - Pro League",
+      "match": "Al Ahli vs Al Fateh",
+      "links": [
+        "https://thedaddy.to/embed/stream-2.php"
+      ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium2/mono.m3u8?token=none"
+      ],
+      "origin": [
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/"
+      ],
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "time": "17:00",
+      "country": "Turkey - Super Lig",
+      "league": "Turkey - Super Lig",
+      "competition": "Turkey - Super Lig",
+      "match": "Samsunspor vs Hatayspor",
+      "links": [
+        "https://thedaddy.to/embed/stream-62.php"
+      ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium62/mono.m3u8?token=none"
+      ],
+      "origin": [
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/"
+      ],
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "time": "18:00",
+      "country": "France - Ligue 1",
+      "league": "France - Ligue 1",
+      "competition": "France - Ligue 1",
+      "match": "Nantes vs Brest",
+      "links": [
+        "https://thedaddy.to/embed/stream-55.php",
+        "https://thedaddy.to/embed/stream-425.php",
+        "https://thedaddy.to/embed/stream-372.php"
+      ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium55/mono.m3u8?token=none",
+        "https://ddh2new.iosplayer.ru/ddh2/premium425/mono.m3u8?token=none",
+        "https://ddh2new.iosplayer.ru/ddh2/premium372/mono.m3u8?token=none"
+      ],
+      "origin": [
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/"
+      ],
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "time": "19:30",
+      "country": "Bundesliga",
+      "league": "Bundesliga",
+      "competition": "Bundesliga",
+      "match": "Bayern M\u00fcnchen vs Werder Bremen",
+      "links": [
+        "https://thedaddy.to/embed/stream-426.php",
+        "https://thedaddy.to/embed/stream-35.php",
+        "https://thedaddy.to/embed/stream-107.php"
+      ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium426/mono.m3u8?token=none",
+        "https://ddh2new.iosplayer.ru/ddh2/premium35/mono.m3u8?token=none",
+        "https://ddh2new.iosplayer.ru/ddh2/premium107/mono.m3u8?token=none"
+      ],
+      "origin": [
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/"
+      ],
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "time": "19:45",
+      "country": "Italy - Serie A",
+      "league": "Italy - Serie A",
+      "competition": "Italy - Serie A",
+      "match": "Como vs Juventus",
+      "links": [
+        "https://thedaddy.to/embed/stream-17.php",
+        "https://thedaddy.to/embed/stream-870.php",
+        "https://thedaddy.to/embed/stream-910.php"
+      ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium17/mono.m3u8?token=none",
+        "https://ddh2new.iosplayer.ru/ddh2/premium870/mono.m3u8?token=none",
+        "https://ddh2new.iosplayer.ru/ddh2/premium910/mono.m3u8?token=none"
+      ],
+      "origin": [
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/"
+      ],
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "time": "20:00",
+      "country": "England - FA Cup",
+      "league": "England - FA Cup",
+      "competition": "England - FA Cup",
+      "match": "Manchester United vs Leicester City",
+      "links": [
+        "https://thedaddy.to/embed/stream-350.php",
+        "https://thedaddy.to/embed/stream-591.php",
+        "https://thedaddy.to/embed/stream-108.php"
+      ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium350/mono.m3u8?token=none",
+        "https://ddh2new.iosplayer.ru/ddh2/premium591/mono.m3u8?token=none",
+        "https://ddh2new.iosplayer.ru/ddh2/premium108/mono.m3u8?token=none"
+      ],
+      "origin": [
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/"
+      ],
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "time": "20:00",
+      "country": "Spain - La Liga",
+      "league": "Spain - La Liga",
+      "competition": "Spain - La Liga",
+      "match": "Rayo Vallecano vs Real Valladolid",
+      "links": [
+        "https://thedaddy.to/embed/stream-538.php",
+        "https://thedaddy.to/embed/stream-276.php",
+        "https://thedaddy.to/embed/stream-110.php"
+      ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium538/mono.m3u8?token=none",
+        "https://ddh2new.iosplayer.ru/ddh2/premium276/mono.m3u8?token=none",
+        "https://ddh2new.iosplayer.ru/ddh2/premium110/mono.m3u8?token=none"
+      ],
+      "origin": [
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/"
+      ],
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "time": "20:05",
+      "country": "France - Ligue 1",
+      "league": "France - Ligue 1",
+      "competition": "France - Ligue 1",
+      "match": "PSG vs Monaco",
+      "links": [
+        "https://thedaddy.to/embed/stream-55.php",
+        "https://thedaddy.to/embed/stream-425.php",
+        "https://thedaddy.to/embed/stream-372.php"
+      ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium55/mono.m3u8?token=none",
+        "https://ddh2new.iosplayer.ru/ddh2/premium425/mono.m3u8?token=none",
+        "https://ddh2new.iosplayer.ru/ddh2/premium372/mono.m3u8?token=none"
+      ],
+      "origin": [
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/"
+      ],
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
+    },
+    {
+      "time": "20:15",
+      "country": "Portugal - Primeira Liga",
+      "league": "Portugal - Primeira Liga",
+      "competition": "Portugal - Primeira Liga",
+      "match": "Porto vs Sporting CP",
+      "links": [
+        "https://thedaddy.to/embed/stream-49.php",
+        "https://thedaddy.to/embed/stream-597.php",
+        "https://thedaddy.to/embed/stream-917.php"
+      ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium49/mono.m3u8?token=none",
+        "https://ddh2new.iosplayer.ru/ddh2/premium597/mono.m3u8?token=none",
+        "https://ddh2new.iosplayer.ru/ddh2/premium917/mono.m3u8?token=none"
+      ],
+      "origin": [
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz",
+        "https://cookiewebplay.xyz"
+      ],
+      "referrer": [
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/",
+        "https://cookiewebplay.xyz/"
+      ],
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
+    }
+  ]
 }
