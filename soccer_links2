@@ -5,15 +5,14 @@
       "country": "Bundesliga",
       "league": "Bundesliga",
       "links": [
-        "https://thedaddy.to/embed/stream-4.php",
-        "https://thedaddy.to/embed/stream-159.php",
-        "https://thedaddy.to/embed/stream-166.php"
+        "https://thedaddy.to/embed/stream-5.php",
+        "https://thedaddy.to/embed/stream-497.php"
       ],
       "m3u8Urls": [
-        "https://ddh2new.iosplayer.ru/ddh2/premium4/mono.m3u8?token\u003dnone",
-        "https://dokko1new.iosplayer.ru/dokko1/premium159/mono.m3u8?token\u003dnone"
+        "https://ddh2new.iosplayer.ru/ddh2/premium5/mono.m3u8?token\u003dnone",
+        "https://ddy6new.iosplayer.ru/ddy6/premium497/mono.m3u8?token\u003dnone"
       ],
-      "match": "Wolfsburg vs Bayer Leverkusen",
+      "match": "Mainz 05 vs Augsburg",
       "origin": [
         "https://newembedplay.xyz",
         "https://newembedplay.xyz"
@@ -29,28 +28,31 @@
       ]
     },
     {
-      "competition": "Bundesliga",
-      "country": "Bundesliga",
-      "league": "Bundesliga",
-      "links": [
-        "https://thedaddy.to/embed/stream-5.php",
-        "https://thedaddy.to/embed/stream-167.php",
-        "https://thedaddy.to/embed/stream-497.php"
-      ],
-      "match": "Mainz 05 vs Augsburg",
-      "time": "14:30"
-    },
-    {
       "competition": "England - FA Cup",
       "country": "England - FA Cup",
       "league": "England - FA Cup",
       "links": [
         "https://thedaddy.to/embed/stream-594.php",
-        "https://thedaddy.to/embed/stream-168.php",
         "https://thedaddy.to/embed/stream-420.php"
       ],
+      "m3u8Urls": [
+        "https://dokko1new.iosplayer.ru/dokko1/premium594/mono.m3u8?token\u003dnone",
+        "https://windnew.iosplayer.ru/wind/premium420/mono.m3u8?token\u003dnone"
+      ],
       "match": "Coventry City vs Ipswich Town",
-      "time": "15:00"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "15:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "England - FA Cup",
@@ -58,11 +60,26 @@
       "league": "England - FA Cup",
       "links": [
         "https://thedaddy.to/embed/stream-589.php",
-        "https://thedaddy.to/embed/stream-169.php",
         "https://thedaddy.to/embed/stream-771.php"
       ],
+      "m3u8Urls": [
+        "https://dokko1new.iosplayer.ru/dokko1/premium589/mono.m3u8?token\u003dnone",
+        "https://ddy6new.iosplayer.ru/ddy6/premium771/mono.m3u8?token\u003dnone"
+      ],
       "match": "Everton vs AFC Bournemouth",
-      "time": "15:00"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "15:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "England - FA Cup",
@@ -70,23 +87,53 @@
       "league": "England - FA Cup",
       "links": [
         "https://thedaddy.to/embed/stream-418.php",
-        "https://thedaddy.to/embed/stream-170.php",
         "https://thedaddy.to/embed/stream-916.php"
       ],
+      "m3u8Urls": [
+        "https://ddy6new.iosplayer.ru/ddy6/premium418/mono.m3u8?token\u003dnone",
+        "https://windnew.iosplayer.ru/wind/premium916/mono.m3u8?token\u003dnone"
+      ],
       "match": "Southampton vs Burnley",
-      "time": "15:00"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "15:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "England - FA Cup",
       "country": "England - FA Cup",
       "league": "England - FA Cup",
       "links": [
-        "https://thedaddy.to/embed/stream-171.php",
         "https://thedaddy.to/embed/stream-25.php",
         "https://thedaddy.to/embed/stream-77.php"
       ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium25/mono.m3u8?token\u003dnone",
+        "https://windnew.iosplayer.ru/wind/premium77/mono.m3u8?token\u003dnone"
+      ],
       "match": "Stoke City vs Cardiff City",
-      "time": "15:00"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "15:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "England - FA Cup",
@@ -94,11 +141,26 @@
       "league": "England - FA Cup",
       "links": [
         "https://thedaddy.to/embed/stream-587.php",
-        "https://thedaddy.to/embed/stream-172.php",
         "https://thedaddy.to/embed/stream-26.php"
       ],
+      "m3u8Urls": [
+        "https://dokko1new.iosplayer.ru/dokko1/premium587/mono.m3u8?token\u003dnone",
+        "https://ddh2new.iosplayer.ru/ddh2/premium26/mono.m3u8?token\u003dnone"
+      ],
       "match": "Preston North End vs Wycombe Wanderers",
-      "time": "15:00"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "15:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "England - FA Cup",
@@ -106,11 +168,26 @@
       "league": "England - FA Cup",
       "links": [
         "https://thedaddy.to/embed/stream-590.php",
-        "https://thedaddy.to/embed/stream-173.php",
         "https://thedaddy.to/embed/stream-406.php"
       ],
+      "m3u8Urls": [
+        "https://dokko1new.iosplayer.ru/dokko1/premium590/mono.m3u8?token\u003dnone",
+        "https://windnew.iosplayer.ru/wind/premium406/mono.m3u8?token\u003dnone"
+      ],
       "match": "Wigan Athletic vs Fulham",
-      "time": "15:00"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "15:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "Portugal - Primeira Liga",
@@ -120,8 +197,24 @@
         "https://thedaddy.to/embed/stream-49.php",
         "https://thedaddy.to/embed/stream-597.php"
       ],
+      "m3u8Urls": [
+        "https://windnew.iosplayer.ru/wind/premium49/mono.m3u8?token\u003dnone",
+        "https://ddh2new.iosplayer.ru/ddh2/premium597/mono.m3u8?token\u003dnone"
+      ],
       "match": "AVS vs Santa Clara",
-      "time": "15:30"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "15:30",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "Netherlands - Eredivisie",
@@ -130,8 +223,20 @@
       "links": [
         "https://thedaddy.to/embed/stream-888.php"
       ],
+      "m3u8Urls": [
+        "https://windnew.iosplayer.ru/wind/premium888/mono.m3u8?token\u003dnone"
+      ],
       "match": "Heracles vs Go Ahead Eagles",
-      "time": "15:30"
+      "origin": [
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/"
+      ],
+      "time": "15:30",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "Saudi Arabia - Pro League",
@@ -140,8 +245,20 @@
       "links": [
         "https://thedaddy.to/embed/stream-12.php"
       ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium12/mono.m3u8?token\u003dnone"
+      ],
       "match": "Al Akhdoud vs Al Ittifaq",
-      "time": "15:40"
+      "origin": [
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/"
+      ],
+      "time": "15:40",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "France - Ligue 1",
@@ -152,8 +269,28 @@
         "https://thedaddy.to/embed/stream-425.php",
         "https://thedaddy.to/embed/stream-372.php"
       ],
+      "m3u8Urls": [
+        "https://zekonew.iosplayer.ru/zeko/premium116/mono.m3u8?token\u003dnone",
+        "https://zekonew.iosplayer.ru/zeko/premium425/mono.m3u8?token\u003dnone",
+        "https://zekonew.iosplayer.ru/zeko/premium372/mono.m3u8?token\u003dnone"
+      ],
       "match": "Nice vs Lens",
-      "time": "16:00"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "16:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "Super Lig",
@@ -164,8 +301,28 @@
         "https://thedaddy.to/embed/stream-290.php",
         "https://thedaddy.to/embed/stream-499.php"
       ],
+      "m3u8Urls": [
+        "https://zekonew.iosplayer.ru/zeko/premium62/mono.m3u8?token\u003dnone",
+        "https://ddy6new.iosplayer.ru/ddy6/premium290/mono.m3u8?token\u003dnone",
+        "https://ddy6new.iosplayer.ru/ddy6/premium499/mono.m3u8?token\u003dnone"
+      ],
       "match": "Sivasspor vs Beşiktaş",
-      "time": "16:00"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "16:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "Italy - Serie A",
@@ -176,8 +333,28 @@
         "https://thedaddy.to/embed/stream-427.php",
         "https://thedaddy.to/embed/stream-454.php"
       ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium877/mono.m3u8?token\u003dnone",
+        "https://ddy6new.iosplayer.ru/ddy6/premium427/mono.m3u8?token\u003dnone",
+        "https://ddy6new.iosplayer.ru/ddy6/premium454/mono.m3u8?token\u003dnone"
+      ],
       "match": "Empoli vs Milan",
-      "time": "17:00"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "17:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "Saudi Arabia - Pro League",
@@ -188,8 +365,28 @@
         "https://thedaddy.to/embed/stream-756.php",
         "https://thedaddy.to/embed/stream-463.php"
       ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium19/mono.m3u8?token\u003dnone",
+        "https://ddy6new.iosplayer.ru/ddy6/premium756/mono.m3u8?token\u003dnone",
+        "https://windnew.iosplayer.ru/wind/premium463/mono.m3u8?token\u003dnone"
+      ],
       "match": "Damac vs Al Hilal",
-      "time": "17:00"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "17:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "Bundesliga",
@@ -200,8 +397,28 @@
         "https://thedaddy.to/embed/stream-36.php",
         "https://thedaddy.to/embed/stream-556.php"
       ],
+      "m3u8Urls": [
+        "https://ddy6new.iosplayer.ru/ddy6/premium558/mono.m3u8?token\u003dnone",
+        "https://zekonew.iosplayer.ru/zeko/premium36/mono.m3u8?token\u003dnone",
+        "https://dokko1new.iosplayer.ru/dokko1/premium556/mono.m3u8?token\u003dnone"
+      ],
       "match": "Borussia M\u0027gladbach vs Eintracht Frankfurt",
-      "time": "17:30"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "17:30",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "Spain - La Liga",
@@ -212,8 +429,28 @@
         "https://thedaddy.to/embed/stream-530.php",
         "https://thedaddy.to/embed/stream-114.php"
       ],
+      "m3u8Urls": [
+        "https://dokko1new.iosplayer.ru/dokko1/premium538/mono.m3u8?token\u003dnone",
+        "https://dokko1new.iosplayer.ru/dokko1/premium530/mono.m3u8?token\u003dnone",
+        "https://zekonew.iosplayer.ru/zeko/premium114/mono.m3u8?token\u003dnone"
+      ],
       "match": "Las Palmas vs Villarreal",
-      "time": "17:30"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "17:30",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "England - FA Cup",
@@ -224,8 +461,28 @@
         "https://thedaddy.to/embed/stream-592.php",
         "https://thedaddy.to/embed/stream-410.php"
       ],
+      "m3u8Urls": [
+        "https://ddy6new.iosplayer.ru/ddy6/premium356/mono.m3u8?token\u003dnone",
+        "https://dokko1new.iosplayer.ru/dokko1/premium592/mono.m3u8?token\u003dnone",
+        "https://windnew.iosplayer.ru/wind/premium410/mono.m3u8?token\u003dnone"
+      ],
       "match": "Birmingham City vs Newcastle United",
-      "time": "17:45"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "17:45",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "Netherlands - Eredivisie",
@@ -236,8 +493,28 @@
         "https://thedaddy.to/embed/stream-571.php",
         "https://thedaddy.to/embed/stream-124.php"
       ],
+      "m3u8Urls": [
+        "https://zekonew.iosplayer.ru/zeko/premium386/mono.m3u8?token\u003dnone",
+        "https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8?token\u003dnone",
+        "https://windnew.iosplayer.ru/wind/premium124/mono.m3u8?token\u003dnone"
+      ],
       "match": "PSV vs Willem II",
-      "time": "17:45"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "17:45",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "France - Ligue 1",
@@ -248,8 +525,28 @@
         "https://thedaddy.to/embed/stream-425.php",
         "https://thedaddy.to/embed/stream-372.php"
       ],
+      "m3u8Urls": [
+        "https://windnew.iosplayer.ru/wind/premium68/mono.m3u8?token\u003dnone",
+        "https://zekonew.iosplayer.ru/zeko/premium425/mono.m3u8?token\u003dnone",
+        "https://zekonew.iosplayer.ru/zeko/premium372/mono.m3u8?token\u003dnone"
+      ],
       "match": "Lille vs Le Havre",
-      "time": "18:00"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "18:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "Portugal - Primeira Liga",
@@ -260,8 +557,28 @@
         "https://thedaddy.to/embed/stream-597.php",
         "https://thedaddy.to/embed/stream-10.php"
       ],
+      "m3u8Urls": [
+        "https://dokko1new.iosplayer.ru/dokko1/premium380/mono.m3u8?token\u003dnone",
+        "https://ddh2new.iosplayer.ru/ddh2/premium597/mono.m3u8?token\u003dnone",
+        "https://ddh2new.iosplayer.ru/ddh2/premium10/mono.m3u8?token\u003dnone"
+      ],
       "match": "Benfica vs Moreirense",
-      "time": "18:00"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "18:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "Netherlands - Eredivisie",
@@ -270,8 +587,20 @@
       "links": [
         "https://thedaddy.to/embed/stream-379.php"
       ],
+      "m3u8Urls": [
+        "https://zekonew.iosplayer.ru/zeko/premium379/mono.m3u8?token\u003dnone"
+      ],
       "match": "Groningen vs NEC",
-      "time": "19:00"
+      "origin": [
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/"
+      ],
+      "time": "19:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "Italy - Serie A",
@@ -282,8 +611,28 @@
         "https://thedaddy.to/embed/stream-870.php",
         "https://thedaddy.to/embed/stream-910.php"
       ],
+      "m3u8Urls": [
+        "https://ddh2new.iosplayer.ru/ddh2/premium22/mono.m3u8?token\u003dnone",
+        "https://windnew.iosplayer.ru/wind/premium870/mono.m3u8?token\u003dnone",
+        "https://zekonew.iosplayer.ru/zeko/premium910/mono.m3u8?token\u003dnone"
+      ],
       "match": "Torino vs Genoa",
-      "time": "19:45"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "19:45",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "England - FA Cup",
@@ -294,8 +643,28 @@
         "https://thedaddy.to/embed/stream-590.php",
         "https://thedaddy.to/embed/stream-410.php"
       ],
+      "m3u8Urls": [
+        "https://ddy6new.iosplayer.ru/ddy6/premium353/mono.m3u8?token\u003dnone",
+        "https://dokko1new.iosplayer.ru/dokko1/premium590/mono.m3u8?token\u003dnone",
+        "https://windnew.iosplayer.ru/wind/premium410/mono.m3u8?token\u003dnone"
+      ],
       "match": "Brighton \u0026amp; Hove Albion vs Chelsea",
-      "time": "20:00"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "20:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "Spain - La Liga",
@@ -306,8 +675,28 @@
         "https://thedaddy.to/embed/stream-12.php",
         "https://thedaddy.to/embed/stream-276.php"
       ],
+      "m3u8Urls": [
+        "https://windnew.iosplayer.ru/wind/premium84/mono.m3u8?token\u003dnone",
+        "https://ddh2new.iosplayer.ru/ddh2/premium12/mono.m3u8?token\u003dnone",
+        "https://windnew.iosplayer.ru/wind/premium276/mono.m3u8?token\u003dnone"
+      ],
       "match": "Real Madrid vs Atlético Madrid",
-      "time": "20:00"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "20:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "Netherlands - Eredivisie",
@@ -318,8 +707,28 @@
         "https://thedaddy.to/embed/stream-161.php",
         "https://thedaddy.to/embed/stream-571.php"
       ],
+      "m3u8Urls": [
+        "https://zekonew.iosplayer.ru/zeko/premium386/mono.m3u8?token\u003dnone",
+        "https://windnew.iosplayer.ru/wind/premium161/mono.m3u8?token\u003dnone",
+        "https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8?token\u003dnone"
+      ],
       "match": "Feyenoord vs Sparta Rotterdam",
-      "time": "20:00"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "20:00",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "France - Ligue 1",
@@ -330,8 +739,28 @@
         "https://thedaddy.to/embed/stream-425.php",
         "https://thedaddy.to/embed/stream-372.php"
       ],
+      "m3u8Urls": [
+        "https://windnew.iosplayer.ru/wind/premium68/mono.m3u8?token\u003dnone",
+        "https://zekonew.iosplayer.ru/zeko/premium425/mono.m3u8?token\u003dnone",
+        "https://zekonew.iosplayer.ru/zeko/premium372/mono.m3u8?token\u003dnone"
+      ],
       "match": "Saint-Étienne vs Rennes",
-      "time": "20:05"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "20:05",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     },
     {
       "competition": "Portugal - Primeira Liga",
@@ -342,8 +771,28 @@
         "https://thedaddy.to/embed/stream-623.php",
         "https://thedaddy.to/embed/stream-453.php"
       ],
+      "m3u8Urls": [
+        "https://windnew.iosplayer.ru/wind/premium49/mono.m3u8?token\u003dnone",
+        "https://dokko1new.iosplayer.ru/dokko1/premium623/mono.m3u8?token\u003dnone",
+        "https://windnew.iosplayer.ru/wind/premium453/mono.m3u8?token\u003dnone"
+      ],
       "match": "Famalicão vs Vitória Guimarães",
-      "time": "20:30"
+      "origin": [
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz",
+        "https://newembedplay.xyz"
+      ],
+      "referrer": [
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/",
+        "https://newembedplay.xyz/"
+      ],
+      "time": "20:30",
+      "userAgent": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+      ]
     }
   ]
 }
