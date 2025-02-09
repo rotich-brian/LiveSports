@@ -1,1406 +1,1004 @@
 {
     "yesterday": [
         {
-            "homeTeam": "Rionegro \u00c1guilas",
-            "awayTeam": "Santa Fe",
-            "time": "2025-02-08 23:00:00",
+            "homeTeam": "River Plate",
+            "awayTeam": "Independiente",
+            "time": "2025-02-09 23:15:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd11.php"
+                "https://v4.sportsonline.ps/channels/pt/sporttv3.php",
+                "https://v4.sportsonline.ps/channels/bra/br6.php"
             ],
             "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
         },
         {
-            "homeTeam": "Deportes Tolima",
-            "awayTeam": "Alianza Petrolera",
-            "time": "2025-02-09 01:10:00",
+            "homeTeam": "Uni\u00f3n Magdalena",
+            "awayTeam": "Junior",
+            "time": "2025-02-09 23:20:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd11.php"
+                "https://v4.sportsonline.ps/channels/hd/hd11.php"
             ],
             "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
         },
         {
-            "homeTeam": "Real Espa\u00f1a",
-            "awayTeam": "Marath\u00f3n",
-            "time": "2025-02-09 01:30:00",
+            "homeTeam": "Gr\u00eamio",
+            "awayTeam": "Internacional",
+            "time": "2025-02-10 00:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd9.php"
+                "https://v4.sportsonline.ps/channels/bra/br5.php"
             ],
             "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
         },
         {
-            "homeTeam": "Puebla",
-            "awayTeam": "Am\u00e9rica",
-            "time": "2025-02-09 03:00:00",
+            "homeTeam": "Olimpia",
+            "awayTeam": "Inter Miami",
+            "time": "2025-02-10 01:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd10.php"
+                "https://v4.sportsonline.ps/channels/hd/hd9.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Le\u00f3n",
+            "awayTeam": "Toluca",
+            "time": "2025-02-10 01:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Racing Club",
+            "awayTeam": "Boca Juniors",
+            "time": "2025-02-10 01:15:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/hd/hd6.php",
+                "https://v4.sportsonline.ps/channels/pt/sporttv3.php",
+                "https://v4.sportsonline.ps/channels/bra/br6.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Millonarios",
+            "awayTeam": "La Equidad",
+            "time": "2025-02-10 01:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/hd/hd11.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Cruz Azul",
+            "awayTeam": "Pachuca",
+            "time": "2025-02-10 03:05:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/hd/hd10.php"
             ],
             "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
         }
     ],
     "today": [
         {
-            "homeTeam": "Leix\u00f5es",
-            "awayTeam": "UD Oliveirense",
-            "time": "2025-02-08 11:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-leixoes-vs-ud-oliveirense-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Leix%C3%B5es.png/130px-Leix%C3%B5es.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/UD_Oliveirense.png/220px-UD_Oliveirense.png"
-        },
-        {
-            "homeTeam": "Darmstadt 98",
-            "awayTeam": "Elversberg",
-            "time": "2025-02-08 12:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd9.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-darmstadt-98-vs-elversberg-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/SV_Darmstadt_98_logo.svg/180px-SV_Darmstadt_98_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/SV_Elversberg_Logo_2021.svg/180px-SV_Elversberg_Logo_2021.svg.png"
-        },
-        {
-            "homeTeam": "Magdeburg",
-            "awayTeam": "N\u00fcrnberg",
-            "time": "2025-02-08 12:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd3.php",
-                "https://v3.sportsonline.ps/channels/pt/eleven2.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-magdeburg-vs-nurnberg-live-stream.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/1._FC_Magdeburg.svg/180px-1._FC_Magdeburg.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/1._FC_N%C3%BCrnberg_logo.svg/180px-1._FC_N%C3%BCrnberg_logo.svg.png"
-        },
-        {
-            "homeTeam": "Leeds United",
-            "awayTeam": "Millwall",
-            "time": "2025-02-08 12:15:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd11.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-leeds-united-vs-millwall-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/175px-Leeds_United_F.C._logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Millwall_FC_crest.svg/150px-Millwall_FC_crest.svg.png"
-        },
-        {
-            "homeTeam": "Leyton Orient",
-            "awayTeam": "Manchester City",
-            "time": "2025-02-08 12:15:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd1.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv2.php",
-                "https://v3.sportsonline.ps/channels/bra/br2.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-leyton-orient-vs-manchester-city.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Leyton_Orient_F.C._logo.svg/180px-Leyton_Orient_F.C._logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/200px-Manchester_City_FC_badge.svg.png"
-        },
-        {
-            "homeTeam": "Sunderland",
-            "awayTeam": "Watford",
-            "time": "2025-02-08 12:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd10.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv4.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-sunderland-vs-watford-live-stream.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/250px-Logo_Sunderland.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Watford.svg/180px-Watford.svg.png"
-        },
-        {
-            "homeTeam": "Celta de Vigo",
-            "awayTeam": "Real Betis",
-            "time": "2025-02-08 13:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd2.php",
-                "https://v3.sportsonline.ps/channels/hd/hd6.php",
-                "https://v3.sportsonline.ps/channels/pt/eleven1.php",
-                "https://v3.sportsonline.ps/channels/bra/br6.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-celta-de-vigo-vs-real-betis-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/110px-RC_Celta_de_Vigo_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/220px-Real_betis_logo.svg.png"
-        },
-        {
-            "homeTeam": "Hellas Verona",
-            "awayTeam": "Atalanta",
-            "time": "2025-02-08 14:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd7.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-hellas-verona-vs-atalanta-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Hellas_Verona_FC_logo_%282020%29.svg/180px-Hellas_Verona_FC_logo_%282020%29.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Atalanta_Lepautre_Louvre_MR1804.jpg/220px-Atalanta_Lepautre_Louvre_MR1804.jpg"
-        },
-        {
-            "homeTeam": "Wolfsburg",
-            "awayTeam": "Bayer Leverkusen",
-            "time": "2025-02-08 14:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd9.php",
-                "https://v3.sportsonline.ps/channels/hd/hd8.php",
-                "https://v3.sportsonline.ps/channels/pt/eleven2.php",
-                "https://v3.sportsonline.ps/channels/bra/br5.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-wolfsburg-vs-bayer-leverkusen-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/190px-VfL_Wolfsburg_Logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/240px-Bayer_04_Leverkusen_logo.svg.png"
-        },
-        {
-            "homeTeam": "Borussia Dortmund",
-            "awayTeam": "Stuttgart",
-            "time": "2025-02-08 14:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd3.php",
-                "https://v3.sportsonline.ps/channels/pt/eleven3.php",
-                "https://v3.sportsonline.ps/channels/bra/br1.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-borussia-dortmund-vs-stuttgart.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/180px-Borussia_Dortmund_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/185px-VfB_Stuttgart_1893_Logo.svg.png"
-        },
-        {
-            "homeTeam": "Everton",
-            "awayTeam": "AFC Bournemouth",
-            "time": "2025-02-08 15:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd1.php",
-                "https://v3.sportsonline.ps/channels/bra/br2.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-everton-vs-afc-bournemouth-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/200px-Everton_FC_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kit_left_arm_bournemouth2425h.png"
-        },
-        {
-            "homeTeam": "Southampton",
-            "awayTeam": "Burnley",
-            "time": "2025-02-08 15:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd11.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-southampton-vs-burnley-live-stream.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/190px-FC_Southampton.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Burnley_FC_Logo.svg/180px-Burnley_FC_Logo.svg.png"
-        },
-        {
-            "homeTeam": "Wigan Athletic",
-            "awayTeam": "Fulham",
-            "time": "2025-02-08 15:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd10.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv3.php",
-                "https://v3.sportsonline.ps/channels/bra/br6.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-wigan-athletic-vs-fulham-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Wigan_Athletic.svg/180px-Wigan_Athletic.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Fulham_FC_%28shield%29.svg/150px-Fulham_FC_%28shield%29.svg.png"
-        },
-        {
-            "homeTeam": "Athletic Club",
-            "awayTeam": "Girona",
-            "time": "2025-02-08 15:15:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd2.php",
-                "https://v3.sportsonline.ps/channels/hd/hd6.php",
-                "https://v3.sportsonline.ps/channels/pt/eleven1.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-athletic-club-vs-girona-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/170px-Club_Athletic_Bilbao_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Girona_FC_Logo.svg/190px-Girona_FC_Logo.svg.png"
-        },
-        {
-            "homeTeam": "AVS",
-            "awayTeam": "Santa Clara",
-            "time": "2025-02-08 15:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-avs-vs-santa-clara-live-stream-hd.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Kit_left_arm_porto2425h.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C.D._Santa_Clara_logo.svg/150px-C.D._Santa_Clara_logo.svg.png"
-        },
-        {
-            "homeTeam": "Mar\u00edtimo",
-            "awayTeam": "Portimonense",
-            "time": "2025-02-08 15:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/pt/sporttv2.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-maritimo-vs-portimonense-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Classic_Maritimo_Logo.png/220px-Classic_Maritimo_Logo.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
-        },
-        {
-            "homeTeam": "Nice",
-            "awayTeam": "Lens",
-            "time": "2025-02-08 16:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd4.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv4.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-nice-vs-lens-live-stream-hd.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Chien_Lee_at_OGC_Nice%288%29.jpg/220px-Chien_Lee_at_OGC_Nice%288%29.jpg",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/RC_Lens_logo.svg/146px-RC_Lens_logo.svg.png"
-        },
-        {
-            "homeTeam": "Sivasspor",
-            "awayTeam": "Be\u015fikta\u015f",
-            "time": "2025-02-08 16:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/pt/sporttv5.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-sivasspor-vs-besiktas-live-stream.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Keita_Bald%C3%A9_2022.jpg/220px-Keita_Bald%C3%A9_2022.jpg",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BesiktasJK-Logo.svg/190px-BesiktasJK-Logo.svg.png"
-        },
-        {
-            "homeTeam": "Empoli",
-            "awayTeam": "Milan",
-            "time": "2025-02-08 17:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd7.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv3.php",
-                "https://v3.sportsonline.ps/channels/bra/br2.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-empoli-vs-milan-live-stream-hd.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Empoli_FC_crest.svg/140px-Empoli_FC_crest.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/200px-FC_Internazionale_Milano_2021.svg.png"
-        },
-        {
-            "homeTeam": "Damac",
-            "awayTeam": "Al Hilal",
-            "time": "2025-02-08 17:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd11.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-damac-vs-al-hilal-live-stream-hd.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Damac_FC_Logo.svg/190px-Damac_FC_Logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Al-Hilal_SFC_logo.svg/125px-Al-Hilal_SFC_logo.svg.png"
-        },
-        {
-            "homeTeam": "Borussia M'gladbach",
-            "awayTeam": "Eintracht Frankfurt",
-            "time": "2025-02-08 17:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd3.php",
-                "https://v3.sportsonline.ps/channels/hd/hd8.php",
-                "https://v3.sportsonline.ps/channels/pt/eleven2.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-borussia-mgladbach-vs-eintracht.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/140px-Borussia_M%C3%B6nchengladbach_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Kit_left_arm_frankfurt2425h.png"
-        },
-        {
-            "homeTeam": "Las Palmas",
-            "awayTeam": "Villarreal",
-            "time": "2025-02-08 17:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd2.php",
-                "https://v3.sportsonline.ps/channels/hd/hd6.php",
-                "https://v3.sportsonline.ps/channels/pt/eleven1.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-las-palmas-vs-villarreal-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/UD_Las_Palmas_logo.svg/125px-UD_Las_Palmas_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Villarreal_CF_logo-en.svg/175px-Villarreal_CF_logo-en.svg.png"
-        },
-        {
-            "homeTeam": "Celtic",
-            "awayTeam": "Raith Rovers",
-            "time": "2025-02-08 17:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd10.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-celtic-vs-raith-rovers-live-stream.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Celtic_FC_crest.svg/190px-Celtic_FC_crest.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Raith_Rovers_Logo.png/180px-Raith_Rovers_Logo.png"
-        },
-        {
-            "homeTeam": "Birmingham City",
-            "awayTeam": "Newcastle United",
-            "time": "2025-02-08 17:45:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd1.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv2.php",
-                "https://v3.sportsonline.ps/channels/bra/br6.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-birmingham-city-vs-newcastle.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Birmingham_City_FC_logo.svg/150px-Birmingham_City_FC_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/200px-Newcastle_United_Logo.svg.png"
-        },
-        {
-            "homeTeam": "PSV",
-            "awayTeam": "Willem II\tEredivisie",
-            "time": "2025-02-08 17:45:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd9.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-psv-vs-willem-ii-eredivisie-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/210px-PSV_Eindhoven.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eredivisie_nieuw_logo_2017-.svg/200px-Eredivisie_nieuw_logo_2017-.svg.png"
-        },
-        {
-            "homeTeam": "Lille",
-            "awayTeam": "Le Havre",
-            "time": "2025-02-08 18:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd4.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv4.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-lille-vs-le-havre-live-stream-hd.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Lille_OSC_2018_logo.svg/210px-Lille_OSC_2018_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Le_Havre_AC_logo.svg/150px-Le_Havre_AC_logo.svg.png"
-        },
-        {
-            "homeTeam": "Benfica",
-            "awayTeam": "Moreirense",
-            "time": "2025-02-08 18:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/pt/btv.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-benfica-vs-moreirense-live-stream.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/180px-FC_Porto.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Moreirense_Futebol_Clube_logo.svg/240px-Moreirense_Futebol_Clube_logo.svg.png"
-        },
-        {
-            "homeTeam": "Penafiel",
-            "awayTeam": "Pa\u00e7os de Ferreira",
-            "time": "2025-02-08 18:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-penafiel-vs-pacos-de-ferreira-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/F.C._Penafiel_logo.png/220px-F.C._Penafiel_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/F.C._Pa%C3%A7os_de_Ferreira.svg/160px-F.C._Pa%C3%A7os_de_Ferreira.svg.png"
-        },
-        {
-            "homeTeam": "Boyac\u00e1 Chic\u00f3",
-            "awayTeam": "Llaneros",
-            "time": "2025-02-08 19:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd11.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-boyaca-chico-vs-llaneros-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Boyac%C3%A1_Chic%C3%B3_FC.png/150px-Boyac%C3%A1_Chic%C3%B3_FC.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
-        },
-        {
-            "homeTeam": "Hertha BSC",
-            "awayTeam": "Kaiserslautern",
-            "time": "2025-02-08 19:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd3.php",
-                "https://v3.sportsonline.ps/channels/pt/eleven2.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-hertha-bsc-vs-kaiserslautern-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hertha_BSC_Logo_2012.svg/200px-Hertha_BSC_Logo_2012.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Logo_1_FC_Kaiserslautern.svg/190px-Logo_1_FC_Kaiserslautern.svg.png"
-        },
-        {
-            "homeTeam": "Fluminense",
-            "awayTeam": "Flamengo",
-            "time": "2025-02-08 19:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/bra/br1.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-fluminense-vs-flamengo-live-stream.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FFC_crest.svg/180px-FFC_crest.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamengo_braz_logo.svg/155px-Flamengo_braz_logo.svg.png"
-        },
-        {
-            "homeTeam": "Tombense",
-            "awayTeam": "Am\u00e9rica Mineiro",
-            "time": "2025-02-08 19:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/bra/br4.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-tombense-vs-america-mineiro-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Tombense_FC.png/185px-Tombense_FC.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Escudo_Am%C3%A9rica_de_Minas.png/210px-Escudo_Am%C3%A9rica_de_Minas.png"
-        },
-        {
-            "homeTeam": "Torino",
-            "awayTeam": "Genoa",
-            "time": "2025-02-08 19:45:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd8.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv3.php",
-                "https://v3.sportsonline.ps/channels/bra/br6.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-torino-vs-genoa-live-stream-hd.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/155px-Torino_FC_Logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Genoa_CFC_crest.svg/140px-Genoa_CFC_crest.svg.png"
-        },
-        {
-            "homeTeam": "Real Madrid",
-            "awayTeam": "Atl\u00e9tico Madrid",
-            "time": "2025-02-08 20:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd2.php",
-                "https://v3.sportsonline.ps/channels/hd/hd6.php",
-                "https://v3.sportsonline.ps/channels/hd/hd7.php",
-                "https://v3.sportsonline.ps/channels/pt/eleven1.php",
-                "https://v3.sportsonline.ps/channels/bra/br2.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-real-madrid-vs-atletico-madrid.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/165px-Real_Madrid_CF.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Kit_left_arm_atlmadrid2425h.png"
-        },
-        {
-            "homeTeam": "Brighton & Hove Albion",
-            "awayTeam": "Chelsea",
-            "time": "2025-02-08 20:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd1.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv2.php",
-                "https://v3.sportsonline.ps/channels/bra/br5.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-brighton-hove-albion-vs-chelsea.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/190px-Brighton_and_Hove_Albion_FC_crest.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/200px-Chelsea_FC.svg.png"
-        },
-        {
-            "homeTeam": "Feyenoord",
-            "awayTeam": "Sparta Rotterdam",
-            "time": "2025-02-08 20:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd9.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-feyenoord-vs-sparta-rotterdam-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/190px-Feyenoord_logo_since_2024.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Sparta_Rotterdam_logo.svg/180px-Sparta_Rotterdam_logo.svg.png"
-        },
-        {
-            "homeTeam": "Saint-\u00c9tienne",
-            "awayTeam": "Rennes",
-            "time": "2025-02-08 20:05:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd4.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv4.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-saint-etienne-vs-rennes-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/31px-Kit_left_arm.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Stade_Rennais_FC.svg/185px-Stade_Rennais_FC.svg.png"
-        },
-        {
-            "homeTeam": "Famalic\u00e3o",
-            "awayTeam": "Vit\u00f3ria Guimar\u00e3es",
-            "time": "2025-02-08 20:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-famalicao-vs-vitoria-guimaraes.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/F.C._Famalic%C3%A3o_logo.svg/205px-F.C._Famalic%C3%A3o_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Vit%C3%B3ria_Guimar%C3%A3es.svg/145px-Vit%C3%B3ria_Guimar%C3%A3es.svg.png"
-        },
-        {
-            "homeTeam": "Am\u00e9rica de Cali",
-            "awayTeam": "Deportivo Pasto",
-            "time": "2025-02-08 21:10:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd11.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-america-de-cali-vs-deportivo-pasto_7.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/New_Logo_Am%C3%A9rica_de_Cali_Since_2017.svg/160px-New_Logo_Am%C3%A9rica_de_Cali_Since_2017.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Escudo_Deportivo_Pereira_DP_Campeon_2022_II.png/190px-Escudo_Deportivo_Pereira_DP_Campeon_2022_II.png"
-        },
-        {
-            "homeTeam": "RB Bragantino",
-            "awayTeam": "S\u00e3o Paulo",
-            "time": "2025-02-08 21:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/bra/br3.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-rb-bragantino-vs-sao-paulo-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Red_Bull_Bragantino_logo.svg/235px-Red_Bull_Bragantino_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg/190px-Brasao_do_Sao_Paulo_Futebol_Clube.svg.png"
-        },
-        {
-            "homeTeam": "Boavista",
-            "awayTeam": "Portuguesa RJ",
-            "time": "2025-02-08 22:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/bra/br4.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-boavista-vs-portuguesa-rj-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Boavista_F.C._logo.svg/190px-Boavista_F.C._logo.svg.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
-        },
-        {
-            "homeTeam": "River Plate",
-            "awayTeam": "Independiente",
-            "time": "2025-02-08 23:15:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/pt/sporttv3.php",
-                "https://v3.sportsonline.ps/channels/bra/br6.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-river-plate-vs-independiente-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/River_Plate_Football_Club_de_Montevideo_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Cai_Panama.jpg/170px-Logo_Cai_Panama.jpg"
-        },
-        {
-            "homeTeam": "Uni\u00f3n Magdalena",
-            "awayTeam": "Junior",
-            "time": "2025-02-08 23:20:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd11.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-union-magdalena-vs-junior-live_7.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Escudo_Uni%C3%B3n_Magdalena_2024.png/220px-Escudo_Uni%C3%B3n_Magdalena_2024.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ESCUDO_JUNIOR.svg/215px-ESCUDO_JUNIOR.svg.png"
-        },
-        {
-            "homeTeam": "Gr\u00eamio",
-            "awayTeam": "Internacional",
-            "time": "2025-02-09 00:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/bra/br5.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-gremio-vs-internacional-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Gremio_logo.svg/195px-Gremio_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/RSC_Internacional_FC.png/220px-RSC_Internacional_FC.png"
-        },
-        {
-            "homeTeam": "Olimpia",
-            "awayTeam": "Inter Miami",
-            "time": "2025-02-09 01:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd9.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-olimpia-vs-inter-miami-live-stream.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Olimpia_FC.png/220px-Olimpia_FC.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Inter_Miami_CF_logo.svg/195px-Inter_Miami_CF_logo.svg.png"
-        },
-        {
-            "homeTeam": "Le\u00f3n",
-            "awayTeam": "Toluca",
-            "time": "2025-02-09 01:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd10.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-leon-vs-toluca-live-stream-hd.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Club_Le%C3%B3n_FC.svg/175px-Club_Le%C3%B3n_FC.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Club_Toluca_Logo.svg/220px-Club_Toluca_Logo.svg.png"
-        },
-        {
-            "homeTeam": "Racing Club",
-            "awayTeam": "Boca Juniors",
-            "time": "2025-02-09 01:15:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd6.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv3.php",
-                "https://v3.sportsonline.ps/channels/bra/br6.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-racing-club-vs-boca-juniors-live.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Racing_Club_de_France-logo.svg/160px-Racing_Club_de_France-logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/1/14/Boca-Juniors-Grenada.png"
-        },
-        {
-            "homeTeam": "Millonarios",
-            "awayTeam": "La Equidad",
-            "time": "2025-02-09 01:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd11.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-millonarios-vs-la-equidad-live_7.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Millonarios_F%C3%BAtbol_Club_logo.png/185px-Millonarios_F%C3%BAtbol_Club_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/La_Equidad_Seguros_logo.svg/150px-La_Equidad_Seguros_logo.svg.png"
-        },
-        {
-            "homeTeam": "Cruz Azul",
-            "awayTeam": "Pachuca",
-            "time": "2025-02-09 03:05:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd10.php"
-            ],
-            "eventUrl": "http://watch.livesports808.top/2025/02/live-cruz-azul-vs-pachuca-live-stream-hd.html",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Club_de_Futbol_Cruz_Azul.svg/190px-Club_de_Futbol_Cruz_Azul.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Pachuca_Tuzos_logo.svg/150px-Pachuca_Tuzos_logo.svg.png"
-        }
-    ],
-    "tomorrow": [
-        {
             "homeTeam": "Kas\u0131mpa\u015fa",
             "awayTeam": "Rizespor",
-            "time": "2025-02-08 10:30:00",
+            "time": "2025-02-09 10:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd11.php"
+                "https://v4.sportsonline.ps/channels/hd/hd11.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Danny_Drinkwater_20170114_%28cropped%29.jpg/220px-Danny_Drinkwater_20170114_%28cropped%29.jpg",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Altay_Bayindir_%28cropped%29.jpg/220px-Altay_Bayindir_%28cropped%29.jpg"
         },
         {
             "homeTeam": "Mafra",
             "awayTeam": "Chaves",
-            "time": "2025-02-08 11:00:00",
+            "time": "2025-02-09 11:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/pt/sporttv1.php"
+                "https://v4.sportsonline.ps/channels/pt/sporttv1.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/F.C._Famalic%C3%A3o_logo.svg/205px-F.C._Famalic%C3%A3o_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Arthur_Chaves%29.jpg/200px-Arthur_Chaves%29.jpg"
         },
         {
             "homeTeam": "Venezia",
             "awayTeam": "Roma",
-            "time": "2025-02-08 11:30:00",
+            "time": "2025-02-09 11:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd7.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv4.php"
+                "https://v4.sportsonline.ps/channels/hd/hd7.php",
+                "https://v4.sportsonline.ps/channels/pt/sporttv4.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Venezia_FC_crest.svg/190px-Venezia_FC_crest.svg.png",
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
         },
         {
             "homeTeam": "Juventus B",
             "awayTeam": "Benevento",
-            "time": "2025-02-08 11:30:00",
+            "time": "2025-02-09 11:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd8.php"
+                "https://v4.sportsonline.ps/channels/hd/hd8.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Juventus_Next_Gen.png/130px-Juventus_Next_Gen.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Benevento_Calcio_logo.svg/180px-Benevento_Calcio_logo.svg.png"
         },
         {
             "homeTeam": "Bristol City",
             "awayTeam": "Swansea City",
-            "time": "2025-02-08 12:00:00",
+            "time": "2025-02-09 12:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd5.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv5.php"
+                "https://v4.sportsonline.ps/channels/hd/hd5.php",
+                "https://v4.sportsonline.ps/channels/pt/sporttv5.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Bristol_City_crest.svg/185px-Bristol_City_crest.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Swansea_City_AFC_logo.svg/190px-Swansea_City_AFC_logo.svg.png"
         },
         {
             "homeTeam": "Blackburn Rovers",
             "awayTeam": "Wolverhampton Wanderers",
-            "time": "2025-02-08 12:30:00",
+            "time": "2025-02-09 12:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd1.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv2.php",
-                "https://v3.sportsonline.ps/channels/bra/br2.php"
+                "https://v4.sportsonline.ps/channels/hd/hd1.php",
+                "https://v4.sportsonline.ps/channels/pt/sporttv2.php",
+                "https://v4.sportsonline.ps/channels/bra/br2.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Blackburn_Rovers.svg/175px-Blackburn_Rovers.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/200px-Wolverhampton_Wanderers_FC_crest.svg.png"
         },
         {
             "homeTeam": "Aberdeen",
             "awayTeam": "Dunfermline Athletic",
-            "time": "2025-02-08 12:30:00",
+            "time": "2025-02-09 12:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd10.php"
+                "https://v4.sportsonline.ps/channels/hd/hd10.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Aberdeen_FC_logo.svg/185px-Aberdeen_FC_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/DAFC_current_logo_2011_onwards_trans.png/200px-DAFC_current_logo_2011_onwards_trans.png"
         },
         {
             "homeTeam": "K\u00f6ln",
             "awayTeam": "Schalke 04",
-            "time": "2025-02-08 12:30:00",
+            "time": "2025-02-09 12:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd3.php"
+                "https://v4.sportsonline.ps/channels/hd/hd3.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/180px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/185px-FC_Schalke_04_Logo.svg.png"
         },
         {
             "homeTeam": "Anderlecht",
             "awayTeam": "Antwerp",
-            "time": "2025-02-08 12:30:00",
+            "time": "2025-02-09 12:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/pt/eleven3.php"
+                "https://v4.sportsonline.ps/channels/pt/eleven3.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/R.S.C._Anderlecht.svg/240px-R.S.C._Anderlecht.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Royal_Antwerp_Football_Club_logo.svg/130px-Royal_Antwerp_Football_Club_logo.svg.png"
         },
         {
             "homeTeam": "Deportivo Alav\u00e9s",
             "awayTeam": "Getafe",
-            "time": "2025-02-08 13:00:00",
+            "time": "2025-02-09 13:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd2.php",
-                "https://v3.sportsonline.ps/channels/hd/hd6.php",
-                "https://v3.sportsonline.ps/channels/pt/eleven1.php"
+                "https://v4.sportsonline.ps/channels/hd/hd2.php",
+                "https://v4.sportsonline.ps/channels/hd/hd6.php",
+                "https://v4.sportsonline.ps/channels/pt/eleven1.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/190px-Deportivo_Alaves_logo_%282020%29.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Getafe_logo.svg/185px-Getafe_logo.svg.png"
         },
         {
             "homeTeam": "Alanyaspor",
             "awayTeam": "Fenerbah\u00e7e",
-            "time": "2025-02-08 13:00:00",
+            "time": "2025-02-09 13:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd11.php"
+                "https://v4.sportsonline.ps/channels/hd/hd11.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/230624_%EC%88%98%EC%9B%90_%EC%82%BC%EC%84%B1_%EB%B8%94%EB%A3%A8%EC%9C%99%EC%A6%88_vs_FC_%EC%84%9C%EC%9A%B8_%28%ED%99%A9%EC%9D%98%EC%A1%B0%29.jpg/220px-230624_%EC%88%98%EC%9B%90_%EC%82%BC%EC%84%B1_%EB%B8%94%EB%A3%A8%EC%9C%99%EC%A6%88_vs_FC_%EC%84%9C%EC%9A%B8_%28%ED%99%A9%EC%9D%98%EC%A1%B0%29.jpg",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Fenerbah%C3%A7e.svg/190px-Fenerbah%C3%A7e.svg.png"
         },
         {
             "homeTeam": "Fortuna Sittard",
             "awayTeam": "Ajax",
-            "time": "2025-02-08 13:30:00",
+            "time": "2025-02-09 13:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd8.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv5.php"
+                "https://v4.sportsonline.ps/channels/hd/hd8.php",
+                "https://v4.sportsonline.ps/channels/pt/sporttv5.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Kit_left_arm_fortunasittard2021h.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/210px-Ajax_Amsterdam.svg.png"
         },
         {
             "homeTeam": "Olympique Lyonnais",
             "awayTeam": "Reims",
-            "time": "2025-02-08 14:00:00",
+            "time": "2025-02-09 14:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd4.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv4.php"
+                "https://v4.sportsonline.ps/channels/hd/hd4.php",
+                "https://v4.sportsonline.ps/channels/pt/sporttv4.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/150px-Olympique_Lyonnais_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Stade_de_Reims_logo.svg/110px-Stade_de_Reims_logo.svg.png"
         },
         {
             "homeTeam": "Lazio",
             "awayTeam": "Monza",
-            "time": "2025-02-08 14:00:00",
+            "time": "2025-02-09 14:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd7.php"
+                "https://v4.sportsonline.ps/channels/hd/hd7.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/220px-S.S._Lazio_badge.svg.png",
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
         },
         {
             "homeTeam": "Holstein Kiel",
             "awayTeam": "Bochum",
-            "time": "2025-02-08 14:30:00",
+            "time": "2025-02-09 14:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd3.php",
-                "https://v3.sportsonline.ps/channels/pt/eleven2.php"
+                "https://v4.sportsonline.ps/channels/hd/hd3.php",
+                "https://v4.sportsonline.ps/channels/pt/eleven2.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/190px-Holstein_Kiel_Logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/VfL_Bochum_logo.svg/180px-VfL_Bochum_logo.svg.png"
         },
         {
             "homeTeam": "Plymouth Argyle",
             "awayTeam": "Liverpool",
-            "time": "2025-02-08 15:00:00",
+            "time": "2025-02-09 15:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd1.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv3.php",
-                "https://v3.sportsonline.ps/channels/bra/br2.php"
+                "https://v4.sportsonline.ps/channels/hd/hd1.php",
+                "https://v4.sportsonline.ps/channels/pt/sporttv3.php",
+                "https://v4.sportsonline.ps/channels/bra/br2.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Plymouth_Argyle_F.C._logo.svg/180px-Plymouth_Argyle_F.C._logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/180px-Liverpool_FC.svg.png"
         },
         {
             "homeTeam": "Olympiakos Piraeus",
             "awayTeam": "Asteras Tripolis",
-            "time": "2025-02-08 15:00:00",
+            "time": "2025-02-09 15:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd9.php"
+                "https://v4.sportsonline.ps/channels/hd/hd9.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Olympiacos_FC_crest.svg/200px-Olympiacos_FC_crest.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Asteras_Tripolis_FC_logo.svg/180px-Asteras_Tripolis_FC_logo.svg.png"
         },
         {
             "homeTeam": "Kortrijk",
             "awayTeam": "Union Saint-Gilloise",
-            "time": "2025-02-08 15:00:00",
+            "time": "2025-02-09 15:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/pt/eleven3.php"
+                "https://v4.sportsonline.ps/channels/pt/eleven3.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/KV_Kortrijk_logo_2016.svg/185px-KV_Kortrijk_logo_2016.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/89/Royale_Union_Saint-Gilloise_crest.svg/170px-Royale_Union_Saint-Gilloise_crest.svg.png"
         },
         {
             "homeTeam": "Valencia",
             "awayTeam": "Legan\u00e9s",
-            "time": "2025-02-08 15:15:00",
+            "time": "2025-02-09 15:15:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd2.php",
-                "https://v3.sportsonline.ps/channels/hd/hd6.php",
-                "https://v3.sportsonline.ps/channels/pt/eleven1.php",
-                "https://v3.sportsonline.ps/channels/bra/br6.php"
+                "https://v4.sportsonline.ps/channels/hd/hd2.php",
+                "https://v4.sportsonline.ps/channels/hd/hd6.php",
+                "https://v4.sportsonline.ps/channels/pt/eleven1.php",
+                "https://v4.sportsonline.ps/channels/bra/br6.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Club_Deportivo_Legan%C3%A9s_logo.svg/180px-Club_Deportivo_Legan%C3%A9s_logo.svg.png"
         },
         {
             "homeTeam": "Rangers",
             "awayTeam": "Queen's Park",
-            "time": "2025-02-08 15:30:00",
+            "time": "2025-02-09 15:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd10.php"
+                "https://v4.sportsonline.ps/channels/hd/hd10.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/190px-Rangers_FC.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Queens_Park_FC_crest.png/150px-Queens_Park_FC_crest.png"
         },
         {
             "homeTeam": "Estoril",
             "awayTeam": "Boavista",
-            "time": "2025-02-08 15:30:00",
+            "time": "2025-02-09 15:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/pt/sporttv1.php"
+                "https://v4.sportsonline.ps/channels/pt/sporttv1.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Lu%C3%ADs_Freire%2C_treinador_do_Rio_Ave.png/220px-Lu%C3%ADs_Freire%2C_treinador_do_Rio_Ave.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Boavista_F.C._logo.svg/190px-Boavista_F.C._logo.svg.png"
         },
         {
             "homeTeam": "Farense",
             "awayTeam": "Nacional",
-            "time": "2025-02-08 15:30:00",
+            "time": "2025-02-09 15:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/pt/sporttv2.php"
+                "https://v4.sportsonline.ps/channels/pt/sporttv2.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Kit_left_arm_porto2425h.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Nacional_Futebol_Clube_logo.svg/150px-Nacional_Futebol_Clube_logo.svg.png"
         },
         {
             "homeTeam": "Uni\u00e3o de Leiria",
             "awayTeam": "Porto B",
-            "time": "2025-02-08 15:30:00",
+            "time": "2025-02-09 15:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/pt/sporttv5.php"
+                "https://v4.sportsonline.ps/channels/pt/sporttv5.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/U.D._Leiria_crest_%282024%29.png/150px-U.D._Leiria_crest_%282024%29.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Kit_left_arm_porto2425h.png"
         },
         {
             "homeTeam": "Galatasaray",
             "awayTeam": "Adana Demirspor",
-            "time": "2025-02-08 16:00:00",
+            "time": "2025-02-09 16:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd11.php"
+                "https://v4.sportsonline.ps/channels/hd/hd11.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Galatasaray_4_Sterne_Logo.svg/150px-Galatasaray_4_Sterne_Logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/4/46/Kit_left_arm_ads2223h.png"
         },
         {
             "homeTeam": "Strasbourg",
             "awayTeam": "Montpellier",
-            "time": "2025-02-08 16:15:00",
+            "time": "2025-02-09 16:15:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd4.php"
+                "https://v4.sportsonline.ps/channels/hd/hd4.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_logo.svg/190px-Racing_Club_de_Strasbourg_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Montpellier_Place_de_la_Com%C3%A9die.jpg/250px-Montpellier_Place_de_la_Com%C3%A9die.jpg"
         },
         {
             "homeTeam": "Auxerre",
             "awayTeam": "Toulouse",
-            "time": "2025-02-08 16:15:00",
+            "time": "2025-02-09 16:15:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/pt/sporttv5.php"
+                "https://v4.sportsonline.ps/channels/pt/sporttv5.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Kit_left_arm_aja2324h.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Toulouse_FC_2018_logo.svg/190px-Toulouse_FC_2018_logo.svg.png"
         },
         {
             "homeTeam": "RB Leipzig",
             "awayTeam": "St. Pauli",
-            "time": "2025-02-08 16:30:00",
+            "time": "2025-02-09 16:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd3.php",
-                "https://v3.sportsonline.ps/channels/pt/eleven2.php"
+                "https://v4.sportsonline.ps/channels/hd/hd3.php",
+                "https://v4.sportsonline.ps/channels/pt/eleven2.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/RB_Leipzig_2014_logo.svg/300px-RB_Leipzig_2014_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/FC_St._Pauli_logo_%282018%29.svg/190px-FC_St._Pauli_logo_%282018%29.svg.png"
         },
         {
             "homeTeam": "Lecce",
             "awayTeam": "Bologna",
-            "time": "2025-02-08 17:00:00",
+            "time": "2025-02-09 17:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd8.php"
+                "https://v4.sportsonline.ps/channels/hd/hd8.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Collage_Lecce.jpg/250px-Collage_Lecce.jpg",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bologna_F.C._1909_logo.svg/130px-Bologna_F.C._1909_logo.svg.png"
         },
         {
             "homeTeam": "Real Sociedad",
             "awayTeam": "Espanyol",
-            "time": "2025-02-08 17:30:00",
+            "time": "2025-02-09 17:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd2.php",
-                "https://v3.sportsonline.ps/channels/hd/hd6.php",
-                "https://v3.sportsonline.ps/channels/pt/eleven1.php",
-                "https://v3.sportsonline.ps/channels/bra/br6.php"
+                "https://v4.sportsonline.ps/channels/hd/hd2.php",
+                "https://v4.sportsonline.ps/channels/hd/hd6.php",
+                "https://v4.sportsonline.ps/channels/pt/eleven1.php",
+                "https://v4.sportsonline.ps/channels/bra/br6.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Kit_left_arm_rsociedad2324h.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RCD_Espanyol_crest.svg/155px-RCD_Espanyol_crest.svg.png"
         },
         {
             "homeTeam": "Aris",
             "awayTeam": "Panathinaikos",
-            "time": "2025-02-08 17:30:00",
+            "time": "2025-02-09 17:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd10.php"
+                "https://v4.sportsonline.ps/channels/hd/hd10.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Aris_Thessaloniki_F.C._logo.svg/120px-Aris_Thessaloniki_F.C._logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Panathinaikos_F.C._logo.svg/190px-Panathinaikos_F.C._logo.svg.png"
         },
         {
             "homeTeam": "Aston Villa",
             "awayTeam": "Tottenham Hotspur",
-            "time": "2025-02-08 17:35:00",
+            "time": "2025-02-09 17:35:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd1.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv3.php",
-                "https://v3.sportsonline.ps/channels/bra/br2.php"
+                "https://v4.sportsonline.ps/channels/hd/hd1.php",
+                "https://v4.sportsonline.ps/channels/pt/sporttv3.php",
+                "https://v4.sportsonline.ps/channels/bra/br2.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/150px-Aston_Villa_FC_new_crest.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/120px-Tottenham_Hotspur.svg.png"
         },
         {
             "homeTeam": "Sporting Braga",
             "awayTeam": "Gil Vicente",
-            "time": "2025-02-08 18:00:00",
+            "time": "2025-02-09 18:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/pt/sporttv1.php"
+                "https://v4.sportsonline.ps/channels/pt/sporttv1.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/S.C._Braga_logo.svg/170px-S.C._Braga_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Gil_Vicente_F.C.png/155px-Gil_Vicente_F.C.png"
         },
         {
             "homeTeam": "AEK Athens",
             "awayTeam": "Panserraikos",
-            "time": "2025-02-08 18:30:00",
+            "time": "2025-02-09 18:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd9.php"
+                "https://v4.sportsonline.ps/channels/hd/hd9.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/AEK_Athens_FC_logo.svg/145px-AEK_Athens_FC_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Panseraikos_new_emblem.png/185px-Panseraikos_new_emblem.png"
         },
         {
             "homeTeam": "Cruzeiro",
             "awayTeam": "Atl\u00e9tico Mineiro",
-            "time": "2025-02-08 19:00:00",
+            "time": "2025-02-09 19:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/bra/br1.php"
+                "https://v4.sportsonline.ps/channels/bra/br1.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/200px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Clube_Atl%C3%A9tico_Mineiro_crest.svg/160px-Clube_Atl%C3%A9tico_Mineiro_crest.svg.png"
         },
         {
             "homeTeam": "Novorizontino",
             "awayTeam": "Santos",
-            "time": "2025-02-08 19:00:00",
+            "time": "2025-02-09 19:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/bra/br3.php"
+                "https://v4.sportsonline.ps/channels/bra/br3.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gr%C3%AAmio_Novorizontino.svg/185px-Gr%C3%AAmio_Novorizontino.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Santos_Logo.png/220px-Santos_Logo.png"
         },
         {
             "homeTeam": "Ponte Preta",
             "awayTeam": "Guarani",
-            "time": "2025-02-08 19:00:00",
+            "time": "2025-02-09 19:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/bra/br4.php"
+                "https://v4.sportsonline.ps/channels/bra/br4.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Escudo_Oficial_Ponte_Preta.png/175px-Escudo_Oficial_Ponte_Preta.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Guarani_FC_%28E%29_-_SP.svg/185px-Guarani_FC_%28E%29_-_SP.svg.png"
         },
         {
             "homeTeam": "Botafogo",
             "awayTeam": "Madureira",
-            "time": "2025-02-08 19:00:00",
+            "time": "2025-02-09 19:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/bra/br5.php"
+                "https://v4.sportsonline.ps/channels/bra/br5.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/d/df/Deportivo_Miranda_FC.png"
         },
         {
             "homeTeam": "Envigado",
             "awayTeam": "Medell\u00edn",
-            "time": "2025-02-08 19:00:00",
+            "time": "2025-02-09 19:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd11.php"
+                "https://v4.sportsonline.ps/channels/hd/hd11.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Envigado_FC_logo_2018.png/200px-Envigado_FC_logo_2018.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Atl%C3%A9tico_Nacional.png/140px-Atl%C3%A9tico_Nacional.png"
         },
         {
             "homeTeam": "Angers SCO",
             "awayTeam": "Olympique Marseille",
-            "time": "2025-02-08 19:45:00",
+            "time": "2025-02-09 19:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd4.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv4.php"
+                "https://v4.sportsonline.ps/channels/hd/hd4.php",
+                "https://v4.sportsonline.ps/channels/pt/sporttv4.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Angers_SCO_logo.svg/160px-Angers_SCO_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/2/22/Kit_left_arm_marseille2425h.png"
         },
         {
             "homeTeam": "Napoli",
             "awayTeam": "Udinese",
-            "time": "2025-02-08 19:45:00",
+            "time": "2025-02-09 19:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd7.php",
-                "https://v3.sportsonline.ps/channels/pt/sporttv3.php"
+                "https://v4.sportsonline.ps/channels/hd/hd7.php",
+                "https://v4.sportsonline.ps/channels/pt/sporttv3.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg/200px-SSC_Napoli_2024_%28deep_blue_navy%29.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Kit_left_arm_udinese2425h.png"
         },
         {
             "homeTeam": "Sevilla",
             "awayTeam": "Barcelona",
-            "time": "2025-02-08 20:00:00",
+            "time": "2025-02-09 20:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd2.php",
-                "https://v3.sportsonline.ps/channels/hd/hd6.php",
-                "https://v3.sportsonline.ps/channels/hd/hd3.php",
-                "https://v3.sportsonline.ps/channels/pt/eleven1.php",
-                "https://v3.sportsonline.ps/channels/bra/br6.php"
+                "https://v4.sportsonline.ps/channels/hd/hd2.php",
+                "https://v4.sportsonline.ps/channels/hd/hd6.php",
+                "https://v4.sportsonline.ps/channels/hd/hd3.php",
+                "https://v4.sportsonline.ps/channels/pt/eleven1.php",
+                "https://v4.sportsonline.ps/channels/bra/br6.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/160px-Sevilla_FC_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/210px-FC_Barcelona_%28crest%29.svg.png"
         },
         {
             "homeTeam": "Casa Pia",
             "awayTeam": "Estrela",
-            "time": "2025-02-08 20:30:00",
+            "time": "2025-02-09 20:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/pt/sporttv1.php"
+                "https://v4.sportsonline.ps/channels/pt/sporttv1.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Casa_Pia_A.C._logo.png/155px-Casa_Pia_A.C._logo.png",
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
         },
         {
             "homeTeam": "Once Caldas",
             "awayTeam": "Atl\u00e9tico Bucaramanga",
-            "time": "2025-02-08 21:10:00",
+            "time": "2025-02-09 21:10:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd11.php"
+                "https://v4.sportsonline.ps/channels/hd/hd11.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Atl%C3%A9ticoBucaramanga.png/175px-Atl%C3%A9ticoBucaramanga.png"
         },
         {
             "homeTeam": "\u00c1gua Santa",
             "awayTeam": "Palmeiras",
-            "time": "2025-02-08 21:30:00",
+            "time": "2025-02-09 21:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/bra/br2.php"
+                "https://v4.sportsonline.ps/channels/bra/br2.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/EC_%C3%81gua_Santa.png/180px-EC_%C3%81gua_Santa.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/200px-Palmeiras_logo.svg.png"
         },
         {
             "homeTeam": "Juventude",
             "awayTeam": "EC S\u00e3o Jos\u00e9",
-            "time": "2025-02-08 22:00:00",
+            "time": "2025-02-09 22:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/bra/br1.php"
+                "https://v4.sportsonline.ps/channels/bra/br1.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg/190px-Brasao_do_Sao_Paulo_Futebol_Clube.svg.png"
         },
         {
             "homeTeam": "Volta Redonda",
             "awayTeam": "Nova Igua\u00e7u",
-            "time": "2025-02-08 22:00:00",
+            "time": "2025-02-09 22:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/bra/br5.php"
+                "https://v4.sportsonline.ps/channels/bra/br5.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Volta_Redonda_Futebol_Clube.png/150px-Volta_Redonda_Futebol_Clube.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Niguacu_football.png/160px-Niguacu_football.png"
         },
         {
             "homeTeam": "Fortaleza CEIF",
             "awayTeam": "Deportivo Cali",
-            "time": "2025-02-08 23:20:00",
+            "time": "2025-02-09 23:20:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd11.php"
+                "https://v4.sportsonline.ps/channels/hd/hd11.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fortaleza_CEIF_logo.png/155px-Fortaleza_CEIF_logo.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Escudo-deportivo-cali-2012.png/150px-Escudo-deportivo-cali-2012.png"
         },
         {
             "homeTeam": "Corinthians",
             "awayTeam": "S\u00e3o Bernardo",
-            "time": "2025-02-08 23:30:00",
+            "time": "2025-02-09 23:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/bra/br4.php"
+                "https://v4.sportsonline.ps/channels/bra/br4.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Corinthian_fc_logo.png/100px-Corinthian_fc_logo.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/S%C3%A3o_Bernado_FC.png/185px-S%C3%A3o_Bernado_FC.png"
         },
         {
             "homeTeam": "Pumas UNAM",
             "awayTeam": "Mazatl\u00e1n",
-            "time": "2025-02-09 00:00:00",
+            "time": "2025-02-10 00:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd10.php"
+                "https://v4.sportsonline.ps/channels/hd/hd10.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Club_Universidad_Nacional_logo.svg/195px-Club_Universidad_Nacional_logo.svg.png",
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
         },
         {
             "homeTeam": "Atl\u00e9tico Nacional",
             "awayTeam": "Deportivo Pereira",
-            "time": "2025-02-09 01:30:00",
+            "time": "2025-02-10 01:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "League Event",
             "urls": [
-                "https://v3.sportsonline.ps/channels/hd/hd11.php"
+                "https://v4.sportsonline.ps/channels/hd/hd11.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Atl%C3%A9tico_Nacional.png/140px-Atl%C3%A9tico_Nacional.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Escudo_Deportivo_Pereira_DP_Campeon_2022_II.png/190px-Escudo_Deportivo_Pereira_DP_Campeon_2022_II.png"
+        }
+    ],
+    "tomorrow": [
+        {
+            "homeTeam": "Trabzonspor",
+            "awayTeam": "Ey\u00fcpspor",
+            "time": "2025-02-09 17:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/hd/hd11.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Oviedo",
+            "awayTeam": "Eldense",
+            "time": "2025-02-09 19:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/pt/eleven2.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Internazionale",
+            "awayTeam": "Fiorentina",
+            "time": "2025-02-09 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/hd/hd7.php",
+                "https://v4.sportsonline.ps/channels/pt/sporttv2.php",
+                "https://v4.sportsonline.ps/channels/bra/br6.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Doncaster Rovers",
+            "awayTeam": "Crystal Palace",
+            "time": "2025-02-09 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/hd/hd5.php",
+                "https://v4.sportsonline.ps/channels/bra/br3.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Caen",
+            "awayTeam": "Dunkerque",
+            "time": "2025-02-09 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/hd/hd4.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "St. Mirren",
+            "awayTeam": "Hearts",
+            "time": "2025-02-09 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Paraguay U20",
+            "awayTeam": "Brazil U20",
+            "time": "2025-02-09 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Mallorca",
+            "awayTeam": "Osasuna",
+            "time": "2025-02-09 20:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/hd/hd2.php",
+                "https://v4.sportsonline.ps/channels/hd/hd6.php",
+                "https://v4.sportsonline.ps/channels/pt/eleven1.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Arouca",
+            "awayTeam": "Rio Ave",
+            "time": "2025-02-09 20:15:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Tigres",
+            "awayTeam": "Atl\u00e9tico Cali",
+            "time": "2025-02-09 21:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/hd/hd9.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Sampaio Corr\u00eaa RJ",
+            "awayTeam": "Vasco da Gama",
+            "time": "2025-02-09 23:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Barranquilla",
+            "awayTeam": "Real Santander",
+            "time": "2025-02-09 23:05:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/hd/hd9.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "S\u00e3o Paulo",
+            "awayTeam": "Inter de Limeira",
+            "time": "2025-02-10 00:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/bra/br2.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Atl\u00e9tico Huila",
+            "awayTeam": "Jaguares de C\u00f3rdoba",
+            "time": "2025-02-10 01:10:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://v4.sportsonline.ps/channels/hd/hd9.php"
             ],
             "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
         }
