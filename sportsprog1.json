@@ -56,7 +56,7 @@
             "time": "2025-02-11 13:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Youth League",
             "urls": [
                 "https://v4.sportsonline.ps/channels/hd/hd1.php",
                 "https://v4.sportsonline.ps/channels/hd/hd3.php",
@@ -72,7 +72,7 @@
             "time": "2025-02-11 13:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Youth League",
             "urls": [
                 "https://v4.sportsonline.ps/channels/hd/hd9.php",
                 "https://v4.sportsonline.ps/channels/pt/eleven1.php"
@@ -87,7 +87,7 @@
             "time": "2025-02-11 15:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Youth League",
             "urls": [
                 "https://v4.sportsonline.ps/channels/hd/hd10.php",
                 "https://v4.sportsonline.ps/channels/pt/eleven1.php"
@@ -102,7 +102,7 @@
             "time": "2025-02-11 17:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Champions League",
             "urls": [
                 "https://v4.sportsonline.ps/channels/hd/hd1.php",
                 "https://v4.sportsonline.ps/channels/hd/hd5.php",
@@ -125,7 +125,7 @@
             "time": "2025-02-11 20:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Champions League",
             "urls": [
                 "https://v4.sportsonline.ps/channels/hd/hd5.php",
                 "https://v4.sportsonline.ps/channels/hd/hd8.php",
@@ -145,7 +145,7 @@
             "time": "2025-02-11 20:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Champions League",
             "urls": [
                 "https://v4.sportsonline.ps/channels/hd/hd1.php",
                 "https://v4.sportsonline.ps/channels/hd/hd7.php",
@@ -164,7 +164,7 @@
             "time": "2025-02-11 20:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Champions League",
             "urls": [
                 "https://v4.sportsonline.ps/channels/hd/hd2.php",
                 "https://v4.sportsonline.ps/channels/hd/hd3.php",
@@ -181,7 +181,7 @@
             "time": "2025-02-11 20:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "FA Cup",
             "urls": [
                 "https://v4.sportsonline.ps/channels/pt/sporttv1.php"
             ],
@@ -190,12 +190,12 @@
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/110px-Nottingham_Forest_F.C._logo.svg.png"
         },
         {
-            "homeTeam": "Norwitch City",
+            "homeTeam": "Norwich City",
             "awayTeam": "Preston",
             "time": "2025-02-11 20:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "EFL Championship",
             "urls": [
                 "https://v4.sportsonline.ps/channels/pt/sporttv2.php"
             ],
