@@ -1,864 +1,540 @@
 {
-  "yesterday": [
-    {
-      "homeTeam": "Flamengo",
-      "awayTeam": "Vasco da Gama",
-      "time": "2025-02-17 00:45:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/bra/br1.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    },
-    {
-      "homeTeam": "Tigres UANL",
-      "awayTeam": "Cruz Azul",
-      "time": "2025-02-17 01:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd9.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    },
-    {
-      "homeTeam": "Millonarios",
-      "awayTeam": "Medellín",
-      "time": "2025-02-17 01:10:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd10.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    },
-    {
-      "homeTeam": "Toluca",
-      "awayTeam": "Guadalajara",
-      "time": "2025-02-17 03:10:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd11.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    }
-  ],
-  "today": [
-    {
-      "homeTeam": "UD Oliveirense",
-      "awayTeam": "Benfica B",
-      "time": "2025-02-16 11:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Liga Portugal 2",
-      "urls": [
-        "https://sportzonline.si/channels/pt/sporttv1.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-ud-oliveirense-vs-benfica-b-live.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/UD_Oliveirense.png/220px-UD_Oliveirense.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Kit_left_arm_benfica2425h.png"
-    },
-    {
-      "homeTeam": "Vizela",
-      "awayTeam": "Leixões",
-      "time": "2025-02-16 11:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Liga Portugal 2 ",
-      "urls": [
-        "https://sportzonline.si/channels/pt/sporttv2.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-vizela-vs-leixoes-live-stream-hd.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/e/e3/F.C._Vizela_logo.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Leix%C3%B5es.png/130px-Leix%C3%B5es.png"
-    },
-    {
-      "homeTeam": "NEC",
-      "awayTeam": "Almere City",
-      "time": "2025-02-16 11:15:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Netherlands - Eredivisie ",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd9.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-nec-vs-almere-city-live-stream-hd.html",
-      "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Almere_City_FC_logo.PNG/180px-Almere_City_FC_logo.PNG"
-    },
-    {
-      "homeTeam": "Fiorentina",
-      "awayTeam": "Como",
-      "time": "2025-02-16 11:30:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Italy - Serie A ",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd7.php",
-        "https://sportzonline.si/channels/pt/sporttv3.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-fiorentina-vs-como-live-stream-hd.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/220px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
-      "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
-    },
-    {
-      "homeTeam": "Hearts",
-      "awayTeam": "Rangers",
-      "time": "2025-02-16 12:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Scotland Premiership",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd1.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-hearts-vs-rangers-live-stream-hd.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Heart_of_Midlothian_FC_logo.svg/190px-Heart_of_Midlothian_FC_logo.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/190px-Rangers_FC.svg.png"
-    },
-    {
-      "homeTeam": "Schalke 04",
-      "awayTeam": "Karlsruher SC",
-      "time": "2025-02-16 12:30:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Germany - 2.Bundesliga",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd3.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-schalke-04-vs-karlsruher-sc-live.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/185px-FC_Schalke_04_Logo.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Karlsruher_SC_Logo_2.svg/180px-Karlsruher_SC_Logo_2.svg.png"
-    },
-    {
-      "homeTeam": "Jahn Regensburg",
-      "awayTeam": "Hamburger SV",
-      "time": "2025-02-16 12:30:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Germany - 2.Bundesliga ",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd11.php",
-        "https://sportzonline.si/channels/pt/eleven3.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-jahn-regensburg-vs-hamburger-sv.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Jahn_Regensburg_logo2014.svg/150px-Jahn_Regensburg_logo2014.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/210px-Hamburger_SV_logo.svg.png"
-    },
-    {
-      "homeTeam": "Espanyol",
-      "awayTeam": "Athletic Club",
-      "time": "2025-02-16 13:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Spain - La Liga ",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd2.php",
-        "https://sportzonline.si/channels/hd/hd6.php",
-        "https://sportzonline.si/channels/pt/eleven2.php",
-        "https://sportzonline.si/channels/bra/br3.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-espanyol-vs-athletic-club-live.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RCD_Espanyol_crest.svg/155px-RCD_Espanyol_crest.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/170px-Club_Athletic_Bilbao_logo.svg.png"
-    },
-    {
-      "homeTeam": "Liverpool",
-      "awayTeam": "Wolverhampton Wanderers",
-      "time": "2025-02-16 14:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "England - Premier League",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd1.php",
-        "https://sportzonline.si/channels/pt/eleven1.php",
-        "https://sportzonline.si/channels/bra/br2.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-liverpool-vs-wolverhampton.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/180px-Liverpool_FC.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/200px-Wolverhampton_Wanderers_FC_crest.svg.png"
-    },
-    {
-      "homeTeam": "Montpellier",
-      "awayTeam": "Olympique Lyonnais",
-      "time": "2025-02-16 14:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "France - Ligue 1",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd4.php",
-        "https://sportzonline.si/channels/pt/sporttv4.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-montpellier-vs-olympique-lyonnais.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Montpellier_Agglom%C3%A9ration_Handball.png/180px-Montpellier_Agglom%C3%A9ration_Handball.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/220px-Olympique_Lyonnais_logo.svg.png"
-    },
-    {
-      "homeTeam": "Udinese",
-      "awayTeam": "Empoli",
-      "time": "2025-02-16 14:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Italy - Serie A ",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd7.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-udinese-vs-empoli-live-stream-hd.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/d/de/Kit_left_arm_udinese2425h.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Empoli_FC_crest.svg/140px-Empoli_FC_crest.svg.png"
-    },
-    {
-      "homeTeam": "Monza",
-      "awayTeam": "Lecce",
-      "time": "2025-02-16 14:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Italy - Serie A",
-      "urls": [
-        "https://sportzonline.si/channels/pt/sporttv3.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-monza-vs-lecce-live-stream-hd.html",
-      "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Collage_Lecce.jpg/250px-Collage_Lecce.jpg"
-    },
-    {
-      "homeTeam": "Werder Bremen",
-      "awayTeam": "Hoffenheim",
-      "time": "2025-02-16 14:30:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Germany - Bundesliga ",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd5.php",
-        "https://sportzonline.si/channels/hd/hd3.php",
-        "https://sportzonline.si/channels/pt/eleven3.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-werder-bremen-vs-hoffenheim-live.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/140px-SV-Werder-Bremen-Logo.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Logo_TSG_Hoffenheim.svg/165px-Logo_TSG_Hoffenheim.svg.png"
-    },
-    {
-      "homeTeam": "Panserraikos",
-      "awayTeam": "Olympiakos Piraeus",
-      "time": "2025-02-16 15:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Greece - Super League ",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd10.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-panserraikos-vs-olympiakos-piraeus.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Panseraikos_new_emblem.png/185px-Panseraikos_new_emblem.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Olympiacos_FC_crest.svg/200px-Olympiacos_FC_crest.svg.png"
-    },
-    {
-      "homeTeam": "Panathinaikos",
-      "awayTeam": "Volos NFC",
-      "time": "2025-02-16 15:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Greece - Super League ",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd11.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-panathinaikos-vs-volos-nfc-live.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Panathinaikos_F.C._logo.svg/190px-Panathinaikos_F.C._logo.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Volos_F.C._logo.png/175px-Volos_F.C._logo.png"
-    },
-    {
-      "homeTeam": "Real Valladolid",
-      "awayTeam": "Sevilla",
-      "time": "2025-02-16 15:15:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Spain - La Liga ",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd2.php",
-        "https://sportzonline.si/channels/hd/hd6.php",
-        "https://sportzonline.si/channels/pt/eleven2.php",
-        "https://sportzonline.si/channels/bra/br3.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-real-valladolid-vs-sevilla-live.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/Real_Valladolid_CF_crest.svg/195px-Real_Valladolid_CF_crest.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Sevilla_FC_logo.svg/160px-Sevilla_FC_logo.svg.png"
-    },
-    {
-      "homeTeam": "Rio Ave",
-      "awayTeam": "AVS",
-      "time": "2025-02-16 15:30:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Liga Portugal Betclic ",
-      "urls": [
-        "https://sportzonline.si/channels/pt/sporttv2.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-rio-ave-vs-avs-live-stream-hd.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Rio_Ave_FC_logo.svg/170px-Rio_Ave_FC_logo.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Kit_left_arm_porto2425h.png"
-    },
-    {
-      "homeTeam": "Ajax",
-      "awayTeam": "Heracles",
-      "time": "2025-02-16 15:45:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Netherlands - Eredivisie ",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd9.php",
-        "https://sportzonline.si/channels/pt/sporttv5.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-ajax-vs-heracles-live-stream-hd.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/210px-Ajax_Amsterdam.svg.png",
-      "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
-    },
-    {
-      "homeTeam": "Fenerbahçe",
-      "awayTeam": "Kasımpaşa",
-      "time": "2025-02-16 16:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Turkey - Super Lig",
-      "urls": [
-        "https://sportzonline.si/channels/pt/sporttv4.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-fenerbahce-vs-kasmpasa-live-stream.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Fenerbah%C3%A7e.svg/190px-Fenerbah%C3%A7e.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Argentina-Nigeria_%283%29_cropped%29.jpg/250px-Argentina-Nigeria_%283%29_cropped%29.jpg"
-    },
-    {
-      "homeTeam": "Lens",
-      "awayTeam": "Strasbourg",
-      "time": "2025-02-16 16:15:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "France - Ligue 1 ",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd4.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-lens-vs-strasbourg-live-stream-hd.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/RC_Lens_logo.svg/146px-RC_Lens_logo.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/AS_Strasbourg_logo.svg/220px-AS_Strasbourg_logo.svg.png"
-    },
-    {
-      "homeTeam": "Tottenham Hotspur",
-      "awayTeam": "Manchester United",
-      "time": "2025-02-16 16:30:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "England - Premier League ",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd1.php",
-        "https://sportzonline.si/channels/pt/eleven1.php",
-        "https://sportzonline.si/channels/bra/br2.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-tottenham-hotspur-vs-manchester.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/120px-Tottenham_Hotspur.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/210px-Manchester_United_FC_crest.svg.png"
-    },
-    {
-      "homeTeam": "Eintracht Frankfurt",
-      "awayTeam": "Holstein Kiel",
-      "time": "2025-02-16 16:30:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Germany - Bundesliga",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd5.php",
-        "https://sportzonline.si/channels/hd/hd3.php",
-        "https://sportzonline.si/channels/pt/eleven3.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-eintracht-frankfurt-vs-holstein.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/7/72/Kit_left_arm_frankfurt2425h.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/190px-Holstein_Kiel_Logo.svg.png"
-    },
-    {
-      "homeTeam": "Parma",
-      "awayTeam": "Roma",
-      "time": "2025-02-16 17:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Italy - Serie A ",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd8.php",
-        "https://sportzonline.si/channels/pt/sporttv3.php",
-        "https://sportzonline.si/channels/bra/br6.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-parma-vs-roma-live-stream-hd.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_Parma_Calcio_1913_%28adozione_2016%29.svg/150px-Logo_Parma_Calcio_1913_%28adozione_2016%29.svg.png",
-      "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
-    },
-    {
-      "homeTeam": "Mallorca",
-      "awayTeam": "Las Palmas",
-      "time": "2025-02-16 17:30:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Spain - La Liga",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd2.php",
-        "https://sportzonline.si/channels/hd/hd6.php",
-        "https://sportzonline.si/channels/pt/eleven2.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-mallorca-vs-las-palmas-live-stream.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Rcd_mallorca.svg/160px-Rcd_mallorca.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/UD_Las_Palmas_logo.svg/125px-UD_Las_Palmas_logo.svg.png"
-    },
-    {
-      "homeTeam": "Farense",
-      "awayTeam": "Porto",
-      "time": "2025-02-16 18:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Liga Portugal Betclic ",
-      "urls": [
-        "https://sportzonline.si/channels/pt/sporttv1.php",
-        "https://sportzonline.si/channels/bra/br3.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-farense-vs-porto-live-stream-hd.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nico_Gonzalez_%28cropped%29.jpg/220px-Nico_Gonzalez_%28cropped%29.jpg",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/180px-FC_Porto.svg.png"
-    },
-    {
-      "homeTeam": "PAOK",
-      "awayTeam": "Lamia",
-      "time": "2025-02-16 18:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Greece - Super League ",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd10.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-paok-vs-lamia-live-stream-hd.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/PAOK_FC_Logo.png/145px-PAOK_FC_Logo.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/PAS_Lamia_1964_logo.png/140px-PAS_Lamia_1964_logo.png"
-    },
-    {
-      "homeTeam": "Heidenheim",
-      "awayTeam": "Mainz 05",
-      "time": "2025-02-16 18:30:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Germany - Bundesliga ",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd3.php",
-        "https://sportzonline.si/channels/pt/eleven3.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-heidenheim-vs-mainz-05-live-stream.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1._FC_Heidenheim_1846.svg/150px-1._FC_Heidenheim_1846.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/210px-Logo_Mainz_05.svg.png"
-    },
-    {
-      "homeTeam": "Fluminense",
-      "awayTeam": "Nova Iguaçu",
-      "time": "2025-02-16 19:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Brazil - Carioca Série A ",
-      "urls": [
-        "https://sportzonline.si/channels/bra/br1.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-fluminense-vs-nova-iguacu-live.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FFC_crest.svg/180px-FFC_crest.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Niguacu_football.png/160px-Niguacu_football.png"
-    },
-    {
-      "homeTeam": "Sampaio Corrêa RJ",
-      "awayTeam": "Volta Redonda",
-      "time": "2025-02-16 19:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Brazil - Carioca Série A ",
-      "urls": [
-        "https://sportzonline.si/channels/bra/br6.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-sampaio-correa-rj-vs-volta-redonda.html",
-      "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Volta_Redonda_Futebol_Clube.png/150px-Volta_Redonda_Futebol_Clube.png"
-    },
-    {
-      "homeTeam": "Rennes",
-      "awayTeam": "Lille",
-      "time": "2025-02-16 19:45:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "France - Ligue 1",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd4.php",
-        "https://sportzonline.si/channels/pt/sporttv4.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-rennes-vs-lille-live-stream-hd.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Stade_Rennais_FC.svg/185px-Stade_Rennais_FC.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/31px-Kit_left_arm.svg.png"
-    },
-    {
-      "homeTeam": "Juventus",
-      "awayTeam": "Internazionale",
-      "time": "2025-02-16 19:45:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Italy - Serie A",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd5.php",
-        "https://sportzonline.si/channels/hd/hd7.php",
-        "https://sportzonline.si/channels/pt/sporttv3.php",
-        "https://sportzonline.si/channels/bra/br2.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-juventus-vs-internazionale-live.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg/120px-Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/200px-FC_Internazionale_Milano_2021.svg.png"
-    },
-    {
-      "homeTeam": "Real Betis",
-      "awayTeam": "Real Sociedad",
-      "time": "2025-02-16 20:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Spain - La Liga",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd2.php",
-        "https://sportzonline.si/channels/hd/hd6.php",
-        "https://sportzonline.si/channels/pt/eleven1.php",
-        "https://sportzonline.si/channels/bra/br3.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-real-betis-vs-real-sociedad-live.html",
-      "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/5/57/Kit_left_arm_rsociedad2324h.png"
-    },
-    {
-      "homeTeam": "Newell\u0027s Old Boys",
-      "awayTeam": "Rosario Central",
-      "time": "2025-02-16 20:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Argentina Primera LPF",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd9.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-newells-old-boys-vs-rosario.html",
-      "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Adisa_De_Rosario_2024_%28cropped%29.jpg"
-    },
-    {
-      "homeTeam": "Vitória Guimarães",
-      "awayTeam": "Sporting Braga",
-      "time": "2025-02-16 20:30:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Liga Portugal Betclic ",
-      "urls": [
-        "https://sportzonline.si/channels/pt/sporttv2.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-vitoria-guimaraes-vs-sporting.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Vit%C3%B3ria_Guimar%C3%A3es.svg/145px-Vit%C3%B3ria_Guimar%C3%A3es.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/S.C._Braga_logo.svg/170px-S.C._Braga_logo.svg.png"
-    },
-    {
-      "homeTeam": "Palmeiras",
-      "awayTeam": "São Paulo",
-      "time": "2025-02-16 21:30:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Brazil - Paulista A1",
-      "urls": [
-        "https://sportzonline.si/channels/bra/br5.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-palmeiras-vs-sao-paulo-live-stream.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/200px-Palmeiras_logo.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg/190px-Brasao_do_Sao_Paulo_Futebol_Clube.svg.png"
-    },
-    {
-      "homeTeam": "Portuguesa Rj",
-      "awayTeam": "Maricá",
-      "time": "2025-02-16 22:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Brazil - Carioca Série A ",
-      "urls": [
-        "https://sportzonline.si/channels/bra/br6.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-portuguesa-rj-vs-marica-live.html",
-      "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Maric%C3%A1_Futebol_Clube_logo.png/110px-Maric%C3%A1_Futebol_Clube_logo.png"
-    },
-    {
-      "homeTeam": "Unión Magdalena",
-      "awayTeam": "La Equidad",
-      "time": "2025-02-16 22:10:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Colombia - Primera A ",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd10.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-union-magdalena-vs-la-equidad-live.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Escudo_Uni%C3%B3n_Magdalena_2024.png/220px-Escudo_Uni%C3%B3n_Magdalena_2024.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/La_Equidad_Seguros_logo.svg/150px-La_Equidad_Seguros_logo.svg.png"
-    },
-    {
-      "homeTeam": "River Plate",
-      "awayTeam": "Lanús",
-      "time": "2025-02-16 22:15:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Argentina - Primera LPF ",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd9.php",
-        "https://sportzonline.si/channels/pt/sporttv3.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-river-plate-vs-lanus-live-stream-hd.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b3/River_Plate_Football_Club_de_Montevideo_logo.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Club_Atl%C3%A9tico_Lan%C3%BAs_Logo.svg/190px-Club_Atl%C3%A9tico_Lan%C3%BAs_Logo.svg.png"
-    },
-    {
-      "homeTeam": "Santos",
-      "awayTeam": "Água Santa",
-      "time": "2025-02-16 23:30:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "Brazil - Paulista A1 ",
-      "urls": [
-        "https://sportzonline.si/channels/bra/br4.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-santos-vs-agua-santa-live-stream-hd.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Santos_Logo.png/220px-Santos_Logo.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/EC_%C3%81gua_Santa.png/180px-EC_%C3%81gua_Santa.png"
-    },
-    {
-      "homeTeam": "Atlético Nacional",
-      "awayTeam": "Deportes Tolima",
-      "time": "2025-02-17 00:20:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd10.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-atletico-nacional-vs-deportes.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Atl%C3%A9tico_Nacional.png/140px-Atl%C3%A9tico_Nacional.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Juan_Pablo_Vargas_-_2019.jpg/220px-Juan_Pablo_Vargas_-_2019.jpg"
-    },
-    {
-      "homeTeam": "Huracán",
-      "awayTeam": "Unión Santa Fe",
-      "time": "2025-02-17 00:30:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd9.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-huracan-vs-union-santa-fe-live.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Huracanfc.jpg/150px-Huracanfc.jpg",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Argentina_location_map.svg/148px-Argentina_location_map.svg.png"
-    },
-    {
-      "homeTeam": "Pachuca",
-      "awayTeam": "Pumas UNAM",
-      "time": "2025-02-17 01:05:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd11.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-pachuca-vs-pumas-unam-live-stream.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Pachuca_Tuzos_logo.svg/150px-Pachuca_Tuzos_logo.svg.png",
-      "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Club_Universidad_Nacional_logo.svg/195px-Club_Universidad_Nacional_logo.svg.png"
-    }
-  ],
-  "tomorrow": [
-    {
-      "homeTeam": "Pakhtakor",
-      "awayTeam": "Al Sadd",
-      "time": "2025-02-16 14:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd3.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    },
-    {
-      "homeTeam": "Persepolis",
-      "awayTeam": "Al Nassr",
-      "time": "2025-02-16 16:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd3.php",
-        "https://sportzonline.si/channels/bra/br6.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    },
-    {
-      "homeTeam": "Rizespor",
-      "awayTeam": "Galatasaray",
-      "time": "2025-02-16 17:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd11.php",
-        "https://sportzonline.si/channels/pt/sporttv1.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    },
-    {
-      "homeTeam": "Al-Ahli",
-      "awayTeam": "Al Gharafa",
-      "time": "2025-02-16 18:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd3.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    },
-    {
-      "homeTeam": "Almería",
-      "awayTeam": "Elche",
-      "time": "2025-02-16 19:30:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd9.php",
-        "https://sportzonline.si/channels/pt/eleven2.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    },
-    {
-      "homeTeam": "Genoa",
-      "awayTeam": "Venezia",
-      "time": "2025-02-16 19:45:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd7.php",
-        "https://sportzonline.si/channels/pt/sporttv2.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    },
-    {
-      "homeTeam": "Annecy",
-      "awayTeam": "Caen",
-      "time": "2025-02-16 19:45:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd4.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    },
-    {
-      "homeTeam": "Barcelona",
-      "awayTeam": "Rayo Vallecano",
-      "time": "2025-02-16 20:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd2.php",
-        "https://sportzonline.si/channels/hd/hd6.php",
-        "https://sportzonline.si/channels/pt/eleven1.php",
-        "https://sportzonline.si/channels/bra/br2.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    },
-    {
-      "homeTeam": "Leeds United",
-      "awayTeam": "Sunderland",
-      "time": "2025-02-16 20:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd5.php",
-        "https://sportzonline.si/channels/bra/br6.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    },
-    {
-      "homeTeam": "Gil Vicente",
-      "awayTeam": "Famalicão",
-      "time": "2025-02-16 20:15:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/pt/sporttv1.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    },
-    {
-      "homeTeam": "Envigado",
-      "awayTeam": "Deportivo Pasto",
-      "time": "2025-02-16 21:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd10.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    },
-    {
-      "homeTeam": "Platense",
-      "awayTeam": "Independiente",
-      "time": "2025-02-16 22:15:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/pt/sporttv2.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    },
-    {
-      "homeTeam": "Alianza Lima",
-      "awayTeam": "Boca Juniors",
-      "time": "2025-02-17 00:30:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/pt/sporttv1.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    },
-    {
-      "homeTeam": "Rugby 4 Nations: Sweden",
-      "awayTeam": "USA",
-      "time": "2025-02-17 01:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/pt/sporttv1.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    },
-    {
-      "homeTeam": "Fortaleza CEIF",
-      "awayTeam": "Rionegro Águilas",
-      "time": "2025-02-17 01:10:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/hd/hd10.php"
-      ],
-      "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
-    }
-  ]
+    "yesterday": [
+        {
+            "homeTeam": "Santos",
+            "awayTeam": "\u00c1gua Santa",
+            "time": "2025-02-17 23:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br4.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Atl\u00e9tico Nacional",
+            "awayTeam": "Deportes Tolima",
+            "time": "2025-02-18 00:20:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Hurac\u00e1n",
+            "awayTeam": "Uni\u00f3n Santa Fe",
+            "time": "2025-02-18 00:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd9.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Pachuca",
+            "awayTeam": "Pumas UNAM",
+            "time": "2025-02-18 01:05:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd11.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        }
+    ],
+    "today": [
+        {
+            "homeTeam": "Pakhtakor",
+            "awayTeam": "Al Sadd",
+            "time": "2025-02-17 14:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd3.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Pakhtakor_Tashkent_FK_logo.svg/220px-Pakhtakor_Tashkent_FK_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Al_Sadd_SC_logo.svg/170px-Al_Sadd_SC_logo.svg.png"
+        },
+        {
+            "homeTeam": "Persepolis",
+            "awayTeam": "Al Nassr",
+            "time": "2025-02-17 16:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd3.php",
+                "https://sportzonline.si/channels/bra/br6.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/FC_Persepolis_Official_Logo.svg/200px-FC_Persepolis_Official_Logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Al_Nassr_FC_Logo.svg/220px-Al_Nassr_FC_Logo.svg.png"
+        },
+        {
+            "homeTeam": "Rizespor",
+            "awayTeam": "Galatasaray",
+            "time": "2025-02-17 17:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd11.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Galatasaray_4_Sterne_Logo.svg/150px-Galatasaray_4_Sterne_Logo.svg.png"
+        },
+        {
+            "homeTeam": "Al-Ahli",
+            "awayTeam": "Al Gharafa",
+            "time": "2025-02-17 18:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd3.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Al_Ahli_Saudi_FC_logo.svg/155px-Al_Ahli_Saudi_FC_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Al-Hilal_SFC_logo.svg/125px-Al-Hilal_SFC_logo.svg.png"
+        },
+        {
+            "homeTeam": "Almer\u00eda",
+            "awayTeam": "Elche",
+            "time": "2025-02-17 19:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/pt/eleven2.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/UD_Almeria_logo.svg/145px-UD_Almeria_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Kit_left_arm_elche2425h.png"
+        },
+        {
+            "homeTeam": "Genoa",
+            "awayTeam": "Venezia",
+            "time": "2025-02-17 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd7.php",
+                "https://sportzonline.si/channels/pt/sporttv2.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Genoa_CFC_crest.svg/140px-Genoa_CFC_crest.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Venezia_FC_crest.svg/190px-Venezia_FC_crest.svg.png"
+        },
+        {
+            "homeTeam": "Annecy",
+            "awayTeam": "Caen",
+            "time": "2025-02-17 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd4.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/FC_Annecy_logo.svg/160px-FC_Annecy_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/SM_Caen_2016_logo.svg/140px-SM_Caen_2016_logo.svg.png"
+        },
+        {
+            "homeTeam": "Barcelona",
+            "awayTeam": "Rayo Vallecano",
+            "time": "2025-02-17 20:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd2.php",
+                "https://sportzonline.si/channels/hd/hd6.php",
+                "https://sportzonline.si/channels/pt/eleven1.php",
+                "https://sportzonline.si/channels/bra/br2.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/210px-FC_Barcelona_%28crest%29.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Kit_left_arm_rayo1920h.png"
+        },
+        {
+            "homeTeam": "Leeds United",
+            "awayTeam": "Sunderland",
+            "time": "2025-02-17 20:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd5.php",
+                "https://sportzonline.si/channels/bra/br6.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/175px-Leeds_United_F.C._logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Logo_Sunderland.svg/250px-Logo_Sunderland.svg.png"
+        },
+        {
+            "homeTeam": "Gil Vicente",
+            "awayTeam": "Famalic\u00e3o",
+            "time": "2025-02-17 20:15:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Gil_Vicente_F.C.png/155px-Gil_Vicente_F.C.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/F.C._Famalic%C3%A3o_logo.svg/205px-F.C._Famalic%C3%A3o_logo.svg.png"
+        },
+        {
+            "homeTeam": "Envigado",
+            "awayTeam": "Deportivo Pasto",
+            "time": "2025-02-17 21:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Envigado_FC_logo_2018.png/200px-Envigado_FC_logo_2018.png",
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
+        },
+        {
+            "homeTeam": "Platense",
+            "awayTeam": "Independiente",
+            "time": "2025-02-17 22:15:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/pt/sporttv2.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/PlatenseFC_flag.png/220px-PlatenseFC_flag.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_Cai_Panama.jpg/170px-Logo_Cai_Panama.jpg"
+        },
+        {
+            "homeTeam": "Alianza Lima",
+            "awayTeam": "Boca Juniors",
+            "time": "2025-02-18 00:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Escudo_Alianza_Lima.svg/140px-Escudo_Alianza_Lima.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/1/14/Boca-Juniors-Grenada.png"
+        },
+        {
+            "homeTeam": "Rugby 4 Nations: Sweden",
+            "awayTeam": "USA",
+            "time": "2025-02-18 01:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/Scotlandlogo.png/245px-Scotlandlogo.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/United_States_Soccer_Federation_logo_2016.svg/150px-United_States_Soccer_Federation_logo_2016.svg.png"
+        },
+        {
+            "homeTeam": "Fortaleza CEIF",
+            "awayTeam": "Rionegro \u00c1guilas",
+            "time": "2025-02-18 01:10:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fortaleza_CEIF_logo.png/155px-Fortaleza_CEIF_logo.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/LogoAguilasPereira.png/170px-LogoAguilasPereira.png"
+        }
+    ],
+    "tomorrow": [
+        {
+            "homeTeam": "Kawasaki Frontale",
+            "awayTeam": "Central Coast Mariners",
+            "time": "2025-02-17 10:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd3.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Shanghai Shenhua",
+            "awayTeam": "Vissel Kobe",
+            "time": "2025-02-17 12:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd3.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Al Wasl",
+            "awayTeam": "Al Hilal",
+            "time": "2025-02-17 16:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd3.php",
+                "https://sportzonline.si/channels/bra/br6.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Milan",
+            "awayTeam": "Feyenoord",
+            "time": "2025-02-17 17:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd1.php",
+                "https://sportzonline.si/channels/hd/hd5.php",
+                "https://sportzonline.si/channels/hd/hd7.php",
+                "https://sportzonline.si/channels/hd/hd4.php",
+                "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/hd/hd10.php",
+                "https://sportzonline.si/channels/pt/eleven1.php",
+                "https://sportzonline.si/channels/bra/br3.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Bayern M\u00fcnchen",
+            "awayTeam": "Celtic",
+            "time": "2025-02-17 20:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd1.php",
+                "https://sportzonline.si/channels/hd/hd3.php",
+                "https://sportzonline.si/channels/hd/hd6.php",
+                "https://sportzonline.si/channels/hd/hd10.php",
+                "https://sportzonline.si/channels/pt/eleven1.php",
+                "https://sportzonline.si/channels/bra/br2.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Atalanta",
+            "awayTeam": "Club Brugge",
+            "time": "2025-02-17 20:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd11.php",
+                "https://sportzonline.si/channels/hd/hd7.php",
+                "https://sportzonline.si/channels/pt/eleven2.php",
+                "https://sportzonline.si/channels/bra/br4.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Benfica",
+            "awayTeam": "Monaco",
+            "time": "2025-02-17 20:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd2.php",
+                "https://sportzonline.si/channels/hd/hd4.php",
+                "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/pt/sporttv5.php",
+                "https://sportzonline.si/channels/bra/br3.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Birmigham",
+            "awayTeam": "Bradford",
+            "time": "2025-02-17 20:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/pt/sporttv2.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Tocantin\u00f3polis",
+            "awayTeam": "Atl\u00e9tico Mineiro",
+            "time": "2025-02-17 21:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Am\u00e9rica RN",
+            "awayTeam": "Confian\u00e7a",
+            "time": "2025-02-17 22:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br5.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Deportes Iquique",
+            "awayTeam": "Santa Fe",
+            "time": "2025-02-17 22:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd5.php",
+                "https://sportzonline.si/channels/hd/hd6.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Llaneros",
+            "awayTeam": "Deportivo Cali",
+            "time": "2025-02-17 23:10:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Alianza Lima",
+            "awayTeam": "Boca Juniors",
+            "time": "2025-02-18 00:20:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd5.php",
+                "https://sportzonline.si/channels/hd/hd6.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php",
+                "https://sportzonline.si/channels/bra/br2.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "The Strongest",
+            "awayTeam": "Bahia",
+            "time": "2025-02-18 00:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/pt/sporttv2.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Uni\u00e3o Rondon\u00f3polis",
+            "awayTeam": "Vasco da Gama",
+            "time": "2025-02-18 00:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Ferrovi\u00e1rio",
+            "awayTeam": "Altos",
+            "time": "2025-02-18 00:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br5.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Sporting KC",
+            "awayTeam": "Inter Miami",
+            "time": "2025-02-18 01:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/hd/hd11.php",
+                "https://sportzonline.si/channels/bra/br6.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Boyac\u00e1 Chic\u00f3",
+            "awayTeam": "Junior",
+            "time": "2025-02-18 01:20:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Colorado Rapids",
+            "awayTeam": "Los Angeles FC",
+            "time": "2025-02-18 03:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd9.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        },
+        {
+            "homeTeam": "Atlas",
+            "awayTeam": "Necaxa",
+            "time": "2025-02-18 03:10:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd11.php"
+            ],
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+        }
+    ]
 }
