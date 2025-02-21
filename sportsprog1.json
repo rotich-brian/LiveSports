@@ -383,7 +383,7 @@
       "time": "2025-02-21 22:30:00",
       "commentator": "Chawali",
       "channel": "FooTV SPORT",
-      "competition": "League Event",
+      "competition": "Spain - La Liga ",
       "urls": [
         "https://sportzonline.si/channels/bra/br5.php"
       ],
@@ -397,7 +397,7 @@
       "time": "2025-02-22 01:00:00",
       "commentator": "Chawali",
       "channel": "FooTV SPORT",
-      "competition": "League Event",
+      "competition": "Mexico - Liga MX",
       "urls": [
         "https://sportzonline.si/channels/hd/hd11.php"
       ],
@@ -406,26 +406,12 @@
       "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
     },
     {
-      "homeTeam": "César Vaca",
-      "awayTeam": "Joel Cordova",
-      "time": "2025-02-22 02:00:00",
-      "commentator": "Chawali",
-      "channel": "FooTV SPORT",
-      "competition": "League Event",
-      "urls": [
-        "https://sportzonline.si/channels/bra/br6.php"
-      ],
-      "eventUrl": "http://watch.livesports808.top/2025/02/live-cesar-vaca-vs-joel-cordova-live.html",
-      "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Miguel_Terceros_2023.png/220px-Miguel_Terceros_2023.png",
-      "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/football-removebg-preview.png"
-    },
-    {
       "homeTeam": "Puebla",
       "awayTeam": "Tijuana",
       "time": "2025-02-22 03:00:00",
       "commentator": "Chawali",
       "channel": "FooTV SPORT",
-      "competition": "League Event",
+      "competition": "Mexico - Liga MX",
       "urls": [
         "https://sportzonline.si/channels/hd/hd11.php"
       ],
