@@ -10,7 +10,8 @@
             "urls": [
                 "https://sportzonline.si/channels/bra/br1.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-conc-rdia-vs-ponte-preta-live-stream"
         },
         {
             "homeTeam": "Barcelona",
@@ -22,7 +23,8 @@
             "urls": [
                 "https://sportzonline.si/channels/bra/br6.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-barcelona-vs-el-nacional-live-stream"
         },
         {
             "homeTeam": "Corinthians",
@@ -36,7 +38,8 @@
                 "https://sportzonline.si/channels/pt/sporttv4.php",
                 "https://sportzonline.si/channels/bra/br2.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-corinthians-vs-ucv-live-stream"
         },
         {
             "homeTeam": "CSA",
@@ -48,7 +51,8 @@
             "urls": [
                 "https://sportzonline.si/channels/bra/br5.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-csa-vs-n-utico-live-stream"
         },
         {
             "homeTeam": "Pachuca",
@@ -60,7 +64,8 @@
             "urls": [
                 "https://sportzonline.si/channels/hd/hd9.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-pachuca-vs-puebla-live-stream"
         },
         {
             "homeTeam": "Real Salt Lake",
@@ -72,7 +77,8 @@
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-real-salt-lake-vs-herediano-live-stream"
         },
         {
             "homeTeam": "Atl\u00e9tico San Luis",
@@ -84,7 +90,8 @@
             "urls": [
                 "https://sportzonline.si/channels/hd/hd9.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-atl-tico-san-luis-vs-guadalajara-live-stream"
         },
         {
             "homeTeam": "Seattle Sounders FC",
@@ -96,7 +103,8 @@
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-seattle-sounders-fc-vs-antigua-gfc-live-stream"
         }
     ],
     "today": [
@@ -112,7 +120,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-bb-erzurumspor-vs-istanbulspor.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Thy%2C_Lennart_StP_12-13_WP_%28cropped%29.JPG/220px-Thy%2C_Lennart_StP_12-13_WP_%28cropped%29.JPG",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "id": "live-bb-erzurumspor-vs-i-stanbulspor-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641119/match_banners/live-bb-erzurumspor-vs-i-stanbulspor-live-stream.png"
         },
         {
             "homeTeam": "Gaziantep FK",
@@ -126,7 +136,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-gaziantep-fk-vs-fenerbahce-live.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/FC_Minsk_logo.png/200px-FC_Minsk_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Fenerbah%C3%A7e.svg/190px-Fenerbah%C3%A7e.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Fenerbah%C3%A7e.svg/190px-Fenerbah%C3%A7e.svg.png",
+            "id": "live-gaziantep-fk-vs-fenerbah-e-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641129/match_banners/live-gaziantep-fk-vs-fenerbah-e-live-stream.png"
         },
         {
             "homeTeam": "Ey\u00fcpspor",
@@ -140,7 +152,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-eyupspor-vs-istanbul-basaksehir.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Eyupspor_logo.png/170px-Eyupspor_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_logo.svg/155px-%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_logo.svg/155px-%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_logo.svg.png",
+            "id": "live-ey-pspor-vs-i-stanbul-ba-ak-ehir-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641133/match_banners/live-ey-pspor-vs-i-stanbul-ba-ak-ehir-live-stream.png"
         },
         {
             "homeTeam": "Galatasaray",
@@ -154,7 +168,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-galatasaray-vs-konyaspor-live.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Galatasaray_4_Sterne_Logo.svg/150px-Galatasaray_4_Sterne_Logo.svg.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "id": "live-galatasaray-vs-konyaspor-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641136/match_banners/live-galatasaray-vs-konyaspor-live-stream.png"
         },
         {
             "homeTeam": "Ludogorets",
@@ -168,7 +184,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-ludogorets-vs-botev-plovdiv-live.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/PFC_Ludogorets_Razgrad_logo.svg/150px-PFC_Ludogorets_Razgrad_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/PFC_Botev_Plovdiv.svg/200px-PFC_Botev_Plovdiv.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/PFC_Botev_Plovdiv.svg/200px-PFC_Botev_Plovdiv.svg.png",
+            "id": "live-ludogorets-vs-botev-plovdiv-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641140/match_banners/live-ludogorets-vs-botev-plovdiv-live-stream.png"
         },
         {
             "homeTeam": "Polonia Warszawa",
@@ -182,7 +200,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-polonia-warszawa-vs-puszcza.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Poloniawarszawa1.svg/180px-Poloniawarszawa1.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Oliwier_Zych_Aston_Villa.jpg/220px-Oliwier_Zych_Aston_Villa.jpg"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Oliwier_Zych_Aston_Villa.jpg/220px-Oliwier_Zych_Aston_Villa.jpg",
+            "id": "live-polonia-warszawa-vs-puszcza-niepo-omice-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641144/match_banners/live-polonia-warszawa-vs-puszcza-niepo-omice-live-stream.png"
         },
         {
             "homeTeam": "Heracles",
@@ -196,7 +216,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-heracles-vs-az-live-stream-hd.html",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AZ_Alkmaar.svg/200px-AZ_Alkmaar.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AZ_Alkmaar.svg/200px-AZ_Alkmaar.svg.png",
+            "id": "live-heracles-vs-az-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641147/match_banners/live-heracles-vs-az-live-stream.png"
         },
         {
             "homeTeam": "Bologna",
@@ -213,7 +235,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-bologna-vs-milan-live-stream-hd.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bologna_F.C._1909_logo.svg/130px-Bologna_F.C._1909_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/200px-FC_Internazionale_Milano_2021.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/200px-FC_Internazionale_Milano_2021.svg.png",
+            "id": "live-bologna-vs-milan-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641151/match_banners/live-bologna-vs-milan-live-stream.png"
         },
         {
             "homeTeam": "West Ham United",
@@ -229,7 +253,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-west-ham-united-vs-leicester-city.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/175px-West_Ham_United_FC_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/190px-Leicester_City_crest.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/190px-Leicester_City_crest.svg.png",
+            "id": "live-west-ham-united-vs-leicester-city-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641155/match_banners/live-west-ham-united-vs-leicester-city-live-stream.png"
         },
         {
             "homeTeam": "Barrow",
@@ -243,7 +269,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-barrow-vs-carlisle-united-live.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Barrow_AFC_logo.svg/150px-Barrow_AFC_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Carlisle_United_FC_crest.svg/170px-Carlisle_United_FC_crest.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Carlisle_United_FC_crest.svg/170px-Carlisle_United_FC_crest.svg.png",
+            "id": "live-barrow-vs-carlisle-united-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641159/match_banners/live-barrow-vs-carlisle-united-live-stream.png"
         },
         {
             "homeTeam": "Gil Vicente",
@@ -257,7 +285,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-gil-vicente-vs-sporting-cp-live.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Gil_Vicente_F.C.png/155px-Gil_Vicente_F.C.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "id": "live-gil-vicente-vs-sporting-cp-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641172/match_banners/live-gil-vicente-vs-sporting-cp-live-stream.png"
         },
         {
             "homeTeam": "Cerro Porte\u00f1o",
@@ -273,7 +303,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-cerro-porteno-vs-monagas-live.html",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Monagas_SC.png/230px-Monagas_SC.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Monagas_SC.png/230px-Monagas_SC.png",
+            "id": "live-cerro-porte-o-vs-monagas-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641175/match_banners/live-cerro-porte-o-vs-monagas-live-stream.png"
         },
         {
             "homeTeam": "Ceil\u00e2ndia",
@@ -287,7 +319,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-ceilandia-vs-coritiba-live-stream.html",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Coritiba_FBC_%282011%29_-_PR.svg/195px-Coritiba_FBC_%282011%29_-_PR.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Coritiba_FBC_%282011%29_-_PR.svg/195px-Coritiba_FBC_%282011%29_-_PR.svg.png",
+            "id": "live-ceil-ndia-vs-coritiba-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641178/match_banners/live-ceil-ndia-vs-coritiba-live-stream.png"
         },
         {
             "homeTeam": "Portuguesa",
@@ -301,7 +335,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-portuguesa-vs-botafogo-pb-live.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Portuguesa_FC.png/320px-Portuguesa_FC.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Botafogo_Futebol_Clube_%28SP%29.svg/140px-Botafogo_Futebol_Clube_%28SP%29.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Botafogo_Futebol_Clube_%28SP%29.svg/140px-Botafogo_Futebol_Clube_%28SP%29.svg.png",
+            "id": "live-portuguesa-vs-botafogo-pb-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641182/match_banners/live-portuguesa-vs-botafogo-pb-live-stream.png"
         },
         {
             "homeTeam": "Botafogo",
@@ -319,7 +355,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-botafogo-vs-racing-club-live.html",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Racing_Louisville_FC_logo.svg/190px-Racing_Louisville_FC_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Racing_Louisville_FC_logo.svg/190px-Racing_Louisville_FC_logo.svg.png",
+            "id": "live-botafogo-vs-racing-club-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641185/match_banners/live-botafogo-vs-racing-club-live-stream.png"
         },
         {
             "homeTeam": "Inter de Limeira",
@@ -333,7 +371,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-inter-de-limeira-vs-vila-nova-live.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/AAInternacional.png/165px-AAInternacional.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Vila_Nova_Logo_Oficial.svg/165px-Vila_Nova_Logo_Oficial.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Vila_Nova_Logo_Oficial.svg/165px-Vila_Nova_Logo_Oficial.svg.png",
+            "id": "live-inter-de-limeira-vs-vila-nova-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641189/match_banners/live-inter-de-limeira-vs-vila-nova-live-stream.png"
         },
         {
             "homeTeam": "Sousa",
@@ -347,7 +387,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-sousa-vs-rb-bragantino-live-stream.html",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Red_Bull_Bragantino_logo.svg/235px-Red_Bull_Bragantino_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Red_Bull_Bragantino_logo.svg/235px-Red_Bull_Bragantino_logo.svg.png",
+            "id": "live-sousa-vs-rb-bragantino-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641191/match_banners/live-sousa-vs-rb-bragantino-live-stream.png"
         },
         {
             "homeTeam": "Medell\u00edn",
@@ -361,7 +403,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-medellin-vs-llaneros-live-stream-hd.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Atl%C3%A9tico_Nacional.png/140px-Atl%C3%A9tico_Nacional.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "id": "live-medell-n-vs-llaneros-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641194/match_banners/live-medell-n-vs-llaneros-live-stream.png"
         },
         {
             "homeTeam": "Vancouver Whitecaps",
@@ -375,7 +419,9 @@
             ],
             "eventUrl": "http://watch.livesports808.top/2025/02/live-vancouver-whitecaps-vs-deportivo.html",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Vancouver_Whitecaps_FC_logo.svg/190px-Vancouver_Whitecaps_FC_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Escudo_Saprissa_2012.svg/190px-Escudo_Saprissa_2012.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Escudo_Saprissa_2012.svg/190px-Escudo_Saprissa_2012.svg.png",
+            "id": "live-vancouver-whitecaps-vs-deportivo-saprissa-live-stream",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1740641198/match_banners/live-vancouver-whitecaps-vs-deportivo-saprissa-live-stream.png"
         }
     ],
     "tomorrow": [
@@ -389,7 +435,8 @@
             "urls": [
                 "https://sportzonline.si/channels/hd/hd3.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-schalke-04-vs-preu-en-m-nster-live-stream"
         },
         {
             "homeTeam": "Fortuna D\u00fcsseldorf",
@@ -402,7 +449,8 @@
                 "https://sportzonline.si/channels/hd/hd8.php",
                 "https://sportzonline.si/channels/pt/eleven1.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-fortuna-d-sseldorf-vs-greuther-f-rth-live-stream"
         },
         {
             "homeTeam": "Al Orubah",
@@ -415,7 +463,8 @@
                 "https://sportzonline.si/channels/hd/hd11.php",
                 "https://sportzonline.si/channels/pt/sporttv2.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-al-orubah-vs-al-nassr-live-stream"
         },
         {
             "homeTeam": "Al Hilal",
@@ -427,7 +476,8 @@
             "urls": [
                 "https://sportzonline.si/channels/pt/sporttv5.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-al-hilal-vs-al-ahli-live-stream"
         },
         {
             "homeTeam": "Stuttgart",
@@ -442,7 +492,8 @@
                 "https://sportzonline.si/channels/pt/eleven1.php",
                 "https://sportzonline.si/channels/bra/br5.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-stuttgart-vs-bayern-m-nchen-live-stream"
         },
         {
             "homeTeam": "Cartagena",
@@ -454,7 +505,8 @@
             "urls": [
                 "https://sportzonline.si/channels/hd/hd10.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-cartagena-vs-eibar-live-stream"
         },
         {
             "homeTeam": "Monaco",
@@ -467,7 +519,8 @@
                 "https://sportzonline.si/channels/hd/hd4.php",
                 "https://sportzonline.si/channels/pt/sporttv3.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-monaco-vs-reims-live-stream"
         },
         {
             "homeTeam": "Fiorentina",
@@ -479,7 +532,8 @@
             "urls": [
                 "https://sportzonline.si/channels/hd/hd7.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-fiorentina-vs-lecce-live-stream"
         },
         {
             "homeTeam": "Charleroi",
@@ -491,7 +545,8 @@
             "urls": [
                 "https://sportzonline.si/channels/pt/eleven3.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-charleroi-vs-genk-live-stream"
         },
         {
             "homeTeam": "Real Valladolid",
@@ -506,7 +561,8 @@
                 "https://sportzonline.si/channels/pt/eleven2.php",
                 "https://sportzonline.si/channels/bra/br6.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-real-valladolid-vs-las-palmas-live-stream"
         },
         {
             "homeTeam": "Aston Villa",
@@ -520,7 +576,8 @@
                 "https://sportzonline.si/channels/pt/sporttv4.php",
                 "https://sportzonline.si/channels/bra/br2.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-aston-villa-vs-cardiff-city-live-stream"
         },
         {
             "homeTeam": "Sheffield Wednesday",
@@ -533,7 +590,8 @@
                 "https://sportzonline.si/channels/hd/hd9.php",
                 "https://sportzonline.si/channels/bra/br3.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-sheffield-wednesday-vs-sunderland-live-stream"
         },
         {
             "homeTeam": "Chaves",
@@ -545,7 +603,8 @@
             "urls": [
                 "https://sportzonline.si/channels/pt/sporttv1.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-chaves-vs-benfica-b-live-stream"
         },
         {
             "homeTeam": "Boca Juniors",
@@ -558,7 +617,8 @@
                 "https://sportzonline.si/channels/bra/br6.php",
                 "https://sportzonline.si/channels/pt/sporttv1.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-boca-juniors-vs-rosario-central-live-stream"
         },
         {
             "homeTeam": "Boyac\u00e1 Chic\u00f3",
@@ -570,7 +630,8 @@
             "urls": [
                 "https://sportzonline.si/channels/hd/hd9.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-boyac-chic-vs-rionegro-guilas-live-stream"
         },
         {
             "homeTeam": "Mazatl\u00e1n",
@@ -582,7 +643,8 @@
             "urls": [
                 "https://sportzonline.si/channels/hd/hd11.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-mazatl-n-vs-cruz-azul-live-stream"
         },
         {
             "homeTeam": "Brisbane Roar",
@@ -594,7 +656,8 @@
             "urls": [
                 "https://sportzonline.si/channels/hd/hd1.php"
             ],
-            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html"
+            "eventUrl": "https://watch.livesports808.top/2024/10/live-football-sports-live-streaming-hd.html",
+            "id": "live-brisbane-roar-vs-melbourne-victory-live-stream"
         }
     ]
 }
