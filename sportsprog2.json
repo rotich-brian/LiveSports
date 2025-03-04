@@ -28,7 +28,7 @@
             "eventUrl": "https://livesports808.top/watch/live-atl-tico-tucum-n-vs-newell-s-old-boys-live-stream",
             "id": "live-atl-tico-tucum-n-vs-newell-s-old-boys-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Johor_Darul_Ta%27zim_v_Lion_City_Sailors_63.jpg/220px-Johor_Darul_Ta%27zim_v_Lion_City_Sailors_63.jpg"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
         },
         {
             "homeTeam": "Medellín",
@@ -43,7 +43,7 @@
             "eventUrl": "https://livesports808.top/watch/live-medell-n-vs-deportivo-pasto-live-stream",
             "id": "live-medell-n-vs-deportivo-pasto-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Atl%C3%A9tico_Nacional.png/140px-Atl%C3%A9tico_Nacional.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Escudo_Deportivo_Pereira_DP_Campeon_2022_II.png/190px-Escudo_Deportivo_Pereira_DP_Campeon_2022_II.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
         },
         {
             "homeTeam": "Salzburg U19",
@@ -116,43 +116,6 @@
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/150px-Aston_Villa_FC_new_crest.svg.png"
         },
         {
-            "homeTeam": "Borussia Dortmund",
-            "awayTeam": "Lille",
-            "time": "2025-03-04 20:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "UEFA Champions League, Knockout Phase",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php",
-                "https://sportzonline.si/channels/hd/hd3.php",
-                "https://sportzonline.si/channels/hd/hd9.php",
-                "https://sportzonline.si/channels/pt/eleven2.php",
-                "https://sportzonline.si/channels/bra/br5.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-borussia-dortmund-vs-lille-live-stream",
-            "id": "live-borussia-dortmund-vs-lille-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/180px-Borussia_Dortmund_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Lille_OSC_2018_logo.svg/210px-Lille_OSC_2018_logo.svg.png"
-        },
-        {
-            "homeTeam": "PSV",
-            "awayTeam": "Arsenal",
-            "time": "2025-03-04 20:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "UEFA Champions League, Knockout Phase",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd5.php",
-                "https://sportzonline.si/channels/hd/hd10.php",
-                "https://sportzonline.si/channels/pt/eleven1.php",
-                "https://sportzonline.si/channels/bra/br4.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-psv-vs-arsenal-live-stream",
-            "id": "live-psv-vs-arsenal-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/210px-PSV_Eindhoven.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/180px-Arsenal_FC.svg.png"
-        },
-        {
             "homeTeam": "Real Madrid",
             "awayTeam": "Atlético Madrid",
             "time": "2025-03-04 20:00:00",
@@ -173,6 +136,43 @@
             "id": "live-real-madrid-vs-atl-tico-madrid-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/165px-Real_Madrid_CF.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Kit_left_arm_atlmadrid2425h.png"
+        },
+        {
+            "homeTeam": "PSV",
+            "awayTeam": "Arsenal",
+            "time": "2025-03-04 20:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "UEFA Champions League, Knockout Phase",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd5.php",
+                "https://sportzonline.si/channels/hd/hd10.php",
+                "https://sportzonline.si/channels/pt/eleven1.php",
+                "https://sportzonline.si/channels/bra/br4.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-psv-vs-arsenal-live-stream",
+            "id": "live-psv-vs-arsenal-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/210px-PSV_Eindhoven.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/180px-Arsenal_FC.svg.png"
+        },
+        {
+            "homeTeam": "Borussia Dortmund",
+            "awayTeam": "Lille",
+            "time": "2025-03-04 20:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "UEFA Champions League, Knockout Phase",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd2.php",
+                "https://sportzonline.si/channels/hd/hd3.php",
+                "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/pt/eleven2.php",
+                "https://sportzonline.si/channels/bra/br5.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-borussia-dortmund-vs-lille-live-stream",
+            "id": "live-borussia-dortmund-vs-lille-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/180px-Borussia_Dortmund_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Lille_OSC_2018_logo.svg/210px-Lille_OSC_2018_logo.svg.png"
         },
         {
             "homeTeam": "Danubio U20",
@@ -218,7 +218,7 @@
             "eventUrl": "https://livesports808.top/watch/live-cincinnati-vs-tigres-uanl-live-stream",
             "id": "live-cincinnati-vs-tigres-uanl-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/FC_Cincinnati_primary_logo_2018.svg/190px-FC_Cincinnati_primary_logo_2018.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/1/19/Kit_left_arm_tigres2425h.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Tigres_UANL_logo_%28crest%29.svg/130px-Tigres_UANL_logo_%28crest%29.svg.png"
         },
         {
             "homeTeam": "Llaneros",
@@ -282,21 +282,6 @@
             "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
         },
         {
-            "homeTeam": "Pumas UNAM",
-            "awayTeam": "Alajuelense",
-            "time": "2025-03-05 01:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "CONCACAF Champions Cup",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd11.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-pumas-unam-vs-alajuelense-live-stream",
-            "id": "live-pumas-unam-vs-alajuelense-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Club_Universidad_Nacional_logo.svg/195px-Club_Universidad_Nacional_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/LD_Alajuelense.svg/170px-LD_Alajuelense.svg.png"
-        },
-        {
             "homeTeam": "Fortaleza CEIF",
             "awayTeam": "Atlético Nacional",
             "time": "2025-03-05 01:30:00",
@@ -312,6 +297,21 @@
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Atl%C3%A9tico_Nacional.png/140px-Atl%C3%A9tico_Nacional.png"
         },
         {
+            "homeTeam": "Pumas UNAM",
+            "awayTeam": "Alajuelense",
+            "time": "2025-03-05 01:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "CONCACAF Champions Cup",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd11.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-pumas-unam-vs-alajuelense-live-stream",
+            "id": "live-pumas-unam-vs-alajuelense-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Club_Universidad_Nacional_logo.svg/195px-Club_Universidad_Nacional_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/LD_Alajuelense.svg/170px-LD_Alajuelense.svg.png"
+        },
+        {
             "homeTeam": "Los Angeles FC",
             "awayTeam": "Columbus Crew",
             "time": "2025-03-05 03:30:00",
@@ -324,22 +324,7 @@
             "eventUrl": "https://livesports808.top/watch/live-los-angeles-fc-vs-columbus-crew-live-stream",
             "id": "live-los-angeles-fc-vs-columbus-crew-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Los_Angeles_Football_Club.svg/150px-Los_Angeles_Football_Club.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Columbus_Crew_logo_2021.svg/150px-Columbus_Crew_logo_2021.svg.png"
-        },
-        {
-            "homeTeam": "Sporting CP U19",
-            "awayTeam": "Stuttgart U19",
-            "time": "2025-03-05 13:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "UEFA Youth League, Knockout stage",
-            "urls": [
-                "https://sportzonline.si/channels/pt/eleven1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-sporting-cp-u19-vs-stuttgart-u19-live-stream",
-            "id": "live-sporting-cp-u19-vs-stuttgart-u19-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Rani_Khedira_2023.jpg/220px-Rani_Khedira_2023.jpg"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Columbus_Crew_logo_2021.svg/130px-Columbus_Crew_logo_2021.svg.png"
         },
         {
             "homeTeam": "Hoffenheim U19",
@@ -357,6 +342,21 @@
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/210px-Manchester_United_FC_crest.svg.png"
         },
         {
+            "homeTeam": "Sporting CP U19",
+            "awayTeam": "Stuttgart U19",
+            "time": "2025-03-05 13:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "UEFA Youth League, Knockout stage",
+            "urls": [
+                "https://sportzonline.si/channels/pt/eleven1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-sporting-cp-u19-vs-stuttgart-u19-live-stream",
+            "id": "live-sporting-cp-u19-vs-stuttgart-u19-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/2/21/Kit_left_arm_sporting2425h.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Rani_Khedira_2023.jpg/220px-Rani_Khedira_2023.jpg"
+        },
+        {
             "homeTeam": "SK Sturm Graz U19",
             "awayTeam": "Olympiakos Piraeus U19",
             "time": "2025-03-05 14:30:00",
@@ -370,22 +370,6 @@
             "id": "live-sk-sturm-graz-u19-vs-olympiakos-piraeus-u19-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/FC_Liefering_logo.png/150px-FC_Liefering_logo.png",
             "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
-        },
-        {
-            "homeTeam": "Bayern München U19",
-            "awayTeam": "Internazionale U19",
-            "time": "2025-03-05 15:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd3.php",
-                "https://sportzonline.si/channels/pt/eleven2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-bayern-m-nchen-u19-vs-internazionale-u19-live-stream",
-            "id": "live-bayern-m-nchen-u19-vs-internazionale-u19-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/175px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/180px-FC_Internazionale_Milano_2021.svg.png"
         },
         {
             "homeTeam": "Real Madrid U19",
@@ -402,7 +386,23 @@
             "eventUrl": "https://livesports808.top/watch/live-real-madrid-u19-vs-az-u19-live-stream",
             "id": "live-real-madrid-u19-vs-az-u19-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/210px-FC_Barcelona_%28crest%29.svg.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Giliano_Wijnaldum_-_Philadelphia_Union_%28cropped%29.jpg/220px-Giliano_Wijnaldum_-_Philadelphia_Union_%28cropped%29.jpg"
+        },
+        {
+            "homeTeam": "Bayern München U19",
+            "awayTeam": "Internazionale U19",
+            "time": "2025-03-05 15:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd3.php",
+                "https://sportzonline.si/channels/pt/eleven2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-bayern-m-nchen-u19-vs-internazionale-u19-live-stream",
+            "id": "live-bayern-m-nchen-u19-vs-internazionale-u19-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/175px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Yann_Aurel_Bisseck_1._FC_K%C3%B6ln_%2833947266338%29_%28cropped%29.jpg/220px-Yann_Aurel_Bisseck_1._FC_K%C3%B6ln_%2833947266338%29_%28cropped%29.jpg"
         },
         {
             "homeTeam": "Feyenoord",
@@ -424,23 +424,23 @@
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/200px-FC_Internazionale_Milano_2021.svg.png"
         },
         {
-            "homeTeam": "Benfica",
-            "awayTeam": "Barcelona",
+            "homeTeam": "Bayern München",
+            "awayTeam": "Bayer Leverkusen",
             "time": "2025-03-05 20:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "UEFA Champions League, Knockout Phase",
             "urls": [
-                "https://sportzonline.si/channels/hd/hd5.php",
-                "https://sportzonline.si/channels/hd/hd6.php",
-                "https://sportzonline.si/channels/hd/hd8.php",
-                "https://sportzonline.si/channels/pt/sporttv5.php",
-                "https://sportzonline.si/channels/bra/br3.php"
+                "https://sportzonline.si/channels/hd/hd2.php",
+                "https://sportzonline.si/channels/hd/hd3.php",
+                "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/pt/eleven2.php",
+                "https://sportzonline.si/channels/bra/br5.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-benfica-vs-barcelona-live-stream",
-            "id": "live-benfica-vs-barcelona-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/180px-FC_Porto.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/210px-FC_Barcelona_%28crest%29.svg.png"
+            "eventUrl": "https://livesports808.top/watch/live-bayern-m-nchen-vs-bayer-leverkusen-live-stream",
+            "id": "live-bayern-m-nchen-vs-bayer-leverkusen-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/240px-Bayer_04_Leverkusen_logo.svg.png"
         },
         {
             "homeTeam": "PSG",
@@ -464,38 +464,40 @@
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/180px-Liverpool_FC.svg.png"
         },
         {
-            "homeTeam": "Bayern München",
-            "awayTeam": "Bayer Leverkusen",
+            "homeTeam": "Benfica",
+            "awayTeam": "Barcelona",
             "time": "2025-03-05 20:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
             "competition": "UEFA Champions League, Knockout Phase",
             "urls": [
-                "https://sportzonline.si/channels/hd/hd2.php",
-                "https://sportzonline.si/channels/hd/hd3.php",
-                "https://sportzonline.si/channels/hd/hd9.php",
-                "https://sportzonline.si/channels/pt/eleven2.php",
-                "https://sportzonline.si/channels/bra/br5.php"
+                "https://sportzonline.si/channels/hd/hd5.php",
+                "https://sportzonline.si/channels/hd/hd6.php",
+                "https://sportzonline.si/channels/hd/hd8.php",
+                "https://sportzonline.si/channels/pt/sporttv5.php",
+                "https://sportzonline.si/channels/bra/br3.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-bayern-m-nchen-vs-bayer-leverkusen-live-stream",
-            "id": "live-bayern-m-nchen-vs-bayer-leverkusen-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/31px-Kit_left_arm.svg.png"
+            "eventUrl": "https://livesports808.top/watch/live-benfica-vs-barcelona-live-stream",
+            "id": "live-benfica-vs-barcelona-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/180px-FC_Porto.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/210px-FC_Barcelona_%28crest%29.svg.png"
         },
         {
-            "homeTeam": "Caxias",
-            "awayTeam": "Fluminense",
+            "homeTeam": "Melgar",
+            "awayTeam": "Cerro Porteño",
             "time": "2025-03-05 22:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "Copa Betano do Brasil",
+            "competition": "CONMEBOL Libertadores, Qualification",
             "urls": [
-                "https://sportzonline.si/channels/bra/br1.php"
+                "https://sportzonline.si/channels/hd/hd5.php",
+                "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-caxias-vs-fluminense-live-stream",
-            "id": "live-caxias-vs-fluminense-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Five_Pointed_Star_Solid.svg/50px-Five_Pointed_Star_Solid.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FFC_crest.svg/180px-FFC_crest.svg.png"
+            "eventUrl": "https://livesports808.top/watch/live-melgar-vs-cerro-porte-o-live-stream",
+            "id": "live-melgar-vs-cerro-porte-o-live-stream",
+            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
         },
         {
             "homeTeam": "Racing",
@@ -511,6 +513,21 @@
             "id": "live-racing-vs-wanderers-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RacingUnion.png/165px-RacingUnion.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kit_left_arm_wanderers_FC.png"
+        },
+        {
+            "homeTeam": "Caxias",
+            "awayTeam": "Fluminense",
+            "time": "2025-03-05 22:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Copa Betano do Brasil",
+            "urls": [
+                "https://sportzonline.si/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-caxias-vs-fluminense-live-stream",
+            "id": "live-caxias-vs-fluminense-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Five_Pointed_Star_Solid.svg/50px-Five_Pointed_Star_Solid.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FFC_crest.svg/180px-FFC_crest.svg.png"
         },
         {
             "homeTeam": "Fortaleza",
@@ -539,23 +556,6 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-moto-club-ma-vs-sousa-live-stream",
             "id": "live-moto-club-ma-vs-sousa-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/KPereira2008.jpg/220px-KPereira2008.jpg",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
-        },
-        {
-            "homeTeam": "Melgar",
-            "awayTeam": "Cerro Porteño",
-            "time": "2025-03-05 22:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "CONMEBOL Libertadores, Qualification",
-            "urls": [
-                "https://sportzonline.si/channels/hd/hd5.php",
-                "https://sportzonline.si/channels/hd/hd9.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-melgar-vs-cerro-porte-o-live-stream",
-            "id": "live-melgar-vs-cerro-porte-o-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
             "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
         },
@@ -571,7 +571,7 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-atl-tico-mineiro-vs-manaus-live-stream",
             "id": "live-atl-tico-mineiro-vs-manaus-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Clube_Atl%C3%A9tico_Mineiro_crest.svg/170px-Clube_Atl%C3%A9tico_Mineiro_crest.svg.png",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Kit_left_arm_atleticomg25h.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Manaus_FC_logo.png/155px-Manaus_FC_logo.png"
         },
         {
@@ -590,19 +590,22 @@
             "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
         },
         {
-            "homeTeam": "Sport Recife",
-            "awayTeam": "CRB",
+            "homeTeam": "Barcelona",
+            "awayTeam": "Corinthians",
             "time": "2025-03-06 00:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "Copa do Nordeste, Group A",
+            "competition": "CONMEBOL Libertadores, Qualification",
             "urls": [
-                "https://sportzonline.si/channels/bra/br4.php"
+                "https://sportzonline.si/channels/hd/hd5.php",
+                "https://sportzonline.si/channels/hd/hd9.php",
+                "https://sportzonline.si/channels/pt/sporttv1.php",
+                "https://sportzonline.si/channels/bra/br2.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-sport-recife-vs-crb-live-stream",
-            "id": "live-sport-recife-vs-crb-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Joelinton_%28cropped%29.jpg/220px-Joelinton_%28cropped%29.jpg",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/4/48/Kit_left_arm_santos24h.png"
+            "eventUrl": "https://livesports808.top/watch/live-barcelona-vs-corinthians-live-stream",
+            "id": "live-barcelona-vs-corinthians-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/210px-FC_Barcelona_%28crest%29.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Corinthian_fc_logo.png/100px-Corinthian_fc_logo.png"
         },
         {
             "homeTeam": "Vitória",
@@ -620,22 +623,19 @@
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/FC_Sudtirol_crest.svg/180px-FC_Sudtirol_crest.svg.png"
         },
         {
-            "homeTeam": "Barcelona",
-            "awayTeam": "Corinthians",
+            "homeTeam": "Sport Recife",
+            "awayTeam": "CRB",
             "time": "2025-03-06 00:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "CONMEBOL Libertadores, Qualification",
+            "competition": "Copa do Nordeste, Group A",
             "urls": [
-                "https://sportzonline.si/channels/hd/hd5.php",
-                "https://sportzonline.si/channels/hd/hd9.php",
-                "https://sportzonline.si/channels/pt/sporttv1.php",
-                "https://sportzonline.si/channels/bra/br2.php"
+                "https://sportzonline.si/channels/bra/br4.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-barcelona-vs-corinthians-live-stream",
-            "id": "live-barcelona-vs-corinthians-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/210px-FC_Barcelona_%28crest%29.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Corinthian_fc_logo.png/100px-Corinthian_fc_logo.png"
+            "eventUrl": "https://livesports808.top/watch/live-sport-recife-vs-crb-live-stream",
+            "id": "live-sport-recife-vs-crb-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Joelinton_%28cropped%29.jpg/220px-Joelinton_%28cropped%29.jpg",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/4/48/Kit_left_arm_santos24h.png"
         },
         {
             "homeTeam": "Nova Iguaçu",
@@ -681,7 +681,7 @@
             "eventUrl": "https://livesports808.top/watch/live-mushuc-runa-vs-orense-live-stream",
             "id": "live-mushuc-runa-vs-orense-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Houston_Dynamo_FC_2021_wordmark_black.svg/220px-Houston_Dynamo_FC_2021_wordmark_black.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/UD_Orensana_logo.png/220px-UD_Orensana_logo.png"
         },
         {
             "homeTeam": "Seattle Sounders FC",
