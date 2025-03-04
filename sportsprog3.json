@@ -49,6 +49,24 @@
             "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1741062698/match_banners/live-medell-n-vs-deportivo-pasto-live-stream.png"
         },
         {
+            "homeTeam": "Malut Utd",
+            "awayTeam": "Arema",
+            "time": "2025-03-04 12:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Indonesia Liga 1",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd3.php",
+                "https://sportzonline.si/channels/hd/hd6.php",
+                "https://sportzonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://afr.livesports088.com/malut-united-vs-arema-fc",
+            "id": "live-salzburg-u19-vs-atl-tico-madrid-u19-live-stream2",
+            "homeTeamLogo": "http://zq.win007.com/Image/team/images/59747/1h9yf9yeq71c.png",
+            "awayTeamLogo": "http://zq.win007.com/Image/team/images/164941022544.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1741074160/match_banners/live-salzburg-u19-vs-atl-tico-madrid-u19-live-stream1.png"
+        },
+        {
             "homeTeam": "Thai Nguyen U19 (W)",
             "awayTeam": "Ha Noi (W) U19",
             "time": "2025-03-04 10:30:00",
