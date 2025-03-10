@@ -65,6 +65,40 @@
             "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1741235253/match_banners/live-atl-tico-nacional-vs-am-rica-de-cali-live-stream.png"
         },
         {
+            "homeTeam": "Dewa United",
+            "awayTeam": "Borneo",
+            "time": "2025-03-10 13:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Indonesia Liga 1",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd3.php",
+                "https://sportzonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-dewa-united-vs-borneo-live-stream",
+            "id": "live-dewa-united-vs-borneo-live-stream",
+            "homeTeamLogo": "https://img.sofascore.com/api/v1/team/383891/image",
+            "awayTeamLogo": "https://img.sofascore.com/api/v1/team/189945/image",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1741074160/match_banners/live-salzburg-u19-vs-atl-tico-madrid-u19-live-stream1.png"
+        },
+        {
+            "homeTeam": "Semen Padang",
+            "awayTeam": "Persib",
+            "time": "2025-03-10 14:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Indonesia Liga 1",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd6.php",
+                "https://sportzonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-semen-padang-vs-persib-live-stream",
+            "id": "live-semen-padang-vs-persib-live-stream",
+            "homeTeamLogo": "https://img.sofascore.com/api/v1/team/86066/image",
+            "awayTeamLogo": "https://img.sofascore.com/api/v1/team/64289/image",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1741074160/match_banners/live-salzburg-u19-vs-atl-tico-madrid-u19-live-stream1.png"
+        },
+        {
             "homeTeam": "Be\u015fikta\u015f",
             "awayTeam": "Gaziantep FK",
             "time": "2025-03-10 17:30:00",
