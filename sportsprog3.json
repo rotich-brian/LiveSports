@@ -168,7 +168,7 @@
             "id": "live-sheffield-united-vs-bristol-city-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Sheffield_United_FC_logo.svg/190px-Sheffield_United_FC_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Bristol_City_crest.svg/185px-Bristol_City_crest.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1741580339/match_banners/live-sheffield-united-vs-bristol-city-live-stream.png"
+            "eventBanner": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/stadium.jpg"
         },
         {
             "homeTeam": "Internazionale",
@@ -189,7 +189,7 @@
             "id": "live-internazionale-vs-feyenoord-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/200px-FC_Internazionale_Milano_2021.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/190px-Feyenoord_logo_since_2024.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1741580338/match_banners/live-internazionale-vs-feyenoord-live-stream.png"
+            "eventBanner": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/stadium.jpg"
         },
         {
             "homeTeam": "Bayer Leverkusen",
@@ -238,7 +238,7 @@
             "time": "2025-03-11 20:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "AFC Champions League Elite",
             "urls": [
                 "https://sportzonline.ps/channels/bra/br6.php"
             ],
@@ -246,7 +246,7 @@
             "id": "live-al-hilal-vs-pakhtakor-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Al-Hilal_SFC_logo.svg/125px-Al-Hilal_SFC_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Kit_left_arm_adidascampeon23n.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1741580340/match_banners/live-al-hilal-vs-pakhtakor-live-stream.png"
+            "eventBanner": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/stadium.jpg"
         },
         {
             "homeTeam": "Alianza Lima",
@@ -265,7 +265,7 @@
             "id": "live-alianza-lima-vs-deportes-iquique-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Escudo_Alianza_Lima.svg/140px-Escudo_Alianza_Lima.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Deportes_Iquique.png/195px-Deportes_Iquique.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1741580341/match_banners/live-alianza-lima-vs-deportes-iquique-live-stream.png"
+            "eventBanner": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/stadium.jpg"
         },
         {
             "homeTeam": "CEOV Oper\u00e1rio",
