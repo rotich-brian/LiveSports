@@ -149,6 +149,40 @@
             "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1741580349/match_banners/live-melbourne-city-vs-newcastle-jets-live-stream.png"
         },
         {
+            "homeTeam": "Malut United",
+            "awayTeam": "Persita",
+            "time": "2025-03-12 12:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Indonesia Liga 1",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd3.php",
+                "https://sportzonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-malut-united-vs-persita-live-stream",
+            "id": "live-malut-united-vs-persita-live-stream",
+            "homeTeamLogo": "https://img.sofascore.com/api/v1/team/491968/image",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/KS6m2kDLyw-alBwraSvPZA_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1741074160/match_banners/live-salzburg-u19-vs-atl-tico-madrid-u19-live-stream1.png"
+        },
+        {
+            "homeTeam": "Persebaya",
+            "awayTeam": "PSIS Semarang",
+            "time": "2025-03-12 13:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Indonesia Liga 1",
+            "urls": [
+                "https://sportzonline.si/channels/hd/hd6.php",
+                "https://sportzonline.si/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-persebaya-vs-psis-semarang-live-stream",
+            "id": "live-persebaya-vs-psis-semarang-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/sknmRTJdv0tHxLHy-H1L8Q_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/4WCvjYPKO3bItyA2lr35sQ_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1741074160/match_banners/live-salzburg-u19-vs-atl-tico-madrid-u19-live-stream1.png"
+        },
+        {
             "homeTeam": "Lille",
             "awayTeam": "Borussia Dortmund",
             "time": "2025-03-12 17:45:00",
