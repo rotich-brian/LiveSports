@@ -251,14 +251,15 @@
             "time": "2025-03-20 09:10:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd11.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-australia-vs-indonesia-live-stream",
             "id": "live-australia-vs-indonesia-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357930/match_banners/live-australia-vs-indonesia-live-stream.png"
         },
         {
             "homeTeam": "Japan",
@@ -266,7 +267,7 @@
             "time": "2025-03-20 10:35:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd10.php",
                 "https://sportzonline.ps/channels/bra/br6.php"
@@ -274,7 +275,8 @@
             "eventUrl": "https://livesports808.top/watch/live-japan-vs-bahrain-live-stream",
             "id": "live-japan-vs-bahrain-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Meiji_Yasuda_J1_League_logo.svg/220px-Meiji_Yasuda_J1_League_logo.svg.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357931/match_banners/live-japan-vs-bahrain-live-stream.png"
         },
         {
             "homeTeam": "Mozambique",
@@ -282,7 +284,7 @@
             "time": "2025-03-20 13:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "World Cup Qualification, CAF, Group G",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd11.php",
                 "https://sportzonline.ps/channels/pt/sporttv1.php"
@@ -290,7 +292,8 @@
             "eventUrl": "https://livesports808.top/watch/live-mozambique-vs-uganda-live-stream",
             "id": "live-mozambique-vs-uganda-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357931/match_banners/live-mozambique-vs-uganda-live-stream.png"
         },
         {
             "homeTeam": "Cape Verde Islands",
@@ -298,14 +301,15 @@
             "time": "2025-03-20 16:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "FIFA World Cup, Qualification CAF, Group D",
             "urls": [
                 "https://sportzonline.ps/channels/pt/sporttv1.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-cape-verde-islands-vs-mauritius-live-stream",
             "id": "live-cape-verde-islands-vs-mauritius-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bela-vista-net-Sal-map.jpg/260px-Bela-vista-net-Sal-map.jpg",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/175px-Flag_of_Mauritius.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/175px-Flag_of_Mauritius.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357933/match_banners/live-cape-verde-islands-vs-mauritius-live-stream.png"
         },
         {
             "homeTeam": "Sierra Leone",
@@ -313,14 +317,15 @@
             "time": "2025-03-20 16:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "FIFA World Cup, Qualification CAF, Group A",
             "urls": [
                 "https://sportzonline.ps/channels/pt/sporttv4.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-sierra-leone-vs-guinea-bissau-live-stream",
             "id": "live-sierra-leone-vs-guinea-bissau-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Guinea-Bissau_FF_%28logo%29.png/250px-Guinea-Bissau_FF_%28logo%29.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Guinea-Bissau_FF_%28logo%29.png/250px-Guinea-Bissau_FF_%28logo%29.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357934/match_banners/live-sierra-leone-vs-guinea-bissau-live-stream.png"
         },
         {
             "homeTeam": "Iran",
@@ -328,14 +333,15 @@
             "time": "2025-03-20 16:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "World Cup Qualification, AFC, Round 3, Group A",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd11.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-iran-vs-united-arab-emirates-live-stream",
             "id": "live-iran-vs-united-arab-emirates-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Camelia_Fallah_Iranian_football_player_%28Women%27s_football_player%29_2.jpg/200px-Camelia_Fallah_Iranian_football_player_%28Women%27s_football_player%29_2.jpg",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/United_Arab_Emirates_location_map.svg/500px-United_Arab_Emirates_location_map.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/United_Arab_Emirates_location_map.svg/500px-United_Arab_Emirates_location_map.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357935/match_banners/live-iran-vs-united-arab-emirates-live-stream.png"
         },
         {
             "homeTeam": "Uzbekistan",
@@ -343,14 +349,15 @@
             "time": "2025-03-20 16:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "World Cup Qualification, AFC, Round 3, Group A",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd8.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-uzbekistan-vs-kyrgyzstan-live-stream",
             "id": "live-uzbekistan-vs-kyrgyzstan-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357936/match_banners/live-uzbekistan-vs-kyrgyzstan-live-stream.png"
         },
         {
             "homeTeam": "Armenia",
@@ -358,7 +365,7 @@
             "time": "2025-03-20 17:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd2.php",
                 "https://sportzonline.ps/channels/pt/sporttv5.php",
@@ -367,7 +374,8 @@
             "eventUrl": "https://livesports808.top/watch/live-armenia-vs-georgia-live-stream",
             "id": "live-armenia-vs-georgia-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357937/match_banners/live-armenia-vs-georgia-live-stream.png"
         },
         {
             "homeTeam": "Turkey",
@@ -384,7 +392,8 @@
             "eventUrl": "https://livesports808.top/watch/live-turkey-vs-hungary-live-stream",
             "id": "live-turkey-vs-hungary-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Roundel_flag_of_Turkey.svg/180px-Roundel_flag_of_Turkey.svg.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357938/match_banners/live-turkey-vs-hungary-live-stream.png"
         },
         {
             "homeTeam": "Jordan",
@@ -392,14 +401,15 @@
             "time": "2025-03-20 18:15:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "World Cup Qualification, AFC, Round 3, Group B",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd8.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-jordan-vs-palestine-live-stream",
             "id": "live-jordan-vs-palestine-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357939/match_banners/live-jordan-vs-palestine-live-stream.png"
         },
         {
             "homeTeam": "Saudi Arabia",
@@ -407,14 +417,15 @@
             "time": "2025-03-20 18:15:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "World Cup Qualification, AFC, Round 3, Gr. C",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd11.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-saudi-arabia-vs-china-live-stream",
             "id": "live-saudi-arabia-vs-china-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/7/78/Majed_Abdullah_in_Asia_Cup_1984.jpg",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Scaa_badge.png/180px-Scaa_badge.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Scaa_badge.png/180px-Scaa_badge.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357941/match_banners/live-saudi-arabia-vs-china-live-stream.png"
         },
         {
             "homeTeam": "Italy",
@@ -422,7 +433,7 @@
             "time": "2025-03-20 19:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Nations League, Finals",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd3.php",
                 "https://sportzonline.ps/channels/hd/hd7.php",
@@ -432,7 +443,8 @@
             "eventUrl": "https://livesports808.top/watch/live-italy-vs-germany-live-stream",
             "id": "live-italy-vs-germany-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Logo_Italy_National_Football_Team_-_2023.svg/135px-Logo_Italy_National_Football_Team_-_2023.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/DFBEagle.svg/195px-DFBEagle.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/DFBEagle.svg/195px-DFBEagle.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357942/match_banners/live-italy-vs-germany-live-stream.png"
         },
         {
             "homeTeam": "Croatia",
@@ -440,7 +452,7 @@
             "time": "2025-03-20 19:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Nations League, Finals",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd2.php",
                 "https://sportzonline.ps/channels/hd/hd4.php",
@@ -450,7 +462,8 @@
             "eventUrl": "https://livesports808.top/watch/live-croatia-vs-france-live-stream",
             "id": "live-croatia-vs-france-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Coat_of_arms_of_Croatia.svg/150px-Coat_of_arms_of_Croatia.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/France_national_football_team_seal.svg/150px-France_national_football_team_seal.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/France_national_football_team_seal.svg/150px-France_national_football_team_seal.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357943/match_banners/live-croatia-vs-france-live-stream.png"
         },
         {
             "homeTeam": "Greece",
@@ -458,7 +471,7 @@
             "time": "2025-03-20 19:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd10.php",
                 "https://sportzonline.ps/channels/pt/sporttv5.php"
@@ -466,7 +479,8 @@
             "eventUrl": "https://livesports808.top/watch/live-greece-vs-scotland-live-stream",
             "id": "live-greece-vs-scotland-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Greece_National_Football_Team.svg/120px-Greece_National_Football_Team.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Scotland_national_football_team_logo_2014.svg/200px-Scotland_national_football_team_logo_2014.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Scotland_national_football_team_logo_2014.svg/200px-Scotland_national_football_team_logo_2014.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357945/match_banners/live-greece-vs-scotland-live-stream.png"
         },
         {
             "homeTeam": "Netherlands",
@@ -474,7 +488,7 @@
             "time": "2025-03-20 19:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Nations League, Finals",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd6.php",
                 "https://sportzonline.ps/channels/bra/br3.php"
@@ -482,7 +496,8 @@
             "eventUrl": "https://livesports808.top/watch/live-netherlands-vs-spain-live-stream",
             "id": "live-netherlands-vs-spain-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Netherlands_national_football_team_logo.svg/250px-Netherlands_national_football_team_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Spain_national_football_team_crest.svg/145px-Spain_national_football_team_crest.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Spain_national_football_team_crest.svg/145px-Spain_national_football_team_crest.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357946/match_banners/live-netherlands-vs-spain-live-stream.png"
         },
         {
             "homeTeam": "Denmark",
@@ -490,7 +505,7 @@
             "time": "2025-03-20 19:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Nations League, Finals",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd5.php",
                 "https://sportzonline.ps/channels/pt/sporttv1.php",
@@ -499,7 +514,8 @@
             "eventUrl": "https://livesports808.top/watch/live-denmark-vs-portugal-live-stream",
             "id": "live-denmark-vs-portugal-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Dansk_boldspil_union_logo.svg/182px-Dansk_boldspil_union_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/SCToronto.PNG/180px-SCToronto.PNG"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/SCToronto.PNG/180px-SCToronto.PNG",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357947/match_banners/live-denmark-vs-portugal-live-stream.png"
         },
         {
             "homeTeam": "Ukraine",
@@ -507,7 +523,7 @@
             "time": "2025-03-20 19:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd8.php",
                 "https://sportzonline.ps/channels/bra/br5.php"
@@ -515,7 +531,8 @@
             "eventUrl": "https://livesports808.top/watch/live-ukraine-vs-belgium-live-stream",
             "id": "live-ukraine-vs-belgium-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_F%C3%A9d%C3%A9ration_Ukraine_Football_2016.svg/145px-Logo_F%C3%A9d%C3%A9ration_Ukraine_Football_2016.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Royal_Belgian_FA_logo_2019.svg/135px-Royal_Belgian_FA_logo_2019.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Royal_Belgian_FA_logo_2019.svg/135px-Royal_Belgian_FA_logo_2019.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357949/match_banners/live-ukraine-vs-belgium-live-stream.png"
         },
         {
             "homeTeam": "Austria",
@@ -523,7 +540,7 @@
             "time": "2025-03-20 19:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Nations League, Promotion/Relegation Play-offs",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd9.php",
                 "https://sportzonline.ps/channels/bra/br6.php"
@@ -531,7 +548,8 @@
             "eventUrl": "https://livesports808.top/watch/live-austria-vs-serbia-live-stream",
             "id": "live-austria-vs-serbia-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/FK_Austria_Wien_logo.svg/190px-FK_Austria_Wien_logo.svg.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357950/match_banners/live-austria-vs-serbia-live-stream.png"
         },
         {
             "homeTeam": "Altos",
@@ -539,14 +557,15 @@
             "time": "2025-03-20 22:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Copa do Nordeste, Group A",
             "urls": [
                 "https://sportzonline.ps/channels/bra/br4.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-altos-vs-moto-club-ma-live-stream",
             "id": "live-altos-vs-moto-club-ma-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/AA_Altos_logo.png/170px-AA_Altos_logo.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357951/match_banners/live-altos-vs-moto-club-ma-live-stream.png"
         },
         {
             "homeTeam": "USA",
@@ -554,7 +573,7 @@
             "time": "2025-03-20 23:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "CONCACAF Nations League, Finals",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd5.php",
                 "https://sportzonline.ps/channels/hd/hd10.php"
@@ -562,7 +581,8 @@
             "eventUrl": "https://livesports808.top/watch/live-usa-vs-panama-live-stream",
             "id": "live-usa-vs-panama-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/United_States_Soccer_Federation_logo_2016.svg/150px-United_States_Soccer_Federation_logo_2016.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alianza_FC.jpg/160px-Alianza_FC.jpg"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Alianza_FC.jpg/160px-Alianza_FC.jpg",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357952/match_banners/live-usa-vs-panama-live-stream.png"
         },
         {
             "homeTeam": "Paraguay",
@@ -570,7 +590,7 @@
             "time": "2025-03-20 23:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "World Cup Qualification, CONMEBOL",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd9.php",
                 "https://sportzonline.ps/channels/bra/br3.php"
@@ -578,7 +598,8 @@
             "eventUrl": "https://livesports808.top/watch/live-paraguay-vs-chile-live-stream",
             "id": "live-paraguay-vs-chile-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile_logo.svg/185px-Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile_logo.svg/185px-Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357954/match_banners/live-paraguay-vs-chile-live-stream.png"
         },
         {
             "homeTeam": "Brazil",
@@ -586,7 +607,7 @@
             "time": "2025-03-21 00:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "World Cup Qualification, CONMEBOL",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd1.php",
                 "https://sportzonline.ps/channels/hd/hd6.php",
@@ -597,7 +618,8 @@
             "eventUrl": "https://livesports808.top/watch/live-brazil-vs-colombia-live-stream",
             "id": "live-brazil-vs-colombia-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/170px-Brazilian_Football_Confederation_logo.svg.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357955/match_banners/live-brazil-vs-colombia-live-stream.png"
         },
         {
             "homeTeam": "Peru",
@@ -605,14 +627,15 @@
             "time": "2025-03-21 01:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "World Cup Qualification, CONMEBOL",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd9.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-peru-vs-bolivia-live-stream",
             "id": "live-peru-vs-bolivia-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357956/match_banners/live-peru-vs-bolivia-live-stream.png"
         },
         {
             "homeTeam": "Canada",
@@ -620,7 +643,7 @@
             "time": "2025-03-21 02:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "CONCACAF Nations League, Finals",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd5.php",
                 "https://sportzonline.ps/channels/hd/hd10.php"
@@ -628,7 +651,8 @@
             "eventUrl": "https://livesports808.top/watch/live-canada-vs-mexico-live-stream",
             "id": "live-canada-vs-mexico-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/JoffreyReynolds.jpg/220px-JoffreyReynolds.jpg",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Mexico_national_football_team_crest.svg/160px-Mexico_national_football_team_crest.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Mexico_national_football_team_crest.svg/160px-Mexico_national_football_team_crest.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357957/match_banners/live-canada-vs-mexico-live-stream.png"
         },
         {
             "homeTeam": "Guadalajara",
@@ -643,7 +667,8 @@
             "eventUrl": "https://livesports808.top/watch/live-guadalajara-vs-atlas-live-stream",
             "id": "live-guadalajara-vs-atlas-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Guadalajara_CD.svg/185px-Guadalajara_CD.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/F%C3%BAtbol_Club_Atlas.svg/180px-F%C3%BAtbol_Club_Atlas.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/F%C3%BAtbol_Club_Atlas.svg/180px-F%C3%BAtbol_Club_Atlas.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742357958/match_banners/live-guadalajara-vs-atlas-live-stream.png"
         }
     ]
 }
