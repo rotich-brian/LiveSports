@@ -1,323 +1,6 @@
 {
     "today": [
         {
-            "homeTeam": "Guadalajara",
-            "awayTeam": "Tijuana",
-            "time": "2025-03-23 23:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd10.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-guadalajara-vs-tijuana-live-stream",
-            "id": "live-guadalajara-vs-tijuana-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/9le8bJW_PjNZYbuV3CO2Pg_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/LH2XadWT8Nk19o6SnbL4JA_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742716078/match_banners/live-guadalajara-vs-tijuana-live-stream.png"
-        },
-        {
-            "homeTeam": "Ronaldo",
-            "awayTeam": "Rom\u00e1rio",
-            "time": "2025-03-23 23:15:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.ps/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-ronaldo-vs-rom-rio-live-stream",
-            "id": "live-ronaldo-vs-rom-rio-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg/250px-Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Senadores_da_57%C2%AA_Legislatura_%2852689451805%29.jpg/220px-Senadores_da_57%C2%AA_Legislatura_%2852689451805%29.jpg",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742617125/match_banners/live-ronaldo-vs-rom-rio-live-stream.png"
-        },
-        {
-            "homeTeam": "Rionegro \u00c1guilas",
-            "awayTeam": "Envigado",
-            "time": "2025-03-24 01:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Colombia: Primera A, Apertura",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd9.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-rionegro-guilas-vs-envigado-live-stream",
-            "id": "live-rionegro-guilas-vs-envigado-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/LogoAguilasPereira.png/170px-LogoAguilasPereira.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Envigado_FC_logo_2018.png/200px-Envigado_FC_logo_2018.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742617126/match_banners/live-rionegro-guilas-vs-envigado-live-stream.png"
-        },
-        {
-            "homeTeam": "Mexico",
-            "awayTeam": "Panama",
-            "time": "2025-03-24 01:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "CONCACAF Nations League, Finals",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd5.php",
-                "https://sportzonline.ps/channels/hd/hd11.php",
-                "https://sportzonline.ps/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-mexico-vs-panama-live-stream",
-            "id": "live-mexico-vs-panama-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/yJF9xqmUGenD8108FJbg9A_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/JIn8OwxL6KFFiYrKGnL2RQ_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742716079/match_banners/live-mexico-vs-panama-live-stream.png"
-        },
-        {
-            "homeTeam": "Namibia",
-            "awayTeam": "Equatorial Guinea",
-            "time": "2025-03-24 13:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA World Cup, Qualification CAF, Group H",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd10.php",
-                "https://sportzonline.ps/channels/pt/sporttv2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-namibia-vs-equatorial-guinea-live-stream",
-            "id": "live-namibia-vs-equatorial-guinea-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/8zTp1yeTn2hlV2y0TYHS9A_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/MgTgO44PlRIyAdPRGCPG0Q_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742795957/match_banners/live-namibia-vs-equatorial-guinea-live-stream.png"
-        },
-        {
-            "homeTeam": "Liberia",
-            "awayTeam": "Sao Tome e Principe",
-            "time": "2025-03-24 16:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA World Cup, Qualification CAF, Group H",
-            "urls": [
-                "https://sportzonline.ps/channels/pt/sporttv4.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-liberia-vs-sao-tome-e-principe-live-stream",
-            "id": "live-liberia-vs-sao-tome-e-principe-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/sMBBJKJDr5Y1bISmHc9vlA_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/jOfOsT0oKKvKkXl3i1i8Mw_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742795958/match_banners/live-liberia-vs-sao-tome-e-principe-live-stream.png"
-        },
-        {
-            "homeTeam": "Central African Republic",
-            "awayTeam": "Mali",
-            "time": "2025-03-24 16:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA World Cup, Qualification CAF, Group I",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd9.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-central-african-republic-vs-mali-live-stream",
-            "id": "live-central-african-republic-vs-mali-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/rSQSuoU3QdE8EiA_boJiLQ_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/zZzKmdy0FsJ159f9r0vxrA_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742795959/match_banners/live-central-african-republic-vs-mali-live-stream.png"
-        },
-        {
-            "homeTeam": "Guinea-Bissau",
-            "awayTeam": "Burkina Faso",
-            "time": "2025-03-24 16:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA World Cup, Qualification CAF, Group A",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd11.php",
-                "https://sportzonline.ps/channels/pt/sporttv2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-guinea-bissau-vs-burkina-faso-live-stream",
-            "id": "live-guinea-bissau-vs-burkina-faso-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/GjE1SPXaQKP_eLU8sNanPQ_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/ZH7SDm7MIMjzcxLI4F3Tyg_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742795960/match_banners/live-guinea-bissau-vs-burkina-faso-live-stream.png"
-        },
-        {
-            "homeTeam": "Lithuania",
-            "awayTeam": "Finland",
-            "time": "2025-03-24 17:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "England: World Championship Qual. UEFA G",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd1.php",
-                "https://sportzonline.ps/channels/pt/sporttv1.php",
-                "https://sportzonline.ps/channels/bra/br3.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-lithuania-vs-finland-live-stream",
-            "id": "live-lithuania-vs-finland-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/pRhIGqSbK7SyiMvm8xAqqQ_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/OR16mUDJv-0yTyh-jxlaKQ_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742795961/match_banners/live-lithuania-vs-finland-live-stream.png"
-        },
-        {
-            "homeTeam": "Italy U21",
-            "awayTeam": "Denmark U21",
-            "time": "2025-03-24 17:15:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "U21 Friendly Games",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd7.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-italy-u21-vs-denmark-u21-live-stream",
-            "id": "live-italy-u21-vs-denmark-u21-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/joYpsiaYi4GDCqhSRAq5Zg_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/LaOvu-pyRqRso6uzff55XA_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742795962/match_banners/live-italy-u21-vs-denmark-u21-live-stream.png"
-        },
-        {
-            "homeTeam": "C\u00f4te d'Ivoire",
-            "awayTeam": "Gambia",
-            "time": "2025-03-24 19:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA World Cup, Qualification CAF, Group F",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd11.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-c-te-d-ivoire-vs-gambia-live-stream",
-            "id": "live-c-te-d-ivoire-vs-gambia-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/WzV0s6me4JPkCNeSsTyptQ_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/KTjSMZl5H_qNuY1go0-mGw_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742795963/match_banners/live-c-te-d-ivoire-vs-gambia-live-stream.png"
-        },
-        {
-            "homeTeam": "Madagascar",
-            "awayTeam": "Ghana",
-            "time": "2025-03-24 19:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA World Cup, Qualification CAF, Group I",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd10.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-madagascar-vs-ghana-live-stream",
-            "id": "live-madagascar-vs-ghana-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/5Cah_q9WSSXkrEUQVXpfkQ_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/VJQ1emg0TOubjGnap4vWuw_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742795965/match_banners/live-madagascar-vs-ghana-live-stream.png"
-        },
-        {
-            "homeTeam": "Benevento",
-            "awayTeam": "Picerno",
-            "time": "2025-03-24 19:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Serie C, Girone C",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd8.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-benevento-vs-picerno-live-stream",
-            "id": "live-benevento-vs-picerno-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/LyjvhG7wXe-iVAepsbjIVg_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/xIQosgcgijAm5Np9des0Fw_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742795965/match_banners/live-benevento-vs-picerno-live-stream.png"
-        },
-        {
-            "homeTeam": "Real Zaragoza",
-            "awayTeam": "C\u00f3rdoba",
-            "time": "2025-03-24 19:30:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Spain: LaLiga 2",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd6.php",
-                "https://sportzonline.ps/channels/pt/eleven1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-real-zaragoza-vs-c-rdoba-live-stream",
-            "id": "live-real-zaragoza-vs-c-rdoba-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/MgqEJPNiWx1geam4PyC52g_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/r5lM2rHP0brNeZgomsA2KA_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742795967/match_banners/live-real-zaragoza-vs-c-rdoba-live-stream.png"
-        },
-        {
-            "homeTeam": "Albania",
-            "awayTeam": "Andorra",
-            "time": "2025-03-24 19:45:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "England: World Championship Qual. UEFA K",
-            "urls": [
-                "https://sportzonline.ps/channels/pt/sporttv4.php",
-                "https://sportzonline.ps/channels/bra/br6.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-albania-vs-andorra-live-stream",
-            "id": "live-albania-vs-andorra-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/r-Ec2eED0ce4OO-s8_uI6w_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/N7eQzihWrRxT4K7ofHt_BA_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742795968/match_banners/live-albania-vs-andorra-live-stream.png"
-        },
-        {
-            "homeTeam": "Bosnia and Herzegovina",
-            "awayTeam": "Cyprus",
-            "time": "2025-03-24 19:45:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd5.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-bosnia-and-herzegovina-vs-cyprus-live-stream",
-            "id": "live-bosnia-and-herzegovina-vs-cyprus-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/em3xOvyKQEgz1IIYI8GO9w_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/e0axhViqJ648o7G5wJr8ug_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742795969/match_banners/live-bosnia-and-herzegovina-vs-cyprus-live-stream.png"
-        },
-        {
-            "homeTeam": "San Marino",
-            "awayTeam": "Romania",
-            "time": "2025-03-24 19:45:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "England: World Championship Qual. UEFA H",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd9.php",
-                "https://sportzonline.ps/channels/bra/br4.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-san-marino-vs-romania-live-stream",
-            "id": "live-san-marino-vs-romania-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/lvpnX8YUQiMuVH7jKrtIaQ_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/QneSJOdYzN7b6Z_cbKQAEw_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742795970/match_banners/live-san-marino-vs-romania-live-stream.png"
-        },
-        {
-            "homeTeam": "Poland",
-            "awayTeam": "Malta",
-            "time": "2025-03-24 19:45:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "England: World Championship Qual. UEFA G",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd2.php",
-                "https://sportzonline.ps/channels/pt/sporttv2.php",
-                "https://sportzonline.ps/channels/bra/br2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-poland-vs-malta-live-stream",
-            "id": "live-poland-vs-malta-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/yTS_Piy3M1wUBnqU0n5aAw_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/CBxrCxiBkSddrBEWZWQNzw_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742795971/match_banners/live-poland-vs-malta-live-stream.png"
-        },
-        {
-            "homeTeam": "England",
-            "awayTeam": "Latvia",
-            "time": "2025-03-24 19:45:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "England: World Championship Qual. UEFA K",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd1.php",
-                "https://sportzonline.ps/channels/pt/sporttv1.php",
-                "https://sportzonline.ps/channels/bra/br1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-england-vs-latvia-live-stream",
-            "id": "live-england-vs-latvia-live-stream",
-            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
-            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/haAD1SXbO8U5DrW0FjJCPw_96x96.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742795972/match_banners/live-england-vs-latvia-live-stream.png"
-        },
-        {
             "homeTeam": "Tunisia",
             "awayTeam": "Malawi",
             "time": "2025-03-24 21:00:00",
@@ -514,21 +197,20 @@
             "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790186/match_banners/live-nigeria-vs-zimbabwe-live-stream.png"
         },
         {
-            "homeTeam": "Iran",
-            "awayTeam": "Uzbekistan",
+            "homeTeam": "Angola",
+            "awayTeam": "Cape Verde Islands",
             "time": "2025-03-25 16:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "World Cup Qualification, AFC, Round 3, Group A",
+            "competition": "FIFA World Cup, Qualification CAF, Group D",
             "urls": [
-                "https://sportzonline.ps/channels/hd/hd11.php",
-                "https://sportzonline.ps/channels/bra/br2.php"
+                "https://sportzonline.ps/channels/pt/sporttv1.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-iran-vs-uzbekistan-live-stream",
-            "id": "live-iran-vs-uzbekistan-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Camelia_Fallah_Iranian_football_player_%28Women%27s_football_player%29_2.jpg/200px-Camelia_Fallah_Iranian_football_player_%28Women%27s_football_player%29_2.jpg",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Uzbekistan_Football_Association.svg/170px-Uzbekistan_Football_Association.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790184/match_banners/live-iran-vs-uzbekistan-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-angola-vs-cape-verde-islands-live-stream",
+            "id": "live-angola-vs-cape-verde-islands-live-stream",
+            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bela-vista-net-Sal-map.jpg/260px-Bela-vista-net-Sal-map.jpg",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790185/match_banners/live-angola-vs-cape-verde-islands-live-stream.png"
         },
         {
             "homeTeam": "Benin",
@@ -547,6 +229,23 @@
             "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742795984/match_banners/live-benin-vs-south-africa-live-stream.png"
         },
         {
+            "homeTeam": "Iran",
+            "awayTeam": "Uzbekistan",
+            "time": "2025-03-25 16:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "World Cup Qualification, AFC, Round 3, Group A",
+            "urls": [
+                "https://sportzonline.ps/channels/hd/hd11.php",
+                "https://sportzonline.ps/channels/bra/br2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-iran-vs-uzbekistan-live-stream",
+            "id": "live-iran-vs-uzbekistan-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Camelia_Fallah_Iranian_football_player_%28Women%27s_football_player%29_2.jpg/200px-Camelia_Fallah_Iranian_football_player_%28Women%27s_football_player%29_2.jpg",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Uzbekistan_Football_Association.svg/170px-Uzbekistan_Football_Association.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790184/match_banners/live-iran-vs-uzbekistan-live-stream.png"
+        },
+        {
             "homeTeam": "Uganda",
             "awayTeam": "Guinea",
             "time": "2025-03-25 16:00:00",
@@ -561,22 +260,6 @@
             "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/5Mzu0-epbyisvZccwByCtg_96x96.png",
             "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/z3H7hLp9efXa_dzWHdjKcg_96x96.png",
             "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742795985/match_banners/live-uganda-vs-guinea-live-stream.png"
-        },
-        {
-            "homeTeam": "Angola",
-            "awayTeam": "Cape Verde Islands",
-            "time": "2025-03-25 16:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "FIFA World Cup, Qualification CAF, Group D",
-            "urls": [
-                "https://sportzonline.ps/channels/pt/sporttv1.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-angola-vs-cape-verde-islands-live-stream",
-            "id": "live-angola-vs-cape-verde-islands-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Bela-vista-net-Sal-map.jpg/260px-Bela-vista-net-Sal-map.jpg",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790185/match_banners/live-angola-vs-cape-verde-islands-live-stream.png"
         },
         {
             "homeTeam": "Moldova",
@@ -597,22 +280,6 @@
             "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790186/match_banners/live-moldova-vs-estonia-live-stream.png"
         },
         {
-            "homeTeam": "Sweden",
-            "awayTeam": "Northern Ireland",
-            "time": "2025-03-25 18:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "Int. Friendly Games",
-            "urls": [
-                "https://sportzonline.ps/channels/bra/br3.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-sweden-vs-northern-ireland-live-stream",
-            "id": "live-sweden-vs-northern-ireland-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Sweden_national_football_team_badge.svg/145px-Sweden_national_football_team_badge.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Irish_Football_Association_logo.svg/210px-Irish_Football_Association_logo.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790188/match_banners/live-sweden-vs-northern-ireland-live-stream.png"
-        },
-        {
             "homeTeam": "Syria",
             "awayTeam": "Pakistan",
             "time": "2025-03-25 18:00:00",
@@ -627,6 +294,22 @@
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
             "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
             "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790187/match_banners/live-syria-vs-pakistan-live-stream.png"
+        },
+        {
+            "homeTeam": "Sweden",
+            "awayTeam": "Northern Ireland",
+            "time": "2025-03-25 18:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Int. Friendly Games",
+            "urls": [
+                "https://sportzonline.ps/channels/bra/br3.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-sweden-vs-northern-ireland-live-stream",
+            "id": "live-sweden-vs-northern-ireland-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Sweden_national_football_team_badge.svg/145px-Sweden_national_football_team_badge.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Irish_Football_Association_logo.svg/210px-Irish_Football_Association_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790188/match_banners/live-sweden-vs-northern-ireland-live-stream.png"
         },
         {
             "homeTeam": "Korea DPR",
@@ -645,22 +328,6 @@
             "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790190/match_banners/live-korea-dpr-vs-united-arab-emirates-live-stream.png"
         },
         {
-            "homeTeam": "Palestine",
-            "awayTeam": "Iraq",
-            "time": "2025-03-25 18:15:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "World Cup Qualification, AFC, Round 3, Group B",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd9.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-palestine-vs-iraq-live-stream",
-            "id": "live-palestine-vs-iraq-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Iraq_Football_Association_crest.svg/220px-Iraq_Football_Association_crest.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790189/match_banners/live-palestine-vs-iraq-live-stream.png"
-        },
-        {
             "homeTeam": "Kuwait",
             "awayTeam": "Oman",
             "time": "2025-03-25 18:15:00",
@@ -677,6 +344,22 @@
             "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790189/match_banners/live-kuwait-vs-oman-live-stream.png"
         },
         {
+            "homeTeam": "Palestine",
+            "awayTeam": "Iraq",
+            "time": "2025-03-25 18:15:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "World Cup Qualification, AFC, Round 3, Group B",
+            "urls": [
+                "https://sportzonline.ps/channels/hd/hd9.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-palestine-vs-iraq-live-stream",
+            "id": "live-palestine-vs-iraq-live-stream",
+            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Iraq_Football_Association_crest.svg/220px-Iraq_Football_Association_crest.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790189/match_banners/live-palestine-vs-iraq-live-stream.png"
+        },
+        {
             "homeTeam": "Egypt",
             "awayTeam": "Sierra Leone",
             "time": "2025-03-25 19:00:00",
@@ -691,22 +374,6 @@
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
             "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
             "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790190/match_banners/live-egypt-vs-sierra-leone-live-stream.png"
-        },
-        {
-            "homeTeam": "Montenegro",
-            "awayTeam": "Faroe Islands",
-            "time": "2025-03-25 19:45:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "England: World Championship Qual. UEFA L",
-            "urls": [
-                "https://sportzonline.ps/channels/pt/sporttv5.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-montenegro-vs-faroe-islands-live-stream",
-            "id": "live-montenegro-vs-faroe-islands-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790193/match_banners/live-montenegro-vs-faroe-islands-live-stream.png"
         },
         {
             "homeTeam": "North Macedonia",
@@ -760,6 +427,22 @@
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
             "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
             "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790191/match_banners/live-israel-vs-norway-live-stream.png"
+        },
+        {
+            "homeTeam": "Montenegro",
+            "awayTeam": "Faroe Islands",
+            "time": "2025-03-25 19:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "England: World Championship Qual. UEFA L",
+            "urls": [
+                "https://sportzonline.ps/channels/pt/sporttv5.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-montenegro-vs-faroe-islands-live-stream",
+            "id": "live-montenegro-vs-faroe-islands-live-stream",
+            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790193/match_banners/live-montenegro-vs-faroe-islands-live-stream.png"
         },
         {
             "homeTeam": "Bolivia",
@@ -829,6 +512,39 @@
             "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790196/match_banners/live-trinidad-and-tobago-vs-cuba-live-stream.png"
         },
         {
+            "homeTeam": "Jamaica",
+            "awayTeam": "Saint Vincent and the Grenadines",
+            "time": "2025-03-26 00:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "CONCACAF Gold Cup, Preliminary Round",
+            "urls": [
+                "https://sportzonline.ps/channels/hd/hd2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-jamaica-vs-saint-vincent-and-the-grenadines-live-stream",
+            "id": "live-jamaica-vs-saint-vincent-and-the-grenadines-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jamaica_FA.svg/250px-Jamaica_FA.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/31px-Kit_left_arm.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790199/match_banners/live-jamaica-vs-saint-vincent-and-the-grenadines-live-stream.png"
+        },
+        {
+            "homeTeam": "Chile",
+            "awayTeam": "Ecuador",
+            "time": "2025-03-26 00:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "World Cup Qualification, CONMEBOL",
+            "urls": [
+                "https://sportzonline.ps/channels/hd/hd7.php",
+                "https://sportzonline.ps/channels/bra/br4.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-chile-vs-ecuador-live-stream",
+            "id": "live-chile-vs-ecuador-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile_logo.svg/185px-Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile_logo.svg.png",
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790198/match_banners/live-chile-vs-ecuador-live-stream.png"
+        },
+        {
             "homeTeam": "Venezuela",
             "awayTeam": "Peru",
             "time": "2025-03-26 00:00:00",
@@ -846,20 +562,21 @@
             "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790198/match_banners/live-venezuela-vs-peru-live-stream.png"
         },
         {
-            "homeTeam": "Jamaica",
-            "awayTeam": "Saint Vincent and the Grenadines",
+            "homeTeam": "Colombia",
+            "awayTeam": "Paraguay",
             "time": "2025-03-26 00:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "CONCACAF Gold Cup, Preliminary Round",
+            "competition": "World Cup Qualification, CONMEBOL",
             "urls": [
-                "https://sportzonline.ps/channels/hd/hd2.php"
+                "https://sportzonline.ps/channels/hd/hd8.php",
+                "https://sportzonline.ps/channels/bra/br3.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-jamaica-vs-saint-vincent-and-the-grenadines-live-stream",
-            "id": "live-jamaica-vs-saint-vincent-and-the-grenadines-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Jamaica_FA.svg/250px-Jamaica_FA.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kit_left_arm.svg/31px-Kit_left_arm.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790199/match_banners/live-jamaica-vs-saint-vincent-and-the-grenadines-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-colombia-vs-paraguay-live-stream",
+            "id": "live-colombia-vs-paraguay-live-stream",
+            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Club_Libertad_logo.png/330px-Club_Libertad_logo.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790197/match_banners/live-colombia-vs-paraguay-live-stream.png"
         },
         {
             "homeTeam": "Argentina",
@@ -881,40 +598,6 @@
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Brazilian_Football_Confederation_logo.svg/170px-Brazilian_Football_Confederation_logo.svg.png",
             "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790196/match_banners/live-argentina-vs-brazil-live-stream.png"
-        },
-        {
-            "homeTeam": "Colombia",
-            "awayTeam": "Paraguay",
-            "time": "2025-03-26 00:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "World Cup Qualification, CONMEBOL",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd8.php",
-                "https://sportzonline.ps/channels/bra/br3.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-colombia-vs-paraguay-live-stream",
-            "id": "live-colombia-vs-paraguay-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Club_Libertad_logo.png/330px-Club_Libertad_logo.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790197/match_banners/live-colombia-vs-paraguay-live-stream.png"
-        },
-        {
-            "homeTeam": "Chile",
-            "awayTeam": "Ecuador",
-            "time": "2025-03-26 00:00:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "World Cup Qualification, CONMEBOL",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd7.php",
-                "https://sportzonline.ps/channels/bra/br4.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-chile-vs-ecuador-live-stream",
-            "id": "live-chile-vs-ecuador-live-stream",
-            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile_logo.svg/185px-Federaci%C3%B3n_de_F%C3%BAtbol_de_Chile_logo.svg.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790198/match_banners/live-chile-vs-ecuador-live-stream.png"
         },
         {
             "homeTeam": "Costa Rica",
@@ -948,6 +631,218 @@
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Honduras_football_crest.svg/150px-Honduras_football_crest.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Kit_left_arm_bmu1819h.png",
             "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742790200/match_banners/live-honduras-vs-bermuda-live-stream.png"
+        },
+        {
+            "homeTeam": "Crvena Zvezda",
+            "awayTeam": "OFK Beograd",
+            "time": "2025-03-26 16:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.ps/channels/hd/hd11.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-crvena-zvezda-vs-ofk-beograd-live-stream",
+            "id": "live-crvena-zvezda-vs-ofk-beograd-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/KK_Crvena_zvezda_logo.svg/175px-KK_Crvena_zvezda_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/OFK_Beograd.png/130px-OFK_Beograd.png"
+        },
+        {
+            "homeTeam": "Olympique Lyonnais W",
+            "awayTeam": "Bayern M\u00fcnchen W",
+            "time": "2025-03-26 17:45:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.ps/channels/hd/hd5.php",
+                "https://sportzonline.ps/channels/hd/hd9.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-olympique-lyonnais-w-vs-bayern-m-nchen-w-live-stream",
+            "id": "live-olympique-lyonnais-w-vs-bayern-m-nchen-w-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/250px-Olympique_Lyonnais_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Logo_FC_Bayern_M%C3%BCnchen_Basketball_ab_2022.png/200px-Logo_FC_Bayern_M%C3%BCnchen_Basketball_ab_2022.png"
+        },
+        {
+            "homeTeam": "Gr\u00eamio U20",
+            "awayTeam": "Atl\u00e9tico-MG U20",
+            "time": "2025-03-26 18:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.ps/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-gr-mio-u20-vs-atl-tico-mg-u20-live-stream",
+            "id": "live-gr-mio-u20-vs-atl-tico-mg-u20-live-stream",
+            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/40px-Flag_of_Brazil.svg.png"
+        },
+        {
+            "homeTeam": "Arsenal W",
+            "awayTeam": "Real Madrid W",
+            "time": "2025-03-26 20:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.ps/channels/hd/hd1.php",
+                "https://sportzonline.ps/channels/hd/hd6.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-arsenal-w-vs-real-madrid-w-live-stream",
+            "id": "live-arsenal-w-vs-real-madrid-w-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/170px-Arsenal_FC.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/250px-Real_Madrid_CF.svg.png"
+        },
+        {
+            "homeTeam": "Alianza Petrolera",
+            "awayTeam": "Fortaleza CEIF",
+            "time": "2025-03-26 21:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.ps/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-alianza-petrolera-vs-fortaleza-ceif-live-stream",
+            "id": "live-alianza-petrolera-vs-fortaleza-ceif-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Kit_left_arm_APetrolera2023-IIh.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fortaleza_CEIF_logo.png/155px-Fortaleza_CEIF_logo.png"
+        },
+        {
+            "homeTeam": "Gr\u00eamio W",
+            "awayTeam": "Ferrovi\u00e1ria W",
+            "time": "2025-03-26 21:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.ps/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-gr-mio-w-vs-ferrovi-ria-w-live-stream",
+            "id": "live-gr-mio-w-vs-ferrovi-ria-w-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Kit_left_arm_gremio24h.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Brasileir%C3%A3o_Feminino-_Palmeiras_3x0_Bahia_-_Camilinha.jpg/220px-Brasileir%C3%A3o_Feminino-_Palmeiras_3x0_Bahia_-_Camilinha.jpg"
+        },
+        {
+            "homeTeam": "Bahia",
+            "awayTeam": "Cear\u00e1",
+            "time": "2025-03-26 22:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.ps/channels/bra/br2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-bahia-vs-cear-live-stream",
+            "id": "live-bahia-vs-cear-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Esporte_Clube_Bahia_logo.svg/195px-Esporte_Clube_Bahia_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cear%C3%A1_Sporting_Club_logo.svg/180px-Cear%C3%A1_Sporting_Club_logo.svg.png"
+        },
+        {
+            "homeTeam": "Junior",
+            "awayTeam": "Uni\u00f3n Magdalena",
+            "time": "2025-03-26 23:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.ps/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-junior-vs-uni-n-magdalena-live-stream",
+            "id": "live-junior-vs-uni-n-magdalena-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ESCUDO_JUNIOR.svg/215px-ESCUDO_JUNIOR.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Escudo_Uni%C3%B3n_Magdalena_2024.png/220px-Escudo_Uni%C3%B3n_Magdalena_2024.png"
+        },
+        {
+            "homeTeam": "Fluminense W",
+            "awayTeam": "Cruzeiro W",
+            "time": "2025-03-27 00:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.ps/channels/bra/br1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-fluminense-w-vs-cruzeiro-w-live-stream",
+            "id": "live-fluminense-w-vs-cruzeiro-w-live-stream",
+            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kit_left_arm_cruzeiro25h.png"
+        },
+        {
+            "homeTeam": "Sport Recife",
+            "awayTeam": "Altos",
+            "time": "2025-03-27 00:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.ps/channels/bra/br2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-sport-recife-vs-altos-live-stream",
+            "id": "live-sport-recife-vs-altos-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Sport_Club_Recife.svg/180px-Sport_Club_Recife.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/AA_Altos_logo.png/170px-AA_Altos_logo.png"
+        },
+        {
+            "homeTeam": "Fortaleza",
+            "awayTeam": "CRB",
+            "time": "2025-03-27 00:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.ps/channels/bra/br3.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-fortaleza-vs-crb-live-stream",
+            "id": "live-fortaleza-vs-crb-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fortaleza_CEIF_logo.png/155px-Fortaleza_CEIF_logo.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/CR_Belouizdad_logo.svg/250px-CR_Belouizdad_logo.svg.png"
+        },
+        {
+            "homeTeam": "Moto Club",
+            "awayTeam": "Vit\u00f3ria",
+            "time": "2025-03-27 00:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.ps/channels/bra/br4.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-moto-club-vs-vit-ria-live-stream",
+            "id": "live-moto-club-vs-vit-ria-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Moto_Club_de_S%C3%A3o_Lu%C3%ADs_logo.svg/150px-Moto_Club_de_S%C3%A3o_Lu%C3%ADs_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Vit%C3%B3ria_F.C._logo.png/180px-Vit%C3%B3ria_F.C._logo.png"
+        },
+        {
+            "homeTeam": "Ferrovi\u00e1rio",
+            "awayTeam": "Sousa",
+            "time": "2025-03-27 00:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.ps/channels/bra/br5.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-ferrovi-rio-vs-sousa-live-stream",
+            "id": "live-ferrovi-rio-vs-sousa-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Escudo_do_Ferrovi%C3%A1rio_Atl%C3%A9tico_Clube.png/250px-Escudo_do_Ferrovi%C3%A1rio_Atl%C3%A9tico_Clube.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Football_against_poverty_2014_-_Paulo_Sousa_%28cropped%29_-_2.jpg/250px-Football_against_poverty_2014_-_Paulo_Sousa_%28cropped%29_-_2.jpg"
+        },
+        {
+            "homeTeam": "Millonarios",
+            "awayTeam": "Santa Fe",
+            "time": "2025-03-27 01:30:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "League Event",
+            "urls": [
+                "https://sportzonline.ps/channels/hd/hd10.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-millonarios-vs-santa-fe-live-stream",
+            "id": "live-millonarios-vs-santa-fe-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Millonarios_F%C3%BAtbol_Club_logo.png/250px-Millonarios_F%C3%BAtbol_Club_logo.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Independiente_Santa_Fe_logo.png/155px-Independiente_Santa_Fe_logo.png"
         }
     ]
 }
