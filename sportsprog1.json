@@ -638,14 +638,15 @@
             "time": "2025-03-26 16:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Kup Srbije",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd11.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-crvena-zvezda-vs-ofk-beograd-live-stream",
             "id": "live-crvena-zvezda-vs-ofk-beograd-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/KK_Crvena_zvezda_logo.svg/175px-KK_Crvena_zvezda_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/OFK_Beograd.png/130px-OFK_Beograd.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/OFK_Beograd.png/130px-OFK_Beograd.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742876222/match_banners/live-crvena-zvezda-vs-ofk-beograd-live-stream.png"
         },
         {
             "homeTeam": "Olympique Lyonnais W",
@@ -653,7 +654,7 @@
             "time": "2025-03-26 17:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Champions League, Women, Knockout stage",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd5.php",
                 "https://sportzonline.ps/channels/hd/hd9.php"
@@ -661,7 +662,8 @@
             "eventUrl": "https://livesports808.top/watch/live-olympique-lyonnais-w-vs-bayern-m-nchen-w-live-stream",
             "id": "live-olympique-lyonnais-w-vs-bayern-m-nchen-w-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/250px-Olympique_Lyonnais_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Logo_FC_Bayern_M%C3%BCnchen_Basketball_ab_2022.png/200px-Logo_FC_Bayern_M%C3%BCnchen_Basketball_ab_2022.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Logo_FC_Bayern_M%C3%BCnchen_Basketball_ab_2022.png/200px-Logo_FC_Bayern_M%C3%BCnchen_Basketball_ab_2022.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742876223/match_banners/live-olympique-lyonnais-w-vs-bayern-m-nchen-w-live-stream.png"
         },
         {
             "homeTeam": "Gr\u00eamio U20",
@@ -676,7 +678,8 @@
             "eventUrl": "https://livesports808.top/watch/live-gr-mio-u20-vs-atl-tico-mg-u20-live-stream",
             "id": "live-gr-mio-u20-vs-atl-tico-mg-u20-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/40px-Flag_of_Brazil.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/40px-Flag_of_Brazil.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742876223/match_banners/live-gr-mio-u20-vs-atl-tico-mg-u20-live-stream.png"
         },
         {
             "homeTeam": "Arsenal W",
@@ -684,7 +687,7 @@
             "time": "2025-03-26 20:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Champions League, Women, Knockout stage",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd1.php",
                 "https://sportzonline.ps/channels/hd/hd6.php"
@@ -692,7 +695,8 @@
             "eventUrl": "https://livesports808.top/watch/live-arsenal-w-vs-real-madrid-w-live-stream",
             "id": "live-arsenal-w-vs-real-madrid-w-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/170px-Arsenal_FC.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/250px-Real_Madrid_CF.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/250px-Real_Madrid_CF.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742876224/match_banners/live-arsenal-w-vs-real-madrid-w-live-stream.png"
         },
         {
             "homeTeam": "Alianza Petrolera",
@@ -707,7 +711,8 @@
             "eventUrl": "https://livesports808.top/watch/live-alianza-petrolera-vs-fortaleza-ceif-live-stream",
             "id": "live-alianza-petrolera-vs-fortaleza-ceif-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Kit_left_arm_APetrolera2023-IIh.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fortaleza_CEIF_logo.png/155px-Fortaleza_CEIF_logo.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fortaleza_CEIF_logo.png/155px-Fortaleza_CEIF_logo.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742876225/match_banners/live-alianza-petrolera-vs-fortaleza-ceif-live-stream.png"
         },
         {
             "homeTeam": "Gr\u00eamio W",
@@ -722,7 +727,8 @@
             "eventUrl": "https://livesports808.top/watch/live-gr-mio-w-vs-ferrovi-ria-w-live-stream",
             "id": "live-gr-mio-w-vs-ferrovi-ria-w-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Kit_left_arm_gremio24h.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Brasileir%C3%A3o_Feminino-_Palmeiras_3x0_Bahia_-_Camilinha.jpg/220px-Brasileir%C3%A3o_Feminino-_Palmeiras_3x0_Bahia_-_Camilinha.jpg"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Brasileir%C3%A3o_Feminino-_Palmeiras_3x0_Bahia_-_Camilinha.jpg/220px-Brasileir%C3%A3o_Feminino-_Palmeiras_3x0_Bahia_-_Camilinha.jpg",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742876226/match_banners/live-gr-mio-w-vs-ferrovi-ria-w-live-stream.png"
         },
         {
             "homeTeam": "Bahia",
@@ -730,14 +736,15 @@
             "time": "2025-03-26 22:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Copa do Nordeste, Group B",
             "urls": [
                 "https://sportzonline.ps/channels/bra/br2.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-bahia-vs-cear-live-stream",
             "id": "live-bahia-vs-cear-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Esporte_Clube_Bahia_logo.svg/195px-Esporte_Clube_Bahia_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cear%C3%A1_Sporting_Club_logo.svg/180px-Cear%C3%A1_Sporting_Club_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cear%C3%A1_Sporting_Club_logo.svg/180px-Cear%C3%A1_Sporting_Club_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742876226/match_banners/live-bahia-vs-cear-live-stream.png"
         },
         {
             "homeTeam": "Junior",
@@ -745,14 +752,15 @@
             "time": "2025-03-26 23:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Colombia: Primera A, Apertura",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd10.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-junior-vs-uni-n-magdalena-live-stream",
             "id": "live-junior-vs-uni-n-magdalena-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ESCUDO_JUNIOR.svg/215px-ESCUDO_JUNIOR.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Escudo_Uni%C3%B3n_Magdalena_2024.png/220px-Escudo_Uni%C3%B3n_Magdalena_2024.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Escudo_Uni%C3%B3n_Magdalena_2024.png/220px-Escudo_Uni%C3%B3n_Magdalena_2024.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742876227/match_banners/live-junior-vs-uni-n-magdalena-live-stream.png"
         },
         {
             "homeTeam": "Fluminense W",
@@ -760,14 +768,15 @@
             "time": "2025-03-27 00:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brasileir\u00e3o Betano",
             "urls": [
                 "https://sportzonline.ps/channels/bra/br1.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-fluminense-w-vs-cruzeiro-w-live-stream",
             "id": "live-fluminense-w-vs-cruzeiro-w-live-stream",
             "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kit_left_arm_cruzeiro25h.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/0/06/Kit_left_arm_cruzeiro25h.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742876228/match_banners/live-fluminense-w-vs-cruzeiro-w-live-stream.png"
         },
         {
             "homeTeam": "Sport Recife",
@@ -775,14 +784,15 @@
             "time": "2025-03-27 00:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Copa do Nordeste, Group A",
             "urls": [
                 "https://sportzonline.ps/channels/bra/br2.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-sport-recife-vs-altos-live-stream",
             "id": "live-sport-recife-vs-altos-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Sport_Club_Recife.svg/180px-Sport_Club_Recife.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/AA_Altos_logo.png/170px-AA_Altos_logo.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/AA_Altos_logo.png/170px-AA_Altos_logo.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742876228/match_banners/live-sport-recife-vs-altos-live-stream.png"
         },
         {
             "homeTeam": "Fortaleza",
@@ -790,14 +800,15 @@
             "time": "2025-03-27 00:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Copa do Nordeste, Group A",
             "urls": [
                 "https://sportzonline.ps/channels/bra/br3.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-fortaleza-vs-crb-live-stream",
             "id": "live-fortaleza-vs-crb-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fortaleza_CEIF_logo.png/155px-Fortaleza_CEIF_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/CR_Belouizdad_logo.svg/250px-CR_Belouizdad_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/CR_Belouizdad_logo.svg/250px-CR_Belouizdad_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742876229/match_banners/live-fortaleza-vs-crb-live-stream.png"
         },
         {
             "homeTeam": "Moto Club",
@@ -805,14 +816,15 @@
             "time": "2025-03-27 00:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Copa do Nordeste, Group A",
             "urls": [
                 "https://sportzonline.ps/channels/bra/br4.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-moto-club-vs-vit-ria-live-stream",
             "id": "live-moto-club-vs-vit-ria-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Moto_Club_de_S%C3%A3o_Lu%C3%ADs_logo.svg/150px-Moto_Club_de_S%C3%A3o_Lu%C3%ADs_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Vit%C3%B3ria_F.C._logo.png/180px-Vit%C3%B3ria_F.C._logo.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Vit%C3%B3ria_F.C._logo.png/180px-Vit%C3%B3ria_F.C._logo.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742876230/match_banners/live-moto-club-vs-vit-ria-live-stream.png"
         },
         {
             "homeTeam": "Ferrovi\u00e1rio",
@@ -820,14 +832,15 @@
             "time": "2025-03-27 00:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Copa do Nordeste, Group A",
             "urls": [
                 "https://sportzonline.ps/channels/bra/br5.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-ferrovi-rio-vs-sousa-live-stream",
             "id": "live-ferrovi-rio-vs-sousa-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Escudo_do_Ferrovi%C3%A1rio_Atl%C3%A9tico_Clube.png/250px-Escudo_do_Ferrovi%C3%A1rio_Atl%C3%A9tico_Clube.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Football_against_poverty_2014_-_Paulo_Sousa_%28cropped%29_-_2.jpg/250px-Football_against_poverty_2014_-_Paulo_Sousa_%28cropped%29_-_2.jpg"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Football_against_poverty_2014_-_Paulo_Sousa_%28cropped%29_-_2.jpg/250px-Football_against_poverty_2014_-_Paulo_Sousa_%28cropped%29_-_2.jpg",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742876230/match_banners/live-ferrovi-rio-vs-sousa-live-stream.png"
         },
         {
             "homeTeam": "Millonarios",
@@ -835,14 +848,15 @@
             "time": "2025-03-27 01:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Colombia: Primera A, Apertura",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd10.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-millonarios-vs-santa-fe-live-stream",
             "id": "live-millonarios-vs-santa-fe-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Millonarios_F%C3%BAtbol_Club_logo.png/250px-Millonarios_F%C3%BAtbol_Club_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Independiente_Santa_Fe_logo.png/155px-Independiente_Santa_Fe_logo.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Independiente_Santa_Fe_logo.png/155px-Independiente_Santa_Fe_logo.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1742876231/match_banners/live-millonarios-vs-santa-fe-live-stream.png"
         }
     ]
 }
