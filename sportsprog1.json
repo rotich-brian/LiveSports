@@ -1051,7 +1051,7 @@
             "time": "2025-03-30 12:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Liga Portugal 2",
             "urls": [
                 "https://sportzonline.ps/channels/pt/sporttv2.php"
             ],
@@ -1610,7 +1610,8 @@
             "eventUrl": "https://livesports808.top/watch/live-scm-gloria-buz-u-vs-o-elul-live-stream",
             "id": "live-scm-gloria-buz-u-vs-o-elul-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/FC_Buz%C4%83u_logo.png/250px-FC_Buz%C4%83u_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/ASC_Otelul_Galati_logo.svg/250px-ASC_Otelul_Galati_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/ASC_Otelul_Galati_logo.svg/250px-ASC_Otelul_Galati_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1743135548/match_banners/live-scm-gloria-buz-u-vs-o-elul-live-stream.png"
         },
         {
             "homeTeam": "Hellas Verona",
@@ -1618,7 +1619,7 @@
             "time": "2025-03-31 17:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Italy: Serie A",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd8.php",
                 "https://sportzonline.ps/channels/pt/sporttv1.php"
@@ -1626,7 +1627,8 @@
             "eventUrl": "https://livesports808.top/watch/live-hellas-verona-vs-parma-live-stream",
             "id": "live-hellas-verona-vs-parma-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Hellas_Verona_FC_logo_%282020%29.svg/180px-Hellas_Verona_FC_logo_%282020%29.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_Parma_Calcio_1913_%28adozione_2016%29.svg/150px-Logo_Parma_Calcio_1913_%28adozione_2016%29.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_Parma_Calcio_1913_%28adozione_2016%29.svg/150px-Logo_Parma_Calcio_1913_%28adozione_2016%29.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1743135549/match_banners/live-hellas-verona-vs-parma-live-stream.png"
         },
         {
             "homeTeam": "Ey\u00fcpspor",
@@ -1641,7 +1643,8 @@
             "eventUrl": "https://livesports808.top/watch/live-ey-pspor-vs-i-stanbul-ba-ak-ehir-live-stream",
             "id": "live-ey-pspor-vs-i-stanbul-ba-ak-ehir-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Eyupspor_logo.png/250px-Eyupspor_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_logo.svg/155px-%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_logo.svg/155px-%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1743135550/match_banners/live-ey-pspor-vs-i-stanbul-ba-ak-ehir-live-stream.png"
         },
         {
             "homeTeam": "Universitatea Cluj",
@@ -1649,14 +1652,15 @@
             "time": "2025-03-31 18:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "England: Liga 1, Championship round",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd10.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-universitatea-cluj-vs-cfr-cluj-live-stream",
             "id": "live-universitatea-cluj-vs-cfr-cluj-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Universitatea_Cluj_logo.png/180px-Universitatea_Cluj_logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/CFR_Cluj_badge.svg/150px-CFR_Cluj_badge.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/CFR_Cluj_badge.svg/150px-CFR_Cluj_badge.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1743135551/match_banners/live-universitatea-cluj-vs-cfr-cluj-live-stream.png"
         },
         {
             "homeTeam": "C\u00e1diz",
@@ -1664,7 +1668,7 @@
             "time": "2025-03-31 19:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Spain: LaLiga 2",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd9.php",
                 "https://sportzonline.ps/channels/pt/eleven1.php"
@@ -1672,7 +1676,8 @@
             "eventUrl": "https://livesports808.top/watch/live-c-diz-vs-eibar-live-stream",
             "id": "live-c-diz-vs-eibar-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/C%C3%A1diz_CF_logo.svg/130px-C%C3%A1diz_CF_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SD_Eibar_logo_2016.svg/130px-SD_Eibar_logo_2016.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SD_Eibar_logo_2016.svg/130px-SD_Eibar_logo_2016.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1743135552/match_banners/live-c-diz-vs-eibar-live-stream.png"
         },
         {
             "homeTeam": "Lecco",
@@ -1680,14 +1685,15 @@
             "time": "2025-03-31 19:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Serie C, Girone A",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd8.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-lecco-vs-giana-erminio-live-stream",
             "id": "live-lecco-vs-giana-erminio-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Calcio_Lecco_1912_crest.svg/120px-Calcio_Lecco_1912_crest.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/AS_Giana_Erminio_crest.svg/250px-AS_Giana_Erminio_crest.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/AS_Giana_Erminio_crest.svg/250px-AS_Giana_Erminio_crest.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1743135553/match_banners/live-lecco-vs-giana-erminio-live-stream.png"
         },
         {
             "homeTeam": "Lazio",
@@ -1695,7 +1701,7 @@
             "time": "2025-03-31 19:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Italy: Serie A",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd5.php",
                 "https://sportzonline.ps/channels/hd/hd7.php",
@@ -1705,7 +1711,8 @@
             "eventUrl": "https://livesports808.top/watch/live-lazio-vs-torino-live-stream",
             "id": "live-lazio-vs-torino-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/220px-S.S._Lazio_badge.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/250px-Torino_FC_Logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/250px-Torino_FC_Logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1743135553/match_banners/live-lazio-vs-torino-live-stream.png"
         },
         {
             "homeTeam": "Paris",
@@ -1720,7 +1727,8 @@
             "eventUrl": "https://livesports808.top/watch/live-paris-vs-caen-live-stream",
             "id": "live-paris-vs-caen-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paris_FC_logo.svg/150px-Paris_FC_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/SM_Caen_2016_logo.svg/140px-SM_Caen_2016_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/SM_Caen_2016_logo.svg/140px-SM_Caen_2016_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1743135554/match_banners/live-paris-vs-caen-live-stream.png"
         },
         {
             "homeTeam": "Celta de Vigo",
@@ -1728,7 +1736,7 @@
             "time": "2025-03-31 20:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Spain: LaLiga",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd2.php",
                 "https://sportzonline.ps/channels/hd/hd6.php",
@@ -1737,7 +1745,8 @@
             "eventUrl": "https://livesports808.top/watch/live-celta-de-vigo-vs-las-palmas-live-stream",
             "id": "live-celta-de-vigo-vs-las-palmas-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/RC_Celta_de_Vigo_logo.svg/130px-RC_Celta_de_Vigo_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/UD_Las_Palmas_logo.svg/125px-UD_Las_Palmas_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/UD_Las_Palmas_logo.svg/125px-UD_Las_Palmas_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1743135555/match_banners/live-celta-de-vigo-vs-las-palmas-live-stream.png"
         },
         {
             "homeTeam": "Mafra",
@@ -1745,14 +1754,15 @@
             "time": "2025-03-31 20:15:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Liga Portugal 2",
             "urls": [
                 "https://sportzonline.ps/channels/pt/sporttv1.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-mafra-vs-felgueiras-1932-live-stream",
             "id": "live-mafra-vs-felgueiras-1932-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Cd_mafra.png/250px-Cd_mafra.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/F.C._Felgueiras_1932_logo.png/180px-F.C._Felgueiras_1932_logo.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/F.C._Felgueiras_1932_logo.png/180px-F.C._Felgueiras_1932_logo.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1743135556/match_banners/live-mafra-vs-felgueiras-1932-live-stream.png"
         },
         {
             "homeTeam": "Cerro",
@@ -1767,7 +1777,8 @@
             "eventUrl": "https://livesports808.top/watch/live-cerro-vs-wanderers-live-stream",
             "id": "live-cerro-vs-wanderers-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Escudo_Club_Cerro_Porte%C3%B1o_2023-Actual.svg/180px-Escudo_Club_Cerro_Porte%C3%B1o_2023-Actual.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kit_left_arm_wanderers_FC.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Kit_left_arm_wanderers_FC.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1743135557/match_banners/live-cerro-vs-wanderers-live-stream.png"
         },
         {
             "homeTeam": "RB Bragantino",
@@ -1782,7 +1793,8 @@
             "eventUrl": "https://livesports808.top/watch/live-rb-bragantino-vs-cear-live-stream",
             "id": "live-rb-bragantino-vs-cear-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Red_Bull_Bragantino_logo.svg/235px-Red_Bull_Bragantino_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cear%C3%A1_Sporting_Club_logo.svg/250px-Cear%C3%A1_Sporting_Club_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cear%C3%A1_Sporting_Club_logo.svg/250px-Cear%C3%A1_Sporting_Club_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1743135558/match_banners/live-rb-bragantino-vs-cear-live-stream.png"
         },
         {
             "homeTeam": "Defensor Sporting",
@@ -1790,14 +1802,15 @@
             "time": "2025-04-01 01:15:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Liga AUF Uruguaya, Apertura",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd11.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-defensor-sporting-vs-miramar-misiones-live-stream",
             "id": "live-defensor-sporting-vs-miramar-misiones-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Defensor_Sporting.svg/140px-Defensor_Sporting.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/CS_Miramar_Misiones.png/170px-CS_Miramar_Misiones.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/CS_Miramar_Misiones.png/170px-CS_Miramar_Misiones.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1743135558/match_banners/live-defensor-sporting-vs-miramar-misiones-live-stream.png"
         },
         {
             "homeTeam": "La Equidad",
@@ -1805,14 +1818,15 @@
             "time": "2025-04-01 01:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Colombia: Primera A, Apertura",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd10.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-la-equidad-vs-junior-live-stream",
             "id": "live-la-equidad-vs-junior-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/La_Equidad_Seguros_logo.svg/150px-La_Equidad_Seguros_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ESCUDO_JUNIOR.svg/250px-ESCUDO_JUNIOR.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/ESCUDO_JUNIOR.svg/250px-ESCUDO_JUNIOR.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1743135559/match_banners/live-la-equidad-vs-junior-live-stream.png"
         }
     ]
 }
