@@ -219,7 +219,7 @@
             "time": "2025-04-02 03:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "CONMEBOL Libertadores, Group B",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd5.php",
                 "https://sportzonline.ps/channels/hd/hd11.php"
@@ -366,7 +366,7 @@
             "time": "2025-04-02 19:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "England: Premier League",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd5.php",
                 "https://sportzonline.ps/channels/pt/eleven2.php",
@@ -672,7 +672,7 @@
             "time": "2025-04-03 01:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "CONMEBOL Sudamericana, Group C",
             "urls": [
                 "https://sportzonline.ps/channels/bra/br4.php"
             ],
@@ -754,7 +754,7 @@
             "time": "2025-04-03 04:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "CONCACAF Champions Cup",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd1.php"
             ],
@@ -777,7 +777,8 @@
             "eventUrl": "https://livesports808.top/watch/live-hebar-1918-vs-lokomotiv-plovdiv-live-stream",
             "id": "live-hebar-1918-vs-lokomotiv-plovdiv-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Hebar_Pazardzhik_Current_Logo.png/250px-Hebar_Pazardzhik_Current_Logo.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/PFC_Lokomotiv_Plovdiv.png/185px-PFC_Lokomotiv_Plovdiv.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/PFC_Lokomotiv_Plovdiv.png/185px-PFC_Lokomotiv_Plovdiv.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567535/match_banners/live-hebar-1918-vs-lokomotiv-plovdiv-live-stream.png"
         },
         {
             "homeTeam": "Ludogorets",
@@ -785,14 +786,15 @@
             "time": "2025-04-03 15:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Parva Liga",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd8.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-ludogorets-vs-krumovgrad-live-stream",
             "id": "live-ludogorets-vs-krumovgrad-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/81/PFC_Ludogorets_Razgrad_logo.svg/250px-PFC_Ludogorets_Razgrad_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/FC_Krumovgrad.png/250px-FC_Krumovgrad.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/FC_Krumovgrad.png/250px-FC_Krumovgrad.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567536/match_banners/live-ludogorets-vs-krumovgrad-live-stream.png"
         },
         {
             "homeTeam": "Levski Sofia",
@@ -800,14 +802,15 @@
             "time": "2025-04-03 17:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Parva Liga",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd8.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-levski-sofia-vs-cska-1948-live-stream",
             "id": "live-levski-sofia-vs-cska-1948-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/PFC_Levski_Sofia.svg/260px-PFC_Levski_Sofia.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/CSKA_1948_new_logo.png/120px-CSKA_1948_new_logo.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/CSKA_1948_new_logo.png/120px-CSKA_1948_new_logo.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567537/match_banners/live-levski-sofia-vs-cska-1948-live-stream.png"
         },
         {
             "homeTeam": "CFR Cluj",
@@ -822,7 +825,8 @@
             "eventUrl": "https://livesports808.top/watch/live-cfr-cluj-vs-csu-craiova-live-stream",
             "id": "live-cfr-cluj-vs-csu-craiova-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/CFR_Cluj_badge.svg/150px-CFR_Cluj_badge.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/CS_Universitatea_Craiova_logo.svg/130px-CS_Universitatea_Craiova_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/CS_Universitatea_Craiova_logo.svg/130px-CS_Universitatea_Craiova_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567538/match_banners/live-cfr-cluj-vs-csu-craiova-live-stream.png"
         },
         {
             "homeTeam": "MTK",
@@ -830,14 +834,15 @@
             "time": "2025-04-03 18:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Magyar Cup",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd9.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-mtk-vs-feh-rv-r-live-stream",
             "id": "live-mtk-vs-feh-rv-r-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/MTK_logo.svg/190px-MTK_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/MOL_Feh%C3%A9rv%C3%A1r_FC_logo.svg/120px-MOL_Feh%C3%A9rv%C3%A1r_FC_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/MOL_Feh%C3%A9rv%C3%A1r_FC_logo.svg/120px-MOL_Feh%C3%A9rv%C3%A1r_FC_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567539/match_banners/live-mtk-vs-feh-rv-r-live-stream.png"
         },
         {
             "homeTeam": "Be\u015fikta\u015f",
@@ -845,14 +850,15 @@
             "time": "2025-04-03 18:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Turkiye Kupasi, Knockout stage",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd11.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-be-ikta-vs-g-ztepe-live-stream",
             "id": "live-be-ikta-vs-g-ztepe-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/BesiktasJK-Logo.svg/190px-BesiktasJK-Logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Kit_left_arm_goztepe2223h.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Kit_left_arm_goztepe2223h.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567540/match_banners/live-be-ikta-vs-g-ztepe-live-stream.png"
         },
         {
             "homeTeam": "Chelsea",
@@ -860,7 +866,7 @@
             "time": "2025-04-03 20:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "England: Premier League",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd1.php",
                 "https://sportzonline.ps/channels/pt/eleven1.php",
@@ -869,7 +875,8 @@
             "eventUrl": "https://livesports808.top/watch/live-chelsea-vs-tottenham-hotspur-live-stream",
             "id": "live-chelsea-vs-tottenham-hotspur-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/200px-Chelsea_FC.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/120px-Tottenham_Hotspur.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/120px-Tottenham_Hotspur.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567541/match_banners/live-chelsea-vs-tottenham-hotspur-live-stream.png"
         },
         {
             "homeTeam": "Euro League Baskerball: Real Madrid",
@@ -884,7 +891,8 @@
             "eventUrl": "https://livesports808.top/watch/live-euro-league-baskerball-real-madrid-vs-paris-barketball-live-stream",
             "id": "live-euro-league-baskerball-real-madrid-vs-paris-barketball-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/UEFA_Champions_League.svg/240px-UEFA_Champions_League.svg.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png"
+            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567542/match_banners/live-euro-league-baskerball-real-madrid-vs-paris-barketball-live-stream.png"
         },
         {
             "homeTeam": "Sporting CP",
@@ -892,7 +900,7 @@
             "time": "2025-04-03 20:15:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Ta\u00e7a de Portugal",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd5.php",
                 "https://sportzonline.ps/channels/hd/hd6.php",
@@ -901,7 +909,8 @@
             "eventUrl": "https://livesports808.top/watch/live-sporting-cp-vs-rio-ave-live-stream",
             "id": "live-sporting-cp-vs-rio-ave-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg/250px-Sporting_Clube_de_Portugal_%28Logo%29.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Rio_Ave_FC_logo.svg/170px-Rio_Ave_FC_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Rio_Ave_FC_logo.svg/170px-Rio_Ave_FC_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567543/match_banners/live-sporting-cp-vs-rio-ave-live-stream.png"
         },
         {
             "homeTeam": "Instituto",
@@ -909,14 +918,15 @@
             "time": "2025-04-03 22:45:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Copa Argentina",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd11.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-instituto-vs-deportivo-madryn-live-stream",
             "id": "live-instituto-vs-deportivo-madryn-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Instituto_acc_cordoba_logo.svg/180px-Instituto_acc_cordoba_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Escudo_del_Club_Social_y_Deportivo_Madryn.svg/190px-Escudo_del_Club_Social_y_Deportivo_Madryn.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Escudo_del_Club_Social_y_Deportivo_Madryn.svg/190px-Escudo_del_Club_Social_y_Deportivo_Madryn.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567544/match_banners/live-instituto-vs-deportivo-madryn-live-stream.png"
         },
         {
             "homeTeam": "Bahia",
@@ -924,7 +934,7 @@
             "time": "2025-04-03 23:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "CONMEBOL Libertadores, Group F",
             "urls": [
                 "https://sportzonline.ps/channels/pt/sporttv2.php",
                 "https://sportzonline.ps/channels/bra/br2.php"
@@ -932,7 +942,8 @@
             "eventUrl": "https://livesports808.top/watch/live-bahia-vs-internacional-live-stream",
             "id": "live-bahia-vs-internacional-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Esporte_Clube_Bahia_logo.svg/195px-Esporte_Clube_Bahia_logo.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SC_Internacional_Brazil_Logo.svg/250px-SC_Internacional_Brazil_Logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SC_Internacional_Brazil_Logo.svg/250px-SC_Internacional_Brazil_Logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567545/match_banners/live-bahia-vs-internacional-live-stream.png"
         },
         {
             "homeTeam": "Sporting Cristal",
@@ -940,7 +951,7 @@
             "time": "2025-04-03 23:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "CONMEBOL Libertadores, Group G",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd5.php",
                 "https://sportzonline.ps/channels/hd/hd6.php",
@@ -950,7 +961,8 @@
             "eventUrl": "https://livesports808.top/watch/live-sporting-cristal-vs-palmeiras-live-stream",
             "id": "live-sporting-cristal-vs-palmeiras-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Escudo_de_Sporting_Cristal_%28version_2018%29.svg/250px-Escudo_de_Sporting_Cristal_%28version_2018%29.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/250px-Palmeiras_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/250px-Palmeiras_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567546/match_banners/live-sporting-cristal-vs-palmeiras-live-stream.png"
         },
         {
             "homeTeam": "Academia Puerto Cabello",
@@ -958,14 +970,15 @@
             "time": "2025-04-03 23:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "CONMEBOL Sudamericana, Group G",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd10.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-academia-puerto-cabello-vs-lan-s-live-stream",
             "id": "live-academia-puerto-cabello-vs-lan-s-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Academia_Puerto_Cabello.png/175px-Academia_Puerto_Cabello.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Club_Atl%C3%A9tico_Lan%C3%BAs_Logo.svg/250px-Club_Atl%C3%A9tico_Lan%C3%BAs_Logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Club_Atl%C3%A9tico_Lan%C3%BAs_Logo.svg/250px-Club_Atl%C3%A9tico_Lan%C3%BAs_Logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567547/match_banners/live-academia-puerto-cabello-vs-lan-s-live-stream.png"
         },
         {
             "homeTeam": "Central C\u00f3rdoba SdE",
@@ -973,14 +986,15 @@
             "time": "2025-04-03 23:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "CONMEBOL Libertadores, Group C",
             "urls": [
                 "https://sportzonline.ps/channels/bra/br6.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-central-c-rdoba-sde-vs-ldu-quito-live-stream",
             "id": "live-central-c-rdoba-sde-vs-ldu-quito-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Escudo_del_Club_Central_C%C3%B3rdoba_de_Santiago_del_Estero.svg/250px-Escudo_del_Club_Central_C%C3%B3rdoba_de_Santiago_del_Estero.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Liga_de_Quito_deportiva.png/215px-Liga_de_Quito_deportiva.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Liga_de_Quito_deportiva.png/215px-Liga_de_Quito_deportiva.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567548/match_banners/live-central-c-rdoba-sde-vs-ldu-quito-live-stream.png"
         },
         {
             "homeTeam": "Newell's Old Boys",
@@ -988,14 +1002,15 @@
             "time": "2025-04-04 01:10:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Copa Argentina",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd11.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-newell-s-old-boys-vs-kimberley-mar-del-plata-live-stream",
             "id": "live-newell-s-old-boys-vs-kimberley-mar-del-plata-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Escudo_del_Club_Atl%C3%A9tico_Newell%27s_Old_Boys_de_Rosario.svg/170px-Escudo_del_Club_Atl%C3%A9tico_Newell%27s_Old_Boys_de_Rosario.svg.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kimberley_mdp_logo.png/150px-Kimberley_mdp_logo.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kimberley_mdp_logo.png/150px-Kimberley_mdp_logo.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567549/match_banners/live-newell-s-old-boys-vs-kimberley-mar-del-plata-live-stream.png"
         },
         {
             "homeTeam": "Cerro Largo",
@@ -1003,14 +1018,15 @@
             "time": "2025-04-04 01:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "CONMEBOL Sudamericana, Group B",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd10.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-cerro-largo-vs-defensa-y-justicia-live-stream",
             "id": "live-cerro-largo-vs-defensa-y-justicia-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Cerro_Largo_2020.png/250px-Cerro_Largo_2020.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Escudo_del_Club_Social_y_Deportivo_Defensa_y_Justicia.svg/250px-Escudo_del_Club_Social_y_Deportivo_Defensa_y_Justicia.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Escudo_del_Club_Social_y_Deportivo_Defensa_y_Justicia.svg/250px-Escudo_del_Club_Social_y_Deportivo_Defensa_y_Justicia.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567550/match_banners/live-cerro-largo-vs-defensa-y-justicia-live-stream.png"
         },
         {
             "homeTeam": "Deportivo T\u00e1chira",
@@ -1018,7 +1034,7 @@
             "time": "2025-04-04 01:30:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "CONMEBOL Libertadores, Group C",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd5.php",
                 "https://sportzonline.ps/channels/hd/hd6.php",
@@ -1028,7 +1044,8 @@
             "eventUrl": "https://livesports808.top/watch/live-deportivo-t-chira-vs-flamengo-live-stream",
             "id": "live-deportivo-t-chira-vs-flamengo-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Deportivo_T%C3%A1chira.png/210px-Deportivo_T%C3%A1chira.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamengo_braz_logo.svg/250px-Flamengo_braz_logo.svg.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamengo_braz_logo.svg/250px-Flamengo_braz_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567551/match_banners/live-deportivo-t-chira-vs-flamengo-live-stream.png"
         },
         {
             "homeTeam": "Mushuc Runa",
@@ -1036,7 +1053,7 @@
             "time": "2025-04-04 03:00:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "CONMEBOL Sudamericana, Group E",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd5.php",
                 "https://sportzonline.ps/channels/hd/hd6.php",
@@ -1045,7 +1062,8 @@
             "eventUrl": "https://livesports808.top/watch/live-mushuc-runa-vs-palestino-live-stream",
             "id": "live-mushuc-runa-vs-palestino-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Mushuc_Runa_SC.png/250px-Mushuc_Runa_SC.png",
-            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/C.D._Palestino.png/150px-C.D._Palestino.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/C.D._Palestino.png/150px-C.D._Palestino.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1743567552/match_banners/live-mushuc-runa-vs-palestino-live-stream.png"
         }
     ]
 }
