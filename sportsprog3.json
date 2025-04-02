@@ -264,6 +264,23 @@
             "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1743481585/match_banners/live-stellenbosch-vs-zamalek-live-stream.png"
         },
         {
+            "homeTeam": "Buriram United",
+            "awayTeam": "Pathum United",
+            "time": "2025-04-02 13:00:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Asia - Asean Club Championship",
+            "urls": [
+                "https://sportzonline.ps/channels/hd/hd4.php",
+                "https://sportzonline.ps/channels/pt/sporttv1.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-stellenbosch-vs-zamalek-live-stream",
+            "id": "live-stellenbosch-vs-zamalek-live-stream",
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/AyqpKKxrW8YdgAFqJuq0pQ_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/X56XgwbfC0GxTBCW9o9Mbg_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dolix8s0a/image/upload/v1743481585/match_banners/live-stellenbosch-vs-zamalek-live-stre.png"
+        },
+        {
             "homeTeam": "Stuttgart U19",
             "awayTeam": "Barcelona U19",
             "time": "2025-04-02 14:00:00",
