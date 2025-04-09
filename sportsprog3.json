@@ -6,7 +6,7 @@
             "time": "2025-04-09T14:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Tanzanian Premier League",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd10.php"
             ],
@@ -14,7 +14,7 @@
             "id": "live-simba-vs-al-masry-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/6/64/Simba_FC_%28logo%29.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Al_Masry_SC_logo.png/150px-Al_Masry_SC_logo.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086080/match_banners/live-simba-vs-al-masry-live-stream.png"
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177610/match_banners/live-simba-vs-al-masry-live-stream.png"
         },
         {
             "homeTeam": "Orlando Pirates",
@@ -22,7 +22,7 @@
             "time": "2025-04-09T17:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "South Africa - PSL",
             "urls": [
                 "https://sportzonline.ps/channels/pt/sporttv2.php"
             ],
@@ -30,7 +30,7 @@
             "id": "live-orlando-pirates-vs-mc-alger-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Orlando_Pirates_FC_logo.svg/250px-Orlando_Pirates_FC_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MC_Alger_logo.png/250px-MC_Alger_logo.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086082/match_banners/live-orlando-pirates-vs-mc-alger-live-stream.png"
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177612/match_banners/live-orlando-pirates-vs-mc-alger-live-stream.png"
         },
         {
             "homeTeam": "Zamalek",
@@ -38,7 +38,7 @@
             "time": "2025-04-09T17:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Egyptian Premier League",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd10.php",
                 "https://sportzonline.ps/channels/pt/sporttv1.php"
@@ -47,29 +47,7 @@
             "id": "live-zamalek-vs-stellenbosch-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Zamalek_SC_logo.svg/250px-Zamalek_SC_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Stellenbosch_FC_logo.png/200px-Stellenbosch_FC_logo.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086081/match_banners/live-zamalek-vs-stellenbosch-live-stream.png"
-        },
-        {
-            "homeTeam": "PSG",
-            "awayTeam": "Aston Villa",
-            "time": "2025-04-09T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd1.php",
-                "https://sportzonline.ps/channels/hd/hd4.php",
-                "https://sportzonline.ps/channels/hd/hd7.php",
-                "https://sportzonline.ps/channels/hd/hd9.php",
-                "https://sportzonline.ps/channels/hd/hd11.php",
-                "https://sportzonline.ps/channels/pt/sporttv5.php",
-                "https://sportzonline.ps/channels/bra/br3.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-psg-vs-aston-villa-live-stream",
-            "id": "live-psg-vs-aston-villa-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086083/match_banners/live-psg-vs-aston-villa-live-stream.png"
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177613/match_banners/live-zamalek-vs-stellenbosch-live-stream.png"
         },
         {
             "homeTeam": "Coventry City",
@@ -77,16 +55,16 @@
             "time": "2025-04-09T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "EFL Championship",
             "urls": [
                 "https://sportzonline.ps/channels/pt/sporttv2.php",
                 "https://sportzonline.ps/channels/bra/br6.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-coventry-city-vs-portsmouth-live-stream",
             "id": "live-coventry-city-vs-portsmouth-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086084/match_banners/live-coventry-city-vs-portsmouth-live-stream.png"
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Coventry_City_FC_crest.svg/140px-Coventry_City_FC_crest.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Portsmouth_FC_logo.svg/250px-Portsmouth_FC_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177614/match_banners/live-coventry-city-vs-portsmouth-live-stream.png"
         },
         {
             "homeTeam": "RSB Berkane",
@@ -94,14 +72,14 @@
             "time": "2025-04-09T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Morocco - Botola Pro 1",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd10.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-rsb-berkane-vs-asec-mimosas-live-stream",
             "id": "live-rsb-berkane-vs-asec-mimosas-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/RS_Berkane_%28logo%29.png/250px-RS_Berkane_%28logo%29.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/ASEC_Mimosas.png/250px-ASEC_Mimosas.png",
             "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086083/match_banners/live-rsb-berkane-vs-asec-mimosas-live-stream.png"
         },
         {
@@ -110,7 +88,7 @@
             "time": "2025-04-09T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Champions League",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd2.php",
                 "https://sportzonline.ps/channels/hd/hd3.php",
@@ -123,8 +101,30 @@
             "eventUrl": "https://livesports808.top/watch/live-barcelona-vs-borussia-dortmund-live-stream",
             "id": "live-barcelona-vs-borussia-dortmund-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/210px-FC_Barcelona_%28crest%29.svg.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086082/match_banners/live-barcelona-vs-borussia-dortmund-live-stream.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/250px-Borussia_Dortmund_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177615/match_banners/live-barcelona-vs-borussia-dortmund-live-stream.png"
+        },
+        {
+            "homeTeam": "PSG",
+            "awayTeam": "Aston Villa",
+            "time": "2025-04-09T20:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "UEFA Champions League",
+            "urls": [
+                "https://sportzonline.ps/channels/hd/hd1.php",
+                "https://sportzonline.ps/channels/hd/hd4.php",
+                "https://sportzonline.ps/channels/hd/hd7.php",
+                "https://sportzonline.ps/channels/hd/hd9.php",
+                "https://sportzonline.ps/channels/hd/hd11.php",
+                "https://sportzonline.ps/channels/pt/sporttv5.php",
+                "https://sportzonline.ps/channels/bra/br3.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-psg-vs-aston-villa-live-stream",
+            "id": "live-psg-vs-aston-villa-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/200px-Paris_Saint-Germain_F.C..svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/250px-Aston_Villa_FC_new_crest.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177616/match_banners/live-psg-vs-aston-villa-live-stream.png"
         },
         {
             "homeTeam": "Basketball: Porto",
@@ -132,15 +132,15 @@
             "time": "2025-04-09T20:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "PORTUGAL - Taca da Liga",
             "urls": [
                 "https://sportzonline.ps/channels/pt/eleven2.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-basketball-porto-vs-sporting-live-stream",
             "id": "live-basketball-porto-vs-sporting-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086085/match_banners/live-basketball-porto-vs-sporting-live-stream.png"
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/250px-FC_Porto.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Sporting_F.C.svg/250px-Sporting_F.C.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177617/match_banners/live-basketball-porto-vs-sporting-live-stream.png"
         },
         {
             "homeTeam": "Tirsense",
@@ -148,15 +148,15 @@
             "time": "2025-04-09T20:45:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Campeonato de Portugal",
             "urls": [
                 "https://sportzonline.ps/channels/pt/sporttv1.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-tirsense-vs-benfica-live-stream",
             "id": "live-tirsense-vs-benfica-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086086/match_banners/live-tirsense-vs-benfica-live-stream.png"
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/75/FutebolClubeTirsense.png/180px-FutebolClubeTirsense.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SL_Benfica_logo.svg/250px-SL_Benfica_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177618/match_banners/live-tirsense-vs-benfica-live-stream.png"
         },
         {
             "homeTeam": "Olimpia",
@@ -164,7 +164,7 @@
             "time": "2025-04-09T23:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Paraguayan Primera Divisi\u00f3n",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd5.php",
                 "https://sportzonline.ps/channels/hd/hd11.php",
@@ -172,41 +172,9 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-olimpia-vs-v-lez-sarsfield-live-stream",
             "id": "live-olimpia-vs-v-lez-sarsfield-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086086/match_banners/live-olimpia-vs-v-lez-sarsfield-live-stream.png"
-        },
-        {
-            "homeTeam": "Nacional",
-            "awayTeam": "Bahia",
-            "time": "2025-04-09T23:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.ps/channels/bra/br2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-nacional-vs-bahia-live-stream",
-            "id": "live-nacional-vs-bahia-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086088/match_banners/live-nacional-vs-bahia-live-stream.png"
-        },
-        {
-            "homeTeam": "Palestino",
-            "awayTeam": "Uni\u00f3n Santa Fe",
-            "time": "2025-04-09T23:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.ps/channels/bra/br6.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-palestino-vs-uni-n-santa-fe-live-stream",
-            "id": "live-palestino-vs-uni-n-santa-fe-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086088/match_banners/live-palestino-vs-uni-n-santa-fe-live-stream.png"
+            "homeTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/4O3gcJ3OuxDAG9z4lkzk0Q_96x96.png",
+            "awayTeamLogo": "https://ssl.gstatic.com/onebox/media/sports/logos/EG7pVKQAW2mvbnKsMoMbYA_96x96.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177619/match_banners/live-olimpia-vs-v-lez-sarsfield-live-stream.png"
         },
         {
             "homeTeam": "Hurac\u00e1n",
@@ -221,9 +189,41 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-hurac-n-vs-racing-live-stream",
             "id": "live-hurac-n-vs-racing-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Huracanfc.jpg/150px-Huracanfc.jpg",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RacingUnion.png/250px-RacingUnion.png",
             "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086087/match_banners/live-hurac-n-vs-racing-live-stream.png"
+        },
+        {
+            "homeTeam": "Nacional",
+            "awayTeam": "Bahia",
+            "time": "2025-04-09T23:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Uruguayan Primera Divisi\u00f3n",
+            "urls": [
+                "https://sportzonline.ps/channels/bra/br2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-nacional-vs-bahia-live-stream",
+            "id": "live-nacional-vs-bahia-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Nacional_Futebol_Clube_logo.svg/250px-Nacional_Futebol_Clube_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Esporte_Clube_Bahia_logo.svg/195px-Esporte_Clube_Bahia_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177621/match_banners/live-nacional-vs-bahia-live-stream.png"
+        },
+        {
+            "homeTeam": "Palestino",
+            "awayTeam": "Uni\u00f3n Santa Fe",
+            "time": "2025-04-09T23:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Chilean Primera Divisi\u00f3n",
+            "urls": [
+                "https://sportzonline.ps/channels/bra/br6.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-palestino-vs-uni-n-santa-fe-live-stream",
+            "id": "live-palestino-vs-uni-n-santa-fe-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/C.D._Palestino.png/150px-C.D._Palestino.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Escudo_club_Atl%C3%A9tico_Uni%C3%B3n_de_santa_fe.svg/250px-Escudo_club_Atl%C3%A9tico_Uni%C3%B3n_de_santa_fe.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177622/match_banners/live-palestino-vs-uni-n-santa-fe-live-stream.png"
         },
         {
             "homeTeam": "Inter Miami",
@@ -231,34 +231,16 @@
             "time": "2025-04-10T01:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "USA - MLS",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd1.php",
                 "https://sportzonline.ps/channels/hd/hd8.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-inter-miami-vs-los-angeles-fc-live-stream",
             "id": "live-inter-miami-vs-los-angeles-fc-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Inter_Miami_CF_logo.svg/250px-Inter_Miami_CF_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Los_Angeles_Football_Club.svg/150px-Los_Angeles_Football_Club.svg.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086089/match_banners/live-inter-miami-vs-los-angeles-fc-live-stream.png"
-        },
-        {
-            "homeTeam": "Palmeiras",
-            "awayTeam": "Cerro Porte\u00f1o",
-            "time": "2025-04-10T01:30:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd9.php",
-                "https://sportzonline.ps/channels/pt/sporttv1.php",
-                "https://sportzonline.ps/channels/bra/br4.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-palmeiras-vs-cerro-porte-o-live-stream",
-            "id": "live-palmeiras-vs-cerro-porte-o-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086090/match_banners/live-palmeiras-vs-cerro-porte-o-live-stream.png"
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177623/match_banners/live-inter-miami-vs-los-angeles-fc-live-stream.png"
         },
         {
             "homeTeam": "Flamengo",
@@ -266,7 +248,7 @@
             "time": "2025-04-10T01:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil - S\u00e9rie A",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd5.php",
                 "https://sportzonline.ps/channels/hd/hd11.php",
@@ -275,9 +257,27 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-flamengo-vs-central-c-rdoba-sde-live-stream",
             "id": "live-flamengo-vs-central-c-rdoba-sde-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086090/match_banners/live-flamengo-vs-central-c-rdoba-sde-live-stream.png"
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flamengo_braz_logo.svg/250px-Flamengo_braz_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Escudo_del_Club_Central_C%C3%B3rdoba_de_Santiago_del_Estero.svg/250px-Escudo_del_Club_Central_C%C3%B3rdoba_de_Santiago_del_Estero.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177624/match_banners/live-flamengo-vs-central-c-rdoba-sde-live-stream.png"
+        },
+        {
+            "homeTeam": "Palmeiras",
+            "awayTeam": "Cerro Porte\u00f1o",
+            "time": "2025-04-10T01:30:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Brazil - S\u00e9rie A",
+            "urls": [
+                "https://sportzonline.ps/channels/hd/hd9.php",
+                "https://sportzonline.ps/channels/pt/sporttv1.php",
+                "https://sportzonline.ps/channels/bra/br4.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-palmeiras-vs-cerro-porte-o-live-stream",
+            "id": "live-palmeiras-vs-cerro-porte-o-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Palmeiras_logo.svg/250px-Palmeiras_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Escudo_Club_Cerro_Porte%C3%B1o_2023-Actual.svg/180px-Escudo_Club_Cerro_Porte%C3%B1o_2023-Actual.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177625/match_banners/live-palmeiras-vs-cerro-porte-o-live-stream.png"
         },
         {
             "homeTeam": "Cruzeiro",
@@ -285,16 +285,16 @@
             "time": "2025-04-10T01:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Brazil - S\u00e9rie A",
             "urls": [
                 "https://sportzonline.ps/channels/pt/sporttv3.php",
                 "https://sportzonline.ps/channels/bra/br2.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-cruzeiro-vs-mushuc-runa-live-stream",
             "id": "live-cruzeiro-vs-mushuc-runa-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086091/match_banners/live-cruzeiro-vs-mushuc-runa-live-stream.png"
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/250px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Mushuc_Runa_SC.png/250px-Mushuc_Runa_SC.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177626/match_banners/live-cruzeiro-vs-mushuc-runa-live-stream.png"
         },
         {
             "homeTeam": "Lan\u00fas",
@@ -302,16 +302,16 @@
             "time": "2025-04-10T01:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Peru - Liga 1",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd10.php",
                 "https://sportzonline.ps/channels/bra/br6.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-lan-s-vs-melgar-live-stream",
             "id": "live-lan-s-vs-melgar-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086092/match_banners/live-lan-s-vs-melgar-live-stream.png"
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Club_Atl%C3%A9tico_Lan%C3%BAs_Logo.svg/250px-Club_Atl%C3%A9tico_Lan%C3%BAs_Logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Fbc_melgar2183819381.jpg/250px-Fbc_melgar2183819381.jpg",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177627/match_banners/live-lan-s-vs-melgar-live-stream.png"
         },
         {
             "homeTeam": "LDU Quito",
@@ -319,15 +319,15 @@
             "time": "2025-04-10T03:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Ecuadorian LigaPro",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd5.php",
                 "https://sportzonline.ps/channels/hd/hd11.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-ldu-quito-vs-deportivo-t-chira-live-stream",
             "id": "live-ldu-quito-vs-deportivo-t-chira-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Liga_de_Quito_deportiva.png/250px-Liga_de_Quito_deportiva.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Deportivo_T%C3%A1chira.png/210px-Deportivo_T%C3%A1chira.png",
             "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086093/match_banners/live-ldu-quito-vs-deportivo-t-chira-live-stream.png"
         },
         {
@@ -336,14 +336,14 @@
             "time": "2025-04-10T03:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Mexico LigaMX",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd1.php",
                 "https://sportzonline.ps/channels/hd/hd8.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-pumas-unam-vs-vancouver-whitecaps-live-stream",
             "id": "live-pumas-unam-vs-vancouver-whitecaps-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Club_Universidad_Nacional_logo.svg/195px-Club_Universidad_Nacional_logo.svg.png",
             "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Vancouver_Whitecaps_FC_logo.svg/250px-Vancouver_Whitecaps_FC_logo.svg.png",
             "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744086094/match_banners/live-pumas-unam-vs-vancouver-whitecaps-live-stream.png"
         },
@@ -353,7 +353,7 @@
             "time": "2025-04-10T12:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "TFF First League",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd10.php"
             ],
@@ -385,7 +385,7 @@
             "time": "2025-04-10T17:45:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Conference League",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd1.php",
                 "https://sportzonline.ps/channels/hd/hd9.php",
@@ -394,9 +394,9 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-legia-warszawa-vs-chelsea-live-stream",
             "id": "live-legia-warszawa-vs-chelsea-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172512/match_banners/live-legia-warszawa-vs-chelsea-live-stream.png"
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Legia_Warsaw_logo.svg/150px-Legia_Warsaw_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/200px-Chelsea_FC.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177633/match_banners/live-legia-warszawa-vs-chelsea-live-stream.png"
         },
         {
             "homeTeam": "Bod\u00f8 / Glimt",
@@ -404,7 +404,7 @@
             "time": "2025-04-10T17:45:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Europa League",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd11.php",
                 "https://sportzonline.ps/channels/hd/hd7.php",
@@ -413,9 +413,9 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-bod-glimt-vs-lazio-live-stream",
             "id": "live-bod-glimt-vs-lazio-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172514/match_banners/live-bod-glimt-vs-lazio-live-stream.png"
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/FK_Bodo_Glimt_logo.svg/185px-FK_Bodo_Glimt_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/S.S._Lazio_badge.svg/250px-S.S._Lazio_badge.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177634/match_banners/live-bod-glimt-vs-lazio-live-stream.png"
         },
         {
             "homeTeam": "Adanaspor",
@@ -423,14 +423,14 @@
             "time": "2025-04-10T18:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "TFF First League",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd10.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-adanaspor-vs-kocaelispor-live-stream",
             "id": "live-adanaspor-vs-kocaelispor-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Adanaspor_logo.svg/250px-Adanaspor_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Kocaelispor_current_logo.png/250px-Kocaelispor_current_logo.png",
             "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172515/match_banners/live-adanaspor-vs-kocaelispor-live-stream.png"
         },
         {
@@ -439,14 +439,14 @@
             "time": "2025-04-10T19:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Saudi Pro League",
             "urls": [
                 "https://sportzonline.ps/channels/pt/sporttv1.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-al-ittihad-vs-al-orubah-live-stream",
             "id": "live-al-ittihad-vs-al-orubah-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Al-Ittihad_Club_%28Jeddah%29_logo.svg/250px-Al-Ittihad_Club_%28Jeddah%29_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Al-Orobah_Logo.svg/120px-Al-Orobah_Logo.svg.png",
             "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172516/match_banners/live-al-ittihad-vs-al-orubah-live-stream.png"
         },
         {
@@ -455,50 +455,31 @@
             "time": "2025-04-10T19:30:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "Euro League Basketball",
             "urls": [
                 "https://sportzonline.ps/channels/pt/sporttv2.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-euro-league-basketball-partizan-vs-real-madrid-live-stream",
             "id": "live-euro-league-basketball-partizan-vs-real-madrid-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172517/match_banners/live-euro-league-basketball-partizan-vs-real-madrid-live-stream.png"
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Basketball_current_event.svg/40px-Basketball_current_event.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/250px-Real_Madrid_CF.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177637/match_banners/live-euro-league-basketball-partizan-vs-real-madrid-live-stream.png"
         },
         {
-            "homeTeam": "Celje",
-            "awayTeam": "Fiorentina",
+            "homeTeam": "Djurg\u00e5rden",
+            "awayTeam": "Rapid Wien",
             "time": "2025-04-10T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Conference League",
             "urls": [
-                "https://sportzonline.ps/channels/hd/hd11.php",
-                "https://sportzonline.ps/channels/hd/hd7.php"
+                "https://sportzonline.ps/channels/hd/hd10.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-celje-vs-fiorentina-live-stream",
-            "id": "live-celje-vs-fiorentina-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172518/match_banners/live-celje-vs-fiorentina-live-stream.png"
-        },
-        {
-            "homeTeam": "Rangers",
-            "awayTeam": "Athletic Club",
-            "time": "2025-04-10T20:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd2.php",
-                "https://sportzonline.ps/channels/hd/hd6.php",
-                "https://sportzonline.ps/channels/pt/eleven2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-rangers-vs-athletic-club-live-stream",
-            "id": "live-rangers-vs-athletic-club-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172519/match_banners/live-rangers-vs-athletic-club-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-djurg-rden-vs-rapid-wien-live-stream",
+            "id": "live-djurg-rden-vs-rapid-wien-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Djurgardens_IF_logo.svg/250px-Djurgardens_IF_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/SK_Rapid_Wien_Logo.svg/250px-SK_Rapid_Wien_Logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172522/match_banners/live-djurg-rden-vs-rapid-wien-live-stream.png"
         },
         {
             "homeTeam": "Tottenham Hotspur",
@@ -506,7 +487,7 @@
             "time": "2025-04-10T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Europa League",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd5.php",
                 "https://sportzonline.ps/channels/hd/hd3.php",
@@ -515,9 +496,9 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-tottenham-hotspur-vs-eintracht-frankfurt-live-stream",
             "id": "live-tottenham-hotspur-vs-eintracht-frankfurt-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172519/match_banners/live-tottenham-hotspur-vs-eintracht-frankfurt-live-stream.png"
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/120px-Tottenham_Hotspur.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/250px-Eintracht_Frankfurt_crest.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177638/match_banners/live-tottenham-hotspur-vs-eintracht-frankfurt-live-stream.png"
         },
         {
             "homeTeam": "Olympique Lyonnais",
@@ -525,7 +506,7 @@
             "time": "2025-04-10T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Europa League",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd1.php",
                 "https://sportzonline.ps/channels/hd/hd4.php",
@@ -534,9 +515,26 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-olympique-lyonnais-vs-manchester-united-live-stream",
             "id": "live-olympique-lyonnais-vs-manchester-united-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172520/match_banners/live-olympique-lyonnais-vs-manchester-united-live-stream.png"
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/250px-Olympique_Lyonnais_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/210px-Manchester_United_FC_crest.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177639/match_banners/live-olympique-lyonnais-vs-manchester-united-live-stream.png"
+        },
+        {
+            "homeTeam": "Celje",
+            "awayTeam": "Fiorentina",
+            "time": "2025-04-10T20:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "UEFA Conference League",
+            "urls": [
+                "https://sportzonline.ps/channels/hd/hd11.php",
+                "https://sportzonline.ps/channels/hd/hd7.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-celje-vs-fiorentina-live-stream",
+            "id": "live-celje-vs-fiorentina-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/NK_Celje.png/250px-NK_Celje.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/220px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177640/match_banners/live-celje-vs-fiorentina-live-stream.png"
         },
         {
             "homeTeam": "Real Betis",
@@ -544,51 +542,34 @@
             "time": "2025-04-10T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Conference League",
             "urls": [
                 "https://sportzonline.ps/channels/hd/hd9.php",
                 "https://sportzonline.ps/channels/pt/eleven3.php"
             ],
             "eventUrl": "https://livesports808.top/watch/live-real-betis-vs-jagiellonia-bia-ystok-live-stream",
             "id": "live-real-betis-vs-jagiellonia-bia-ystok-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172521/match_banners/live-real-betis-vs-jagiellonia-bia-ystok-live-stream.png"
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Real_betis_logo.svg/220px-Real_betis_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/Jagiellonia_Bia%C5%82ystok_logo.svg/150px-Jagiellonia_Bia%C5%82ystok_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177641/match_banners/live-real-betis-vs-jagiellonia-bia-ystok-live-stream.png"
         },
         {
-            "homeTeam": "Djurg\u00e5rden",
-            "awayTeam": "Rapid Wien",
+            "homeTeam": "Rangers",
+            "awayTeam": "Athletic Club",
             "time": "2025-04-10T20:00:00+01:00",
             "commentator": "Chawali",
             "channel": "FooTV SPORT",
-            "competition": "League Event",
+            "competition": "UEFA Europa League",
             "urls": [
-                "https://sportzonline.ps/channels/hd/hd10.php"
+                "https://sportzonline.ps/channels/hd/hd2.php",
+                "https://sportzonline.ps/channels/hd/hd6.php",
+                "https://sportzonline.ps/channels/pt/eleven2.php"
             ],
-            "eventUrl": "https://livesports808.top/watch/live-djurg-rden-vs-rapid-wien-live-stream",
-            "id": "live-djurg-rden-vs-rapid-wien-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172522/match_banners/live-djurg-rden-vs-rapid-wien-live-stream.png"
-        },
-        {
-            "homeTeam": "Internacional",
-            "awayTeam": "Atl\u00e9tico Nacional",
-            "time": "2025-04-10T23:00:00+01:00",
-            "commentator": "Chawali",
-            "channel": "FooTV SPORT",
-            "competition": "League Event",
-            "urls": [
-                "https://sportzonline.ps/channels/hd/hd5.php",
-                "https://sportzonline.ps/channels/hd/hd11.php",
-                "https://sportzonline.ps/channels/pt/sporttv1.php",
-                "https://sportzonline.ps/channels/bra/br2.php"
-            ],
-            "eventUrl": "https://livesports808.top/watch/live-internacional-vs-atl-tico-nacional-live-stream",
-            "id": "live-internacional-vs-atl-tico-nacional-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172523/match_banners/live-internacional-vs-atl-tico-nacional-live-stream.png"
+            "eventUrl": "https://livesports808.top/watch/live-rangers-vs-athletic-club-live-stream",
+            "id": "live-rangers-vs-athletic-club-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/250px-Rangers_FC.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Club_Athletic_Bilbao_logo.svg/170px-Club_Athletic_Bilbao_logo.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177642/match_banners/live-rangers-vs-athletic-club-live-stream.png"
         },
         {
             "homeTeam": "Racing Club",
@@ -602,9 +583,9 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-racing-club-vs-atl-tico-bucaramanga-live-stream",
             "id": "live-racing-club-vs-atl-tico-bucaramanga-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172524/match_banners/live-racing-club-vs-atl-tico-bucaramanga-live-stream.png"
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Escudo_de_Racing_Club_%282014%29.svg/150px-Escudo_de_Racing_Club_%282014%29.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Escudo_Atl%C3%A9tico_Bucaramanga_2024.png/250px-Escudo_Atl%C3%A9tico_Bucaramanga_2024.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177643/match_banners/live-racing-club-vs-atl-tico-bucaramanga-live-stream.png"
         },
         {
             "homeTeam": "Defensa y Justicia",
@@ -619,9 +600,28 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-defensa-y-justicia-vs-vit-ria-live-stream",
             "id": "live-defensa-y-justicia-vs-vit-ria-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Escudo_del_Club_Social_y_Deportivo_Defensa_y_Justicia.svg/250px-Escudo_del_Club_Social_y_Deportivo_Defensa_y_Justicia.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Vit%C3%B3ria_F.C._logo.png/250px-Vit%C3%B3ria_F.C._logo.png",
             "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172525/match_banners/live-defensa-y-justicia-vs-vit-ria-live-stream.png"
+        },
+        {
+            "homeTeam": "Internacional",
+            "awayTeam": "Atl\u00e9tico Nacional",
+            "time": "2025-04-10T23:00:00+01:00",
+            "commentator": "Chawali",
+            "channel": "FooTV SPORT",
+            "competition": "Brazil - S\u00e9rie A",
+            "urls": [
+                "https://sportzonline.ps/channels/hd/hd5.php",
+                "https://sportzonline.ps/channels/hd/hd11.php",
+                "https://sportzonline.ps/channels/pt/sporttv1.php",
+                "https://sportzonline.ps/channels/bra/br2.php"
+            ],
+            "eventUrl": "https://livesports808.top/watch/live-internacional-vs-atl-tico-nacional-live-stream",
+            "id": "live-internacional-vs-atl-tico-nacional-live-stream",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/SC_Internacional_Brazil_Logo.svg/250px-SC_Internacional_Brazil_Logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Atl%C3%A9tico_Nacional.png/250px-Atl%C3%A9tico_Nacional.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177644/match_banners/live-internacional-vs-atl-tico-nacional-live-stream.png"
         },
         {
             "homeTeam": "Colo-Colo",
@@ -636,8 +636,8 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-colo-colo-vs-fortaleza-live-stream",
             "id": "live-colo-colo-vs-fortaleza-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Colo-Colo.svg/250px-Colo-Colo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Fortaleza_CEIF_logo.png/155px-Fortaleza_CEIF_logo.png",
             "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172526/match_banners/live-colo-colo-vs-fortaleza-live-stream.png"
         },
         {
@@ -656,8 +656,8 @@
             "eventUrl": "https://livesports808.top/watch/live-s-o-paulo-vs-alianza-lima-live-stream",
             "id": "live-s-o-paulo-vs-alianza-lima-live-stream",
             "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Brasao_do_Sao_Paulo_Futebol_Clube.svg/190px-Brasao_do_Sao_Paulo_Futebol_Clube.svg.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172527/match_banners/live-s-o-paulo-vs-alianza-lima-live-stream.png"
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Escudo_Alianza_Lima.svg/250px-Escudo_Alianza_Lima.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177646/match_banners/live-s-o-paulo-vs-alianza-lima-live-stream.png"
         },
         {
             "homeTeam": "Fluminense",
@@ -672,7 +672,7 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-fluminense-vs-gualberto-villarroel-sj-live-stream",
             "id": "live-fluminense-vs-gualberto-villarroel-sj-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/FFC_crest.svg/250px-FFC_crest.svg.png",
             "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
             "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172528/match_banners/live-fluminense-vs-gualberto-villarroel-sj-live-stream.png"
         },
@@ -689,9 +689,9 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-atl-tico-mineiro-vs-deportes-iquique-live-stream",
             "id": "live-atl-tico-mineiro-vs-deportes-iquique-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172529/match_banners/live-atl-tico-mineiro-vs-deportes-iquique-live-stream.png"
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Clube_Atl%C3%A9tico_Mineiro_crest.svg/250px-Clube_Atl%C3%A9tico_Mineiro_crest.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/07/Deportes_Iquique.png/195px-Deportes_Iquique.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177648/match_banners/live-atl-tico-mineiro-vs-deportes-iquique-live-stream.png"
         },
         {
             "homeTeam": "Cuiab\u00e1",
@@ -705,9 +705,9 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-cuiab-vs-ava-live-stream",
             "id": "live-cuiab-vs-ava-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172530/match_banners/live-cuiab-vs-ava-live-stream.png"
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cuiab%C3%A1_EC.svg/165px-Cuiab%C3%A1_EC.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Avai_FC_%2805-E%29_-_SC.svg/250px-Avai_FC_%2805-E%29_-_SC.svg.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177649/match_banners/live-cuiab-vs-ava-live-stream.png"
         },
         {
             "homeTeam": "Universidad Cat\u00f3lica",
@@ -723,9 +723,9 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-universidad-cat-lica-vs-cerro-largo-live-stream",
             "id": "live-universidad-cat-lica-vs-cerro-largo-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172531/match_banners/live-universidad-cat-lica-vs-cerro-largo-live-stream.png"
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo_Club_Deportivo_Universidad_Cat%C3%B3lica.svg/120px-Escudo_Club_Deportivo_Universidad_Cat%C3%B3lica.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Cerro_Largo_2020.png/250px-Cerro_Largo_2020.png",
+            "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744177649/match_banners/live-universidad-cat-lica-vs-cerro-largo-live-stream.png"
         },
         {
             "homeTeam": "Tijuana",
@@ -739,8 +739,8 @@
             ],
             "eventUrl": "https://livesports808.top/watch/live-tijuana-vs-atl-tico-san-luis-live-stream",
             "id": "live-tijuana-vs-atl-tico-san-luis-live-stream",
-            "homeTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
-            "awayTeamLogo": "https://raw.githubusercontent.com/rotich-brian/LiveSports/refs/heads/main/images/crest_48dp.png",
+            "homeTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Club_Tijuana_logo.svg/250px-Club_Tijuana_logo.svg.png",
+            "awayTeamLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Atl%C3%A9tico_San_Luis_Logo_Proper.svg/250px-Atl%C3%A9tico_San_Luis_Logo_Proper.svg.png",
             "eventBanner": "https://res.cloudinary.com/dfz6fke92/image/upload/v1744172532/match_banners/live-tijuana-vs-atl-tico-san-luis-live-stream.png"
         }
     ]
